@@ -1,0 +1,2921 @@
+service_name,date,rolling_30d_uptime_pct
+Appointment Scheduling,2025-06-15,100.0
+Appointment Scheduling,2025-06-16,100.0
+Appointment Scheduling,2025-06-17,100.0
+Appointment Scheduling,2025-06-18,100.0
+Appointment Scheduling,2025-06-19,100.0
+Appointment Scheduling,2025-06-20,100.0
+Appointment Scheduling,2025-06-21,100.0
+Appointment Scheduling,2025-06-22,100.0
+Appointment Scheduling,2025-06-23,100.0
+Appointment Scheduling,2025-06-24,100.0
+Appointment Scheduling,2025-06-25,99.66536363636364
+Appointment Scheduling,2025-06-26,99.42708333333333
+Appointment Scheduling,2025-06-27,99.47115384615384
+Appointment Scheduling,2025-06-28,99.50892857142857
+Appointment Scheduling,2025-06-29,99.54166666666667
+Appointment Scheduling,2025-06-30,99.5703125
+Appointment Scheduling,2025-07-01,99.59558823529412
+Appointment Scheduling,2025-07-02,99.61805555555556
+Appointment Scheduling,2025-07-03,99.63815789473684
+Appointment Scheduling,2025-07-04,99.52430000000001
+Appointment Scheduling,2025-07-05,99.54695238095238
+Appointment Scheduling,2025-07-06,99.56754545454545
+Appointment Scheduling,2025-07-07,99.58634782608695
+Appointment Scheduling,2025-07-08,99.60358333333333
+Appointment Scheduling,2025-07-09,99.61944
+Appointment Scheduling,2025-07-10,99.63407692307692
+Appointment Scheduling,2025-07-11,99.43159259259258
+Appointment Scheduling,2025-07-12,99.45189285714285
+Appointment Scheduling,2025-07-13,99.47079310344827
+Appointment Scheduling,2025-07-14,99.48843333333333
+Appointment Scheduling,2025-07-15,99.48843333333333
+Appointment Scheduling,2025-07-16,99.48843333333333
+Appointment Scheduling,2025-07-17,99.48843333333333
+Appointment Scheduling,2025-07-18,98.99073333333334
+Appointment Scheduling,2025-07-19,98.99073333333334
+Appointment Scheduling,2025-07-20,98.99073333333334
+Appointment Scheduling,2025-07-21,98.99073333333334
+Appointment Scheduling,2025-07-22,98.99073333333334
+Appointment Scheduling,2025-07-23,98.99073333333334
+Appointment Scheduling,2025-07-24,98.99073333333334
+Appointment Scheduling,2025-07-25,99.11343333333333
+Appointment Scheduling,2025-07-26,98.82406666666667
+Appointment Scheduling,2025-07-27,98.72916666666667
+Appointment Scheduling,2025-07-28,98.72916666666667
+Appointment Scheduling,2025-07-29,98.72916666666667
+Appointment Scheduling,2025-07-30,98.72916666666667
+Appointment Scheduling,2025-07-31,98.72916666666667
+Appointment Scheduling,2025-08-01,98.72916666666667
+Appointment Scheduling,2025-08-02,98.72916666666667
+Appointment Scheduling,2025-08-03,98.81713333333333
+Appointment Scheduling,2025-08-04,98.81713333333333
+Appointment Scheduling,2025-08-05,98.81713333333333
+Appointment Scheduling,2025-08-06,98.81713333333333
+Appointment Scheduling,2025-08-07,98.81713333333333
+Appointment Scheduling,2025-08-08,98.81713333333333
+Appointment Scheduling,2025-08-09,98.81713333333333
+Appointment Scheduling,2025-08-10,99.01156666666667
+Appointment Scheduling,2025-08-11,99.01156666666667
+Appointment Scheduling,2025-08-12,99.01156666666667
+Appointment Scheduling,2025-08-13,99.01156666666667
+Appointment Scheduling,2025-08-14,98.58333333333333
+Appointment Scheduling,2025-08-15,98.58333333333333
+Appointment Scheduling,2025-08-16,98.58333333333333
+Appointment Scheduling,2025-08-17,99.08103333333334
+Appointment Scheduling,2025-08-18,99.08103333333334
+Appointment Scheduling,2025-08-19,98.67826666666666
+Appointment Scheduling,2025-08-20,98.67826666666666
+Appointment Scheduling,2025-08-21,98.67826666666666
+Appointment Scheduling,2025-08-22,98.67826666666666
+Appointment Scheduling,2025-08-23,98.45373333333333
+Appointment Scheduling,2025-08-24,98.45373333333333
+Appointment Scheduling,2025-08-25,98.66206666666668
+Appointment Scheduling,2025-08-26,98.75696666666666
+Appointment Scheduling,2025-08-27,98.75696666666666
+Appointment Scheduling,2025-08-28,98.75696666666666
+Appointment Scheduling,2025-08-29,98.75696666666666
+Appointment Scheduling,2025-08-30,98.75696666666666
+Appointment Scheduling,2025-08-31,98.75696666666666
+Appointment Scheduling,2025-09-01,98.75696666666666
+Appointment Scheduling,2025-09-02,98.75696666666666
+Appointment Scheduling,2025-09-03,98.75696666666666
+Appointment Scheduling,2025-09-04,98.75696666666666
+Appointment Scheduling,2025-09-05,98.75696666666666
+Appointment Scheduling,2025-09-06,98.75696666666666
+Appointment Scheduling,2025-09-07,98.75696666666666
+Appointment Scheduling,2025-09-08,98.75696666666666
+Appointment Scheduling,2025-09-09,98.75696666666666
+Appointment Scheduling,2025-09-10,98.72456666666668
+Appointment Scheduling,2025-09-11,98.72456666666668
+Appointment Scheduling,2025-09-12,98.72456666666668
+Appointment Scheduling,2025-09-13,99.1528
+Appointment Scheduling,2025-09-14,99.1528
+Appointment Scheduling,2025-09-15,99.1528
+Appointment Scheduling,2025-09-16,99.1528
+Appointment Scheduling,2025-09-17,99.1528
+Appointment Scheduling,2025-09-18,99.55556666666666
+Appointment Scheduling,2025-09-19,99.55556666666666
+Appointment Scheduling,2025-09-20,99.55556666666666
+Appointment Scheduling,2025-09-21,99.45603333333334
+Appointment Scheduling,2025-09-22,99.68056666666666
+Appointment Scheduling,2025-09-23,99.58566666666667
+Appointment Scheduling,2025-09-24,99.77316666666667
+Appointment Scheduling,2025-09-25,99.36576666666666
+Appointment Scheduling,2025-09-26,99.36576666666666
+Appointment Scheduling,2025-09-27,99.36576666666666
+Appointment Scheduling,2025-09-28,99.36576666666666
+Appointment Scheduling,2025-09-29,99.33103333333334
+Appointment Scheduling,2025-09-30,99.24306666666666
+Appointment Scheduling,2025-10-01,99.24306666666666
+Appointment Scheduling,2025-10-02,99.24306666666666
+Appointment Scheduling,2025-10-03,99.24306666666666
+Appointment Scheduling,2025-10-04,99.24306666666666
+Appointment Scheduling,2025-10-05,99.15046666666667
+Appointment Scheduling,2025-10-06,99.11806666666666
+Appointment Scheduling,2025-10-07,99.11806666666666
+Appointment Scheduling,2025-10-08,99.11806666666666
+Appointment Scheduling,2025-10-09,99.11806666666666
+Appointment Scheduling,2025-10-10,99.15046666666667
+Appointment Scheduling,2025-10-11,99.15046666666667
+Appointment Scheduling,2025-10-12,99.15046666666667
+Appointment Scheduling,2025-10-13,99.15046666666667
+Appointment Scheduling,2025-10-14,99.15046666666667
+Appointment Scheduling,2025-10-15,99.15046666666667
+Appointment Scheduling,2025-10-16,99.15046666666667
+Appointment Scheduling,2025-10-17,99.15046666666667
+Appointment Scheduling,2025-10-18,99.15046666666667
+Appointment Scheduling,2025-10-19,99.15046666666667
+Appointment Scheduling,2025-10-20,99.15046666666667
+Appointment Scheduling,2025-10-21,99.25
+Appointment Scheduling,2025-10-22,99.25
+Appointment Scheduling,2025-10-23,99.34490000000001
+Appointment Scheduling,2025-10-24,99.34490000000001
+Appointment Scheduling,2025-10-25,99.7523
+Appointment Scheduling,2025-10-26,99.7523
+Appointment Scheduling,2025-10-27,99.7523
+Appointment Scheduling,2025-10-28,99.3171
+Appointment Scheduling,2025-10-29,99.35183333333333
+Appointment Scheduling,2025-10-30,99.4398
+Appointment Scheduling,2025-10-31,99.4398
+Appointment Scheduling,2025-11-01,99.4398
+Appointment Scheduling,2025-11-02,99.4398
+Appointment Scheduling,2025-11-03,99.4398
+Appointment Scheduling,2025-11-04,99.53240000000001
+Appointment Scheduling,2025-11-05,99.5648
+Appointment Scheduling,2025-11-06,99.30553333333334
+Appointment Scheduling,2025-11-07,99.30553333333334
+Appointment Scheduling,2025-11-08,99.30553333333334
+Appointment Scheduling,2025-11-09,99.30553333333334
+Appointment Scheduling,2025-11-10,99.30553333333334
+Appointment Scheduling,2025-11-11,99.30553333333334
+Appointment Scheduling,2025-11-12,99.30553333333334
+Appointment Scheduling,2025-11-13,99.30553333333334
+Appointment Scheduling,2025-11-14,99.30553333333334
+Appointment Scheduling,2025-11-15,99.30553333333334
+Appointment Scheduling,2025-11-16,99.30553333333334
+Appointment Scheduling,2025-11-17,99.30553333333334
+Appointment Scheduling,2025-11-18,99.30553333333334
+Appointment Scheduling,2025-11-19,99.30553333333334
+Appointment Scheduling,2025-11-20,99.30553333333334
+Appointment Scheduling,2025-11-21,99.25693333333334
+Appointment Scheduling,2025-11-22,99.25693333333334
+Appointment Scheduling,2025-11-23,99.0023
+Appointment Scheduling,2025-11-24,99.0023
+Appointment Scheduling,2025-11-25,99.0023
+Appointment Scheduling,2025-11-26,99.0023
+Appointment Scheduling,2025-11-27,99.4375
+Appointment Scheduling,2025-11-28,99.4375
+Appointment Scheduling,2025-11-29,99.4375
+Appointment Scheduling,2025-11-30,99.4375
+Appointment Scheduling,2025-12-01,99.4375
+Appointment Scheduling,2025-12-02,99.4375
+Appointment Scheduling,2025-12-03,99.4375
+Appointment Scheduling,2025-12-04,99.4375
+Appointment Scheduling,2025-12-05,99.4375
+Appointment Scheduling,2025-12-06,99.69676666666666
+Appointment Scheduling,2025-12-07,99.69676666666666
+Appointment Scheduling,2025-12-08,99.69676666666666
+Appointment Scheduling,2025-12-09,99.69676666666666
+Appointment Scheduling,2025-12-10,99.4352
+Appointment Scheduling,2025-12-11,99.4352
+Appointment Scheduling,2025-12-12,99.41436666666667
+Appointment Scheduling,2025-12-13,99.41436666666667
+Appointment Scheduling,2025-12-14,99.41436666666667
+Appointment Scheduling,2025-12-15,99.18983333333334
+Appointment Scheduling,2025-12-16,99.18983333333334
+Appointment Scheduling,2025-12-17,99.18983333333334
+Appointment Scheduling,2025-12-18,99.18983333333334
+Appointment Scheduling,2025-12-19,99.08566666666667
+Appointment Scheduling,2025-12-20,99.08566666666667
+Appointment Scheduling,2025-12-21,99.13426666666666
+Appointment Scheduling,2025-12-22,99.13426666666666
+Appointment Scheduling,2025-12-23,99.11806666666666
+Appointment Scheduling,2025-12-24,99.11806666666666
+Appointment Scheduling,2025-12-25,99.11806666666666
+Appointment Scheduling,2025-12-26,99.11806666666666
+Appointment Scheduling,2025-12-27,99.11806666666666
+Appointment Scheduling,2025-12-28,99.11806666666666
+Appointment Scheduling,2025-12-29,99.11806666666666
+Appointment Scheduling,2025-12-30,99.11806666666666
+Appointment Scheduling,2025-12-31,99.11806666666666
+Appointment Scheduling,2026-01-01,99.11806666666666
+Appointment Scheduling,2026-01-02,99.11806666666666
+Appointment Scheduling,2026-01-03,99.11806666666666
+Appointment Scheduling,2026-01-04,99.11806666666666
+Appointment Scheduling,2026-01-05,99.11806666666666
+Appointment Scheduling,2026-01-06,99.11806666666666
+Appointment Scheduling,2026-01-07,99.11806666666666
+Appointment Scheduling,2026-01-08,99.11806666666666
+Appointment Scheduling,2026-01-09,99.37963333333333
+Appointment Scheduling,2026-01-10,99.16203333333333
+Appointment Scheduling,2026-01-11,99.18286666666667
+Appointment Scheduling,2026-01-12,99.18286666666667
+Appointment Scheduling,2026-01-13,99.18286666666667
+Appointment Scheduling,2026-01-14,99.40740000000001
+Appointment Scheduling,2026-01-15,99.36343333333333
+Appointment Scheduling,2026-01-16,99.36343333333333
+Appointment Scheduling,2026-01-17,99.36343333333333
+Appointment Scheduling,2026-01-18,99.46759999999999
+Appointment Scheduling,2026-01-19,99.46759999999999
+Appointment Scheduling,2026-01-20,99.46759999999999
+Appointment Scheduling,2026-01-21,99.46759999999999
+Appointment Scheduling,2026-01-22,99.73843333333333
+Appointment Scheduling,2026-01-23,99.52316666666667
+Appointment Scheduling,2026-01-24,99.52316666666667
+Appointment Scheduling,2026-01-25,99.52316666666667
+Appointment Scheduling,2026-01-26,99.52316666666667
+Appointment Scheduling,2026-01-27,99.50003333333333
+Appointment Scheduling,2026-01-28,99.50003333333333
+Appointment Scheduling,2026-01-29,99.50003333333333
+Appointment Scheduling,2026-01-30,99.23383333333332
+Appointment Scheduling,2026-01-31,99.23383333333332
+Appointment Scheduling,2026-02-01,99.23383333333332
+Appointment Scheduling,2026-02-02,99.23383333333332
+Appointment Scheduling,2026-02-03,99.00236666666666
+Appointment Scheduling,2026-02-04,99.00236666666666
+Appointment Scheduling,2026-02-05,99.00236666666666
+Appointment Scheduling,2026-02-06,99.00236666666666
+Appointment Scheduling,2026-02-07,99.00236666666666
+Appointment Scheduling,2026-02-08,99.00236666666666
+Appointment Scheduling,2026-02-09,99.21996666666668
+Appointment Scheduling,2026-02-10,99.21996666666668
+Appointment Scheduling,2026-02-11,99.21996666666668
+Appointment Scheduling,2026-02-12,99.21996666666668
+Appointment Scheduling,2026-02-13,99.21996666666668
+Appointment Scheduling,2026-02-14,99.26393333333334
+Appointment Scheduling,2026-02-15,99.26393333333334
+Appointment Scheduling,2026-02-16,99.13893333333334
+Appointment Scheduling,2026-02-17,99.13893333333334
+Appointment Scheduling,2026-02-18,98.8982
+Appointment Scheduling,2026-02-19,98.8982
+Appointment Scheduling,2026-02-20,98.8681
+Appointment Scheduling,2026-02-21,98.8681
+Appointment Scheduling,2026-02-22,98.87273333333333
+Appointment Scheduling,2026-02-23,98.87273333333333
+Appointment Scheduling,2026-02-24,98.87273333333333
+Appointment Scheduling,2026-02-25,98.87273333333333
+Appointment Scheduling,2026-02-26,98.713
+Appointment Scheduling,2026-02-27,98.37966666666667
+Appointment Scheduling,2026-02-28,98.37966666666667
+Appointment Scheduling,2026-03-01,98.64586666666668
+Appointment Scheduling,2026-03-02,98.17596666666667
+Appointment Scheduling,2026-03-03,97.7732
+Appointment Scheduling,2026-03-04,97.7732
+Appointment Scheduling,2026-03-05,98.00466666666667
+Appointment Scheduling,2026-03-06,97.96763333333334
+Appointment Scheduling,2026-03-07,97.96763333333334
+Appointment Scheduling,2026-03-08,97.96763333333334
+Appointment Scheduling,2026-03-09,97.96763333333334
+Appointment Scheduling,2026-03-10,97.96763333333334
+Appointment Scheduling,2026-03-11,97.96763333333334
+Appointment Scheduling,2026-03-12,97.96763333333334
+Appointment Scheduling,2026-03-13,97.96763333333334
+Appointment Scheduling,2026-03-14,97.96763333333334
+Appointment Scheduling,2026-03-15,97.96763333333334
+Appointment Scheduling,2026-03-16,97.96763333333334
+Appointment Scheduling,2026-03-17,97.96763333333334
+Appointment Scheduling,2026-03-18,98.09263333333334
+Appointment Scheduling,2026-03-19,98.09263333333334
+Appointment Scheduling,2026-03-20,98.33336666666668
+Appointment Scheduling,2026-03-21,98.33336666666668
+Appointment Scheduling,2026-03-22,98.36346666666667
+Appointment Scheduling,2026-03-23,98.36346666666667
+Appointment Scheduling,2026-03-24,98.5741
+Appointment Scheduling,2026-03-25,98.5741
+Appointment Scheduling,2026-03-26,98.5741
+Appointment Scheduling,2026-03-27,98.5741
+Appointment Scheduling,2026-03-28,98.75696666666666
+Appointment Scheduling,2026-03-29,99.0903
+Appointment Scheduling,2026-03-30,99.0903
+Appointment Scheduling,2026-03-31,99.0903
+Appointment Scheduling,2026-04-01,99.5602
+Appointment Scheduling,2026-04-02,99.96296666666667
+Appointment Scheduling,2026-04-03,99.96296666666667
+Appointment Scheduling,2026-04-04,99.96296666666667
+Appointment Scheduling,2026-04-05,100.0
+Appointment Scheduling,2026-04-06,100.0
+Appointment Scheduling,2026-04-07,100.0
+Appointment Scheduling,2026-04-08,100.0
+Appointment Scheduling,2026-04-09,100.0
+Appointment Scheduling,2026-04-10,100.0
+Appointment Scheduling,2026-04-11,99.82639999999999
+Appointment Scheduling,2026-04-12,99.82639999999999
+Appointment Scheduling,2026-04-13,99.82639999999999
+Appointment Scheduling,2026-04-14,99.82639999999999
+Appointment Scheduling,2026-04-15,99.82639999999999
+Appointment Scheduling,2026-04-16,99.82639999999999
+Appointment Scheduling,2026-04-17,99.82639999999999
+Appointment Scheduling,2026-04-18,99.82639999999999
+Appointment Scheduling,2026-04-19,99.82639999999999
+Appointment Scheduling,2026-04-20,99.82639999999999
+Appointment Scheduling,2026-04-21,99.82639999999999
+Appointment Scheduling,2026-04-22,99.82639999999999
+Appointment Scheduling,2026-04-23,99.82639999999999
+Appointment Scheduling,2026-04-24,99.82639999999999
+Appointment Scheduling,2026-04-25,99.82639999999999
+Appointment Scheduling,2026-04-26,99.82639999999999
+Appointment Scheduling,2026-04-27,99.82639999999999
+Appointment Scheduling,2026-04-28,99.82639999999999
+Appointment Scheduling,2026-04-29,99.82639999999999
+Appointment Scheduling,2026-04-30,99.82639999999999
+Appointment Scheduling,2026-05-01,99.82639999999999
+Appointment Scheduling,2026-05-02,99.82639999999999
+Appointment Scheduling,2026-05-03,99.64583333333333
+Appointment Scheduling,2026-05-04,99.64583333333333
+Appointment Scheduling,2026-05-05,99.39583333333333
+Appointment Scheduling,2026-05-06,99.39583333333333
+Appointment Scheduling,2026-05-07,99.39583333333333
+Appointment Scheduling,2026-05-08,99.39583333333333
+Appointment Scheduling,2026-05-09,99.39583333333333
+Appointment Scheduling,2026-05-10,99.39583333333333
+Appointment Scheduling,2026-05-11,99.56943333333334
+Appointment Scheduling,2026-05-12,99.56943333333334
+Appointment Scheduling,2026-05-13,99.56943333333334
+Appointment Scheduling,2026-05-14,99.56943333333334
+Appointment Scheduling,2026-05-15,99.56943333333334
+Appointment Scheduling,2026-05-16,99.56943333333334
+Appointment Scheduling,2026-05-17,99.56943333333334
+Appointment Scheduling,2026-05-18,99.56943333333334
+Appointment Scheduling,2026-05-19,99.56943333333334
+Appointment Scheduling,2026-05-20,99.56943333333334
+Appointment Scheduling,2026-05-21,99.56943333333334
+Appointment Scheduling,2026-05-22,99.56943333333334
+Appointment Scheduling,2026-05-23,99.56943333333334
+Appointment Scheduling,2026-05-24,99.56943333333334
+Appointment Scheduling,2026-05-25,99.3148
+Appointment Scheduling,2026-05-26,99.3148
+Appointment Scheduling,2026-05-27,99.3148
+Appointment Scheduling,2026-05-28,99.3148
+Appointment Scheduling,2026-05-29,99.3148
+Appointment Scheduling,2026-05-30,99.13193333333334
+Appointment Scheduling,2026-05-31,99.13193333333334
+Appointment Scheduling,2026-06-01,99.13193333333334
+Appointment Scheduling,2026-06-02,99.17360000000001
+Appointment Scheduling,2026-06-03,98.90046666666667
+Appointment Scheduling,2026-06-04,98.86573333333334
+Appointment Scheduling,2026-06-05,98.86573333333334
+Appointment Scheduling,2026-06-06,98.86573333333334
+Appointment Scheduling,2026-06-07,98.86573333333334
+Appointment Scheduling,2026-06-08,98.76386666666667
+Appointment Scheduling,2026-06-09,98.76386666666667
+Appointment Scheduling,2026-06-10,98.76386666666667
+Appointment Scheduling,2026-06-11,98.76386666666667
+Appointment Scheduling,2026-06-12,98.76386666666667
+Appointment Scheduling,2026-06-13,98.76386666666667
+Appointment Scheduling,2026-06-14,98.76386666666667
+Authentication Service,2025-06-15,100.0
+Authentication Service,2025-06-16,100.0
+Authentication Service,2025-06-17,100.0
+Authentication Service,2025-06-18,99.40975
+Authentication Service,2025-06-19,99.5278
+Authentication Service,2025-06-20,99.051
+Authentication Service,2025-06-21,99.18657142857144
+Authentication Service,2025-06-22,99.28825
+Authentication Service,2025-06-23,99.36733333333333
+Authentication Service,2025-06-24,99.4306
+Authentication Service,2025-06-25,99.48236363636364
+Authentication Service,2025-06-26,99.13775
+Authentication Service,2025-06-27,99.20407692307693
+Authentication Service,2025-06-28,99.26092857142858
+Authentication Service,2025-06-29,99.3102
+Authentication Service,2025-06-30,99.3533125
+Authentication Service,2025-07-01,99.39135294117648
+Authentication Service,2025-07-02,99.375
+Authentication Service,2025-07-03,99.40789473684211
+Authentication Service,2025-07-04,99.2778
+Authentication Service,2025-07-05,99.31219047619048
+Authentication Service,2025-07-06,99.34345454545455
+Authentication Service,2025-07-07,99.33878260869565
+Authentication Service,2025-07-08,99.36633333333333
+Authentication Service,2025-07-09,99.06111999999999
+Authentication Service,2025-07-10,99.09723076923076
+Authentication Service,2025-07-11,99.13066666666666
+Authentication Service,2025-07-12,99.16171428571428
+Authentication Service,2025-07-13,98.92003448275862
+Authentication Service,2025-07-14,98.95603333333334
+Authentication Service,2025-07-15,98.95603333333334
+Authentication Service,2025-07-16,98.43056666666666
+Authentication Service,2025-07-17,98.43056666666666
+Authentication Service,2025-07-18,98.43056666666666
+Authentication Service,2025-07-19,98.43056666666666
+Authentication Service,2025-07-20,98.54166666666667
+Authentication Service,2025-07-21,98.47686666666667
+Authentication Service,2025-07-22,98.47686666666667
+Authentication Service,2025-07-23,98.47686666666667
+Authentication Service,2025-07-24,98.47686666666667
+Authentication Service,2025-07-25,98.47686666666667
+Authentication Service,2025-07-26,98.63196666666666
+Authentication Service,2025-07-27,98.63196666666666
+Authentication Service,2025-07-28,98.63196666666666
+Authentication Service,2025-07-29,98.63196666666666
+Authentication Service,2025-07-30,98.63196666666666
+Authentication Service,2025-07-31,98.63196666666666
+Authentication Service,2025-08-01,98.66206666666668
+Authentication Service,2025-08-02,98.66206666666668
+Authentication Service,2025-08-03,98.65509999999999
+Authentication Service,2025-08-04,98.65509999999999
+Authentication Service,2025-08-05,98.65509999999999
+Authentication Service,2025-08-06,98.68056666666666
+Authentication Service,2025-08-07,98.6412
+Authentication Service,2025-08-08,98.91666666666667
+Authentication Service,2025-08-09,98.84490000000001
+Authentication Service,2025-08-10,98.84490000000001
+Authentication Service,2025-08-11,98.84490000000001
+Authentication Service,2025-08-12,99.10646666666666
+Authentication Service,2025-08-13,99.10646666666666
+Authentication Service,2025-08-14,99.10646666666666
+Authentication Service,2025-08-15,99.63193333333334
+Authentication Service,2025-08-16,99.63193333333334
+Authentication Service,2025-08-17,99.71063333333333
+Authentication Service,2025-08-18,99.71063333333333
+Authentication Service,2025-08-19,99.71063333333333
+Authentication Service,2025-08-20,99.46986666666666
+Authentication Service,2025-08-21,99.46986666666666
+Authentication Service,2025-08-22,99.46986666666666
+Authentication Service,2025-08-23,99.46986666666666
+Authentication Service,2025-08-24,99.46986666666666
+Authentication Service,2025-08-25,99.46986666666666
+Authentication Service,2025-08-26,99.1296
+Authentication Service,2025-08-27,99.1296
+Authentication Service,2025-08-28,99.1296
+Authentication Service,2025-08-29,99.1296
+Authentication Service,2025-08-30,99.1296
+Authentication Service,2025-08-31,99.1296
+Authentication Service,2025-09-01,99.1296
+Authentication Service,2025-09-02,99.24303333333334
+Authentication Service,2025-09-03,99.24303333333334
+Authentication Service,2025-09-04,99.24303333333334
+Authentication Service,2025-09-05,99.24303333333334
+Authentication Service,2025-09-06,99.28240000000001
+Authentication Service,2025-09-07,99.19443333333334
+Authentication Service,2025-09-08,99.2662
+Authentication Service,2025-09-09,99.2662
+Authentication Service,2025-09-10,99.23843333333333
+Authentication Service,2025-09-11,99.23843333333333
+Authentication Service,2025-09-12,99.23843333333333
+Authentication Service,2025-09-13,99.23843333333333
+Authentication Service,2025-09-14,99.23843333333333
+Authentication Service,2025-09-15,99.23843333333333
+Authentication Service,2025-09-16,99.13426666666666
+Authentication Service,2025-09-17,99.13426666666666
+Authentication Service,2025-09-18,99.13426666666666
+Authentication Service,2025-09-19,99.43983333333334
+Authentication Service,2025-09-20,99.43983333333334
+Authentication Service,2025-09-21,99.43983333333334
+Authentication Service,2025-09-22,99.43983333333334
+Authentication Service,2025-09-23,99.43983333333334
+Authentication Service,2025-09-24,99.43983333333334
+Authentication Service,2025-09-25,99.78009999999999
+Authentication Service,2025-09-26,99.61806666666666
+Authentication Service,2025-09-27,99.61806666666666
+Authentication Service,2025-09-28,99.61806666666666
+Authentication Service,2025-09-29,99.61806666666666
+Authentication Service,2025-09-30,99.29863333333333
+Authentication Service,2025-10-01,99.29863333333333
+Authentication Service,2025-10-02,99.29863333333333
+Authentication Service,2025-10-03,99.29863333333333
+Authentication Service,2025-10-04,99.29863333333333
+Authentication Service,2025-10-05,99.29863333333333
+Authentication Service,2025-10-06,99.29863333333333
+Authentication Service,2025-10-07,99.22456666666668
+Authentication Service,2025-10-08,99.22456666666668
+Authentication Service,2025-10-09,99.10883333333332
+Authentication Service,2025-10-10,99.1366
+Authentication Service,2025-10-11,99.1366
+Authentication Service,2025-10-12,99.1366
+Authentication Service,2025-10-13,99.1366
+Authentication Service,2025-10-14,99.1366
+Authentication Service,2025-10-15,99.1366
+Authentication Service,2025-10-16,99.24076666666666
+Authentication Service,2025-10-17,99.24076666666666
+Authentication Service,2025-10-18,99.24076666666666
+Authentication Service,2025-10-19,99.24076666666666
+Authentication Service,2025-10-20,99.24076666666666
+Authentication Service,2025-10-21,99.24076666666666
+Authentication Service,2025-10-22,99.24076666666666
+Authentication Service,2025-10-23,99.24076666666666
+Authentication Service,2025-10-24,99.24076666666666
+Authentication Service,2025-10-25,99.24076666666666
+Authentication Service,2025-10-26,99.4028
+Authentication Service,2025-10-27,99.4028
+Authentication Service,2025-10-28,99.4028
+Authentication Service,2025-10-29,99.4028
+Authentication Service,2025-10-30,99.72223333333334
+Authentication Service,2025-10-31,99.72223333333334
+Authentication Service,2025-11-01,99.72223333333334
+Authentication Service,2025-11-02,99.72223333333334
+Authentication Service,2025-11-03,99.72223333333334
+Authentication Service,2025-11-04,99.72223333333334
+Authentication Service,2025-11-05,99.72223333333334
+Authentication Service,2025-11-06,99.88426666666666
+Authentication Service,2025-11-07,99.82639999999999
+Authentication Service,2025-11-08,99.94213333333333
+Authentication Service,2025-11-09,99.5463
+Authentication Service,2025-11-10,99.5463
+Authentication Service,2025-11-11,99.5463
+Authentication Service,2025-11-12,99.5463
+Authentication Service,2025-11-13,99.5463
+Authentication Service,2025-11-14,99.5463
+Authentication Service,2025-11-15,99.5463
+Authentication Service,2025-11-16,99.5463
+Authentication Service,2025-11-17,99.5463
+Authentication Service,2025-11-18,99.5463
+Authentication Service,2025-11-19,99.5463
+Authentication Service,2025-11-20,99.5463
+Authentication Service,2025-11-21,99.5463
+Authentication Service,2025-11-22,99.5463
+Authentication Service,2025-11-23,99.5463
+Authentication Service,2025-11-24,99.48150000000001
+Authentication Service,2025-11-25,99.48150000000001
+Authentication Service,2025-11-26,99.48150000000001
+Authentication Service,2025-11-27,99.48150000000001
+Authentication Service,2025-11-28,99.48150000000001
+Authentication Service,2025-11-29,99.48150000000001
+Authentication Service,2025-11-30,99.48150000000001
+Authentication Service,2025-12-01,99.48150000000001
+Authentication Service,2025-12-02,99.48150000000001
+Authentication Service,2025-12-03,99.48150000000001
+Authentication Service,2025-12-04,99.35650000000001
+Authentication Service,2025-12-05,99.35650000000001
+Authentication Service,2025-12-06,99.35650000000001
+Authentication Service,2025-12-07,99.41436666666667
+Authentication Service,2025-12-08,99.41436666666667
+Authentication Service,2025-12-09,99.8102
+Authentication Service,2025-12-10,99.8102
+Authentication Service,2025-12-11,99.8102
+Authentication Service,2025-12-12,99.8102
+Authentication Service,2025-12-13,99.8102
+Authentication Service,2025-12-14,99.8102
+Authentication Service,2025-12-15,99.8102
+Authentication Service,2025-12-16,99.8102
+Authentication Service,2025-12-17,99.8102
+Authentication Service,2025-12-18,99.8102
+Authentication Service,2025-12-19,99.8102
+Authentication Service,2025-12-20,99.8102
+Authentication Service,2025-12-21,99.8102
+Authentication Service,2025-12-22,99.8102
+Authentication Service,2025-12-23,99.8102
+Authentication Service,2025-12-24,99.875
+Authentication Service,2025-12-25,99.61573333333334
+Authentication Service,2025-12-26,99.61573333333334
+Authentication Service,2025-12-27,99.61573333333334
+Authentication Service,2025-12-28,99.61573333333334
+Authentication Service,2025-12-29,99.48146666666666
+Authentication Service,2025-12-30,99.48146666666666
+Authentication Service,2025-12-31,99.48146666666666
+Authentication Service,2026-01-01,99.48146666666666
+Authentication Service,2026-01-02,99.38656666666667
+Authentication Service,2026-01-03,99.51156666666667
+Authentication Service,2026-01-04,99.44443333333334
+Authentication Service,2026-01-05,99.44443333333334
+Authentication Service,2026-01-06,99.31943333333334
+Authentication Service,2026-01-07,99.31943333333334
+Authentication Service,2026-01-08,99.31943333333334
+Authentication Service,2026-01-09,99.31943333333334
+Authentication Service,2026-01-10,99.31943333333334
+Authentication Service,2026-01-11,99.31943333333334
+Authentication Service,2026-01-12,99.31943333333334
+Authentication Service,2026-01-13,98.22683333333333
+Authentication Service,2026-01-14,98.22683333333333
+Authentication Service,2026-01-15,98.22683333333333
+Authentication Service,2026-01-16,98.22683333333333
+Authentication Service,2026-01-17,98.22683333333333
+Authentication Service,2026-01-18,98.22683333333333
+Authentication Service,2026-01-19,97.94906666666667
+Authentication Service,2026-01-20,97.94906666666667
+Authentication Service,2026-01-21,97.94906666666667
+Authentication Service,2026-01-22,97.94906666666667
+Authentication Service,2026-01-23,97.86803333333334
+Authentication Service,2026-01-24,98.1273
+Authentication Service,2026-01-25,98.1273
+Authentication Service,2026-01-26,98.1273
+Authentication Service,2026-01-27,97.9421
+Authentication Service,2026-01-28,98.07636666666667
+Authentication Service,2026-01-29,98.07636666666667
+Authentication Service,2026-01-30,97.81016666666666
+Authentication Service,2026-01-31,97.81016666666666
+Authentication Service,2026-02-01,97.90506666666667
+Authentication Service,2026-02-02,97.90506666666667
+Authentication Service,2026-02-03,97.9722
+Authentication Service,2026-02-04,97.9722
+Authentication Service,2026-02-05,97.7384
+Authentication Service,2026-02-06,97.4745
+Authentication Service,2026-02-07,97.26153333333333
+Authentication Service,2026-02-08,97.26153333333333
+Authentication Service,2026-02-09,97.26153333333333
+Authentication Service,2026-02-10,97.26153333333333
+Authentication Service,2026-02-11,97.26153333333333
+Authentication Service,2026-02-12,98.35413333333332
+Authentication Service,2026-02-13,98.35413333333332
+Authentication Service,2026-02-14,98.35413333333332
+Authentication Service,2026-02-15,98.35413333333332
+Authentication Service,2026-02-16,98.35413333333332
+Authentication Service,2026-02-17,98.10876666666667
+Authentication Service,2026-02-18,98.38653333333333
+Authentication Service,2026-02-19,98.38653333333333
+Authentication Service,2026-02-20,98.38653333333333
+Authentication Service,2026-02-21,98.38653333333333
+Authentication Service,2026-02-22,98.46756666666667
+Authentication Service,2026-02-23,98.46756666666667
+Authentication Service,2026-02-24,98.46756666666667
+Authentication Service,2026-02-25,98.24303333333334
+Authentication Service,2026-02-26,98.42823333333334
+Authentication Service,2026-02-27,98.24536666666667
+Authentication Service,2026-02-28,98.24536666666667
+Authentication Service,2026-03-01,98.51156666666667
+Authentication Service,2026-03-02,98.51156666666667
+Authentication Service,2026-03-03,98.51156666666667
+Authentication Service,2026-03-04,98.51156666666667
+Authentication Service,2026-03-05,98.51156666666667
+Authentication Service,2026-03-06,98.42823333333334
+Authentication Service,2026-03-07,98.78703333333333
+Authentication Service,2026-03-08,99.05093333333333
+Authentication Service,2026-03-09,99.26389999999999
+Authentication Service,2026-03-10,99.26389999999999
+Authentication Service,2026-03-11,99.26389999999999
+Authentication Service,2026-03-12,99.13196666666666
+Authentication Service,2026-03-13,99.13196666666666
+Authentication Service,2026-03-14,99.13196666666666
+Authentication Service,2026-03-15,99.13196666666666
+Authentication Service,2026-03-16,99.13196666666666
+Authentication Service,2026-03-17,99.13196666666666
+Authentication Service,2026-03-18,99.13196666666666
+Authentication Service,2026-03-19,99.37733333333334
+Authentication Service,2026-03-20,99.37733333333334
+Authentication Service,2026-03-21,99.37733333333334
+Authentication Service,2026-03-22,99.37733333333334
+Authentication Service,2026-03-23,99.37733333333334
+Authentication Service,2026-03-24,99.37733333333334
+Authentication Service,2026-03-25,99.37733333333334
+Authentication Service,2026-03-26,99.37733333333334
+Authentication Service,2026-03-27,99.60186666666667
+Authentication Service,2026-03-28,99.60186666666667
+Authentication Service,2026-03-29,99.78473333333334
+Authentication Service,2026-03-30,99.78473333333334
+Authentication Service,2026-03-31,99.78473333333334
+Authentication Service,2026-04-01,99.78473333333334
+Authentication Service,2026-04-02,99.64353333333334
+Authentication Service,2026-04-03,99.64353333333334
+Authentication Service,2026-04-04,99.64353333333334
+Authentication Service,2026-04-05,99.72686666666667
+Authentication Service,2026-04-06,99.72686666666667
+Authentication Service,2026-04-07,99.60416666666667
+Authentication Service,2026-04-08,99.60416666666667
+Authentication Service,2026-04-09,99.60416666666667
+Authentication Service,2026-04-10,99.46296666666667
+Authentication Service,2026-04-11,99.59490000000001
+Authentication Service,2026-04-12,99.59490000000001
+Authentication Service,2026-04-13,99.59490000000001
+Authentication Service,2026-04-14,99.59490000000001
+Authentication Service,2026-04-15,99.59490000000001
+Authentication Service,2026-04-16,99.59490000000001
+Authentication Service,2026-04-17,99.55323333333334
+Authentication Service,2026-04-18,99.55323333333334
+Authentication Service,2026-04-19,99.55323333333334
+Authentication Service,2026-04-20,99.55323333333334
+Authentication Service,2026-04-21,99.54166666666667
+Authentication Service,2026-04-22,99.54166666666667
+Authentication Service,2026-04-23,99.54166666666667
+Authentication Service,2026-04-24,99.54166666666667
+Authentication Service,2026-04-25,99.54166666666667
+Authentication Service,2026-04-26,99.54166666666667
+Authentication Service,2026-04-27,99.25
+Authentication Service,2026-04-28,99.25
+Authentication Service,2026-04-29,99.25
+Authentication Service,2026-04-30,99.25
+Authentication Service,2026-05-01,99.25
+Authentication Service,2026-05-02,99.3912
+Authentication Service,2026-05-03,99.3912
+Authentication Service,2026-05-04,99.3912
+Authentication Service,2026-05-05,99.3912
+Authentication Service,2026-05-06,99.3912
+Authentication Service,2026-05-07,99.51389999999999
+Authentication Service,2026-05-08,99.51389999999999
+Authentication Service,2026-05-09,99.51389999999999
+Authentication Service,2026-05-10,99.65509999999999
+Authentication Service,2026-05-11,99.1875
+Authentication Service,2026-05-12,99.1875
+Authentication Service,2026-05-13,99.1875
+Authentication Service,2026-05-14,99.1875
+Authentication Service,2026-05-15,99.08333333333333
+Authentication Service,2026-05-16,99.08333333333333
+Authentication Service,2026-05-17,98.9838
+Authentication Service,2026-05-18,98.85416666666667
+Authentication Service,2026-05-19,98.85416666666667
+Authentication Service,2026-05-20,98.85416666666667
+Authentication Service,2026-05-21,98.86573333333334
+Authentication Service,2026-05-22,98.86573333333334
+Authentication Service,2026-05-23,98.2037
+Authentication Service,2026-05-24,98.2037
+Authentication Service,2026-05-25,98.13889999999999
+Authentication Service,2026-05-26,98.13889999999999
+Authentication Service,2026-05-27,98.43056666666666
+Authentication Service,2026-05-28,98.43056666666666
+Authentication Service,2026-05-29,98.43056666666666
+Authentication Service,2026-05-30,98.32176666666666
+Authentication Service,2026-05-31,98.32176666666666
+Authentication Service,2026-06-01,98.32176666666666
+Authentication Service,2026-06-02,98.28240000000001
+Authentication Service,2026-06-03,98.28240000000001
+Authentication Service,2026-06-04,98.28240000000001
+Authentication Service,2026-06-05,98.28240000000001
+Authentication Service,2026-06-06,98.28240000000001
+Authentication Service,2026-06-07,98.28240000000001
+Authentication Service,2026-06-08,98.28240000000001
+Authentication Service,2026-06-09,98.28240000000001
+Authentication Service,2026-06-10,98.75
+Authentication Service,2026-06-11,98.75
+Authentication Service,2026-06-12,98.75
+Authentication Service,2026-06-13,98.75
+Authentication Service,2026-06-14,98.85416666666667
+Billing Engine,2025-06-15,95.972
+Billing Engine,2025-06-16,97.98599999999999
+Billing Engine,2025-06-17,98.65733333333333
+Billing Engine,2025-06-18,98.35075
+Billing Engine,2025-06-19,98.0418
+Billing Engine,2025-06-20,98.36816666666665
+Billing Engine,2025-06-21,98.60128571428571
+Billing Engine,2025-06-22,97.925375
+Billing Engine,2025-06-23,98.1558888888889
+Billing Engine,2025-06-24,98.3403
+Billing Engine,2025-06-25,97.82199999999999
+Billing Engine,2025-06-26,98.00349999999999
+Billing Engine,2025-06-27,98.15707692307691
+Billing Engine,2025-06-28,98.28871428571428
+Billing Engine,2025-06-29,98.4028
+Billing Engine,2025-06-30,98.502625
+Billing Engine,2025-07-01,98.56617647058823
+Billing Engine,2025-07-02,98.64583333333333
+Billing Engine,2025-07-03,98.71710526315789
+Billing Engine,2025-07-04,98.78125
+Billing Engine,2025-07-05,98.83928571428571
+Billing Engine,2025-07-06,98.89204545454545
+Billing Engine,2025-07-07,98.94021739130434
+Billing Engine,2025-07-08,98.78470833333334
+Billing Engine,2025-07-09,98.83332
+Billing Engine,2025-07-10,98.87819230769232
+Billing Engine,2025-07-11,98.65996296296296
+Billing Engine,2025-07-12,98.70782142857142
+Billing Engine,2025-07-13,98.75237931034482
+Billing Engine,2025-07-14,98.79396666666666
+Billing Engine,2025-07-15,98.92823333333334
+Billing Engine,2025-07-16,98.92823333333334
+Billing Engine,2025-07-17,98.92823333333334
+Billing Engine,2025-07-18,99.01386666666667
+Billing Engine,2025-07-19,99.12033333333333
+Billing Engine,2025-07-20,99.12033333333333
+Billing Engine,2025-07-21,98.8819
+Billing Engine,2025-07-22,98.87496666666667
+Billing Engine,2025-07-23,98.69903333333333
+Billing Engine,2025-07-24,98.493
+Billing Engine,2025-07-25,98.73836666666666
+Billing Engine,2025-07-26,98.73836666666666
+Billing Engine,2025-07-27,98.73836666666666
+Billing Engine,2025-07-28,98.73836666666666
+Billing Engine,2025-07-29,98.73836666666666
+Billing Engine,2025-07-30,98.73836666666666
+Billing Engine,2025-07-31,98.75226666666667
+Billing Engine,2025-08-01,98.75226666666667
+Billing Engine,2025-08-02,98.75226666666667
+Billing Engine,2025-08-03,98.75226666666667
+Billing Engine,2025-08-04,98.65736666666666
+Billing Engine,2025-08-05,98.53006666666667
+Billing Engine,2025-08-06,98.53006666666667
+Billing Engine,2025-08-07,98.6898
+Billing Engine,2025-08-08,98.6898
+Billing Engine,2025-08-09,98.6898
+Billing Engine,2025-08-10,98.92360000000001
+Billing Engine,2025-08-11,98.92360000000001
+Billing Engine,2025-08-12,98.92360000000001
+Billing Engine,2025-08-13,98.92360000000001
+Billing Engine,2025-08-14,98.92360000000001
+Billing Engine,2025-08-15,98.92360000000001
+Billing Engine,2025-08-16,98.92360000000001
+Billing Engine,2025-08-17,98.92360000000001
+Billing Engine,2025-08-18,98.92360000000001
+Billing Engine,2025-08-19,98.92360000000001
+Billing Engine,2025-08-20,99.16203333333333
+Billing Engine,2025-08-21,98.96990000000001
+Billing Engine,2025-08-22,99.14583333333333
+Billing Engine,2025-08-23,99.35186666666667
+Billing Engine,2025-08-24,99.35186666666667
+Billing Engine,2025-08-25,99.35186666666667
+Billing Engine,2025-08-26,99.35186666666667
+Billing Engine,2025-08-27,99.35186666666667
+Billing Engine,2025-08-28,99.22456666666668
+Billing Engine,2025-08-29,99.22456666666668
+Billing Engine,2025-08-30,99.22456666666668
+Billing Engine,2025-08-31,99.22456666666668
+Billing Engine,2025-09-01,99.22456666666668
+Billing Engine,2025-09-02,99.22456666666668
+Billing Engine,2025-09-03,99.31946666666666
+Billing Engine,2025-09-04,99.44676666666666
+Billing Engine,2025-09-05,99.44676666666666
+Billing Engine,2025-09-06,99.44676666666666
+Billing Engine,2025-09-07,99.44676666666666
+Billing Engine,2025-09-08,99.44676666666666
+Billing Engine,2025-09-09,99.22916666666667
+Billing Engine,2025-09-10,99.22916666666667
+Billing Engine,2025-09-11,99.22916666666667
+Billing Engine,2025-09-12,99.22916666666667
+Billing Engine,2025-09-13,99.22916666666667
+Billing Engine,2025-09-14,99.22916666666667
+Billing Engine,2025-09-15,99.22916666666667
+Billing Engine,2025-09-16,99.22916666666667
+Billing Engine,2025-09-17,99.22916666666667
+Billing Engine,2025-09-18,99.22916666666667
+Billing Engine,2025-09-19,99.0787
+Billing Engine,2025-09-20,99.50463333333333
+Billing Engine,2025-09-21,99.50463333333333
+Billing Engine,2025-09-22,99.50463333333333
+Billing Engine,2025-09-23,99.50463333333333
+Billing Engine,2025-09-24,99.50463333333333
+Billing Engine,2025-09-25,99.40046666666667
+Billing Engine,2025-09-26,99.38656666666667
+Billing Engine,2025-09-27,99.51386666666667
+Billing Engine,2025-09-28,99.51386666666667
+Billing Engine,2025-09-29,99.51386666666667
+Billing Engine,2025-09-30,99.51386666666667
+Billing Engine,2025-10-01,99.51386666666667
+Billing Engine,2025-10-02,99.51386666666667
+Billing Engine,2025-10-03,99.51386666666667
+Billing Engine,2025-10-04,99.51386666666667
+Billing Engine,2025-10-05,99.51386666666667
+Billing Engine,2025-10-06,99.51386666666667
+Billing Engine,2025-10-07,99.51386666666667
+Billing Engine,2025-10-08,99.51386666666667
+Billing Engine,2025-10-09,99.73146666666666
+Billing Engine,2025-10-10,99.54860000000001
+Billing Engine,2025-10-11,99.54860000000001
+Billing Engine,2025-10-12,99.54860000000001
+Billing Engine,2025-10-13,99.54860000000001
+Billing Engine,2025-10-14,99.54860000000001
+Billing Engine,2025-10-15,99.54860000000001
+Billing Engine,2025-10-16,99.54860000000001
+Billing Engine,2025-10-17,99.5
+Billing Engine,2025-10-18,99.5
+Billing Engine,2025-10-19,99.22916666666667
+Billing Engine,2025-10-20,99.22916666666667
+Billing Engine,2025-10-21,99.22916666666667
+Billing Engine,2025-10-22,98.96063333333333
+Billing Engine,2025-10-23,98.96063333333333
+Billing Engine,2025-10-24,98.96063333333333
+Billing Engine,2025-10-25,99.0648
+Billing Engine,2025-10-26,99.0787
+Billing Engine,2025-10-27,99.0787
+Billing Engine,2025-10-28,99.0787
+Billing Engine,2025-10-29,99.0787
+Billing Engine,2025-10-30,99.0787
+Billing Engine,2025-10-31,99.0787
+Billing Engine,2025-11-01,99.0787
+Billing Engine,2025-11-02,99.0787
+Billing Engine,2025-11-03,99.0787
+Billing Engine,2025-11-04,99.0787
+Billing Engine,2025-11-05,99.0787
+Billing Engine,2025-11-06,99.0787
+Billing Engine,2025-11-07,99.0787
+Billing Engine,2025-11-08,99.0787
+Billing Engine,2025-11-09,99.26156666666667
+Billing Engine,2025-11-10,99.26156666666667
+Billing Engine,2025-11-11,99.12266666666666
+Billing Engine,2025-11-12,99.12266666666666
+Billing Engine,2025-11-13,99.12266666666666
+Billing Engine,2025-11-14,99.12266666666666
+Billing Engine,2025-11-15,99.12266666666666
+Billing Engine,2025-11-16,99.17126666666667
+Billing Engine,2025-11-17,99.17126666666667
+Billing Engine,2025-11-18,99.59256666666667
+Billing Engine,2025-11-19,99.59256666666667
+Billing Engine,2025-11-20,99.59256666666667
+Billing Engine,2025-11-21,99.86110000000001
+Billing Engine,2025-11-22,99.86110000000001
+Billing Engine,2025-11-23,99.86110000000001
+Billing Engine,2025-11-24,99.86110000000001
+Billing Engine,2025-11-25,99.86110000000001
+Billing Engine,2025-11-26,99.80323333333334
+Billing Engine,2025-11-27,99.80323333333334
+Billing Engine,2025-11-28,99.80323333333334
+Billing Engine,2025-11-29,99.80323333333334
+Billing Engine,2025-11-30,99.80323333333334
+Billing Engine,2025-12-01,99.75463333333333
+Billing Engine,2025-12-02,99.52546666666667
+Billing Engine,2025-12-03,99.52546666666667
+Billing Engine,2025-12-04,99.52546666666667
+Billing Engine,2025-12-05,99.37036666666667
+Billing Engine,2025-12-06,99.37036666666667
+Billing Engine,2025-12-07,99.37036666666667
+Billing Engine,2025-12-08,99.37036666666667
+Billing Engine,2025-12-09,99.37036666666667
+Billing Engine,2025-12-10,99.37036666666667
+Billing Engine,2025-12-11,99.50926666666666
+Billing Engine,2025-12-12,99.50926666666666
+Billing Engine,2025-12-13,99.50926666666666
+Billing Engine,2025-12-14,99.50926666666666
+Billing Engine,2025-12-15,99.44676666666666
+Billing Engine,2025-12-16,99.44676666666666
+Billing Engine,2025-12-17,99.44676666666666
+Billing Engine,2025-12-18,99.44676666666666
+Billing Engine,2025-12-19,99.44676666666666
+Billing Engine,2025-12-20,99.44676666666666
+Billing Engine,2025-12-21,99.41900000000001
+Billing Engine,2025-12-22,99.41900000000001
+Billing Engine,2025-12-23,99.41900000000001
+Billing Engine,2025-12-24,99.41900000000001
+Billing Engine,2025-12-25,99.41900000000001
+Billing Engine,2025-12-26,99.47686666666667
+Billing Engine,2025-12-27,99.47686666666667
+Billing Engine,2025-12-28,99.47686666666667
+Billing Engine,2025-12-29,99.47686666666667
+Billing Engine,2025-12-30,99.47686666666667
+Billing Engine,2025-12-31,99.25926666666666
+Billing Engine,2026-01-01,99.48843333333333
+Billing Engine,2026-01-02,99.3588
+Billing Engine,2026-01-03,99.3588
+Billing Engine,2026-01-04,99.51389999999999
+Billing Engine,2026-01-05,99.51389999999999
+Billing Engine,2026-01-06,99.51389999999999
+Billing Engine,2026-01-07,99.51389999999999
+Billing Engine,2026-01-08,99.30093333333333
+Billing Engine,2026-01-09,99.30093333333333
+Billing Engine,2026-01-10,99.30093333333333
+Billing Engine,2026-01-11,99.30093333333333
+Billing Engine,2026-01-12,99.30093333333333
+Billing Engine,2026-01-13,99.30093333333333
+Billing Engine,2026-01-14,99.36343333333333
+Billing Engine,2026-01-15,99.36343333333333
+Billing Engine,2026-01-16,99.36343333333333
+Billing Engine,2026-01-17,99.36343333333333
+Billing Engine,2026-01-18,98.84259999999999
+Billing Engine,2026-01-19,98.69906666666667
+Billing Engine,2026-01-20,98.72683333333333
+Billing Engine,2026-01-21,98.72683333333333
+Billing Engine,2026-01-22,98.72683333333333
+Billing Engine,2026-01-23,98.72683333333333
+Billing Engine,2026-01-24,98.72683333333333
+Billing Engine,2026-01-25,98.72683333333333
+Billing Engine,2026-01-26,98.72683333333333
+Billing Engine,2026-01-27,98.72683333333333
+Billing Engine,2026-01-28,98.55786666666667
+Billing Engine,2026-01-29,98.55786666666667
+Billing Engine,2026-01-30,98.82406666666667
+Billing Engine,2026-01-31,98.82406666666667
+Billing Engine,2026-02-01,98.86343333333333
+Billing Engine,2026-02-02,98.86343333333333
+Billing Engine,2026-02-03,98.86343333333333
+Billing Engine,2026-02-04,98.86343333333333
+Billing Engine,2026-02-05,98.86343333333333
+Billing Engine,2026-02-06,98.86343333333333
+Billing Engine,2026-02-07,99.0162
+Billing Engine,2026-02-08,99.0162
+Billing Engine,2026-02-09,99.0162
+Billing Engine,2026-02-10,99.0162
+Billing Engine,2026-02-11,99.0162
+Billing Engine,2026-02-12,98.96296666666667
+Billing Engine,2026-02-13,98.96296666666667
+Billing Engine,2026-02-14,98.96296666666667
+Billing Engine,2026-02-15,98.96296666666667
+Billing Engine,2026-02-16,98.96296666666667
+Billing Engine,2026-02-17,99.4838
+Billing Engine,2026-02-18,99.45836666666668
+Billing Engine,2026-02-19,99.45836666666668
+Billing Engine,2026-02-20,99.45836666666668
+Billing Engine,2026-02-21,99.45836666666668
+Billing Engine,2026-02-22,99.45836666666668
+Billing Engine,2026-02-23,99.45836666666668
+Billing Engine,2026-02-24,99.45836666666668
+Billing Engine,2026-02-25,99.45836666666668
+Billing Engine,2026-02-26,99.45836666666668
+Billing Engine,2026-02-27,99.62733333333334
+Billing Engine,2026-02-28,99.62733333333334
+Billing Engine,2026-03-01,99.62733333333334
+Billing Engine,2026-03-02,99.62733333333334
+Billing Engine,2026-03-03,99.71759999999999
+Billing Engine,2026-03-04,99.71759999999999
+Billing Engine,2026-03-05,99.71759999999999
+Billing Engine,2026-03-06,99.71759999999999
+Billing Engine,2026-03-07,99.71759999999999
+Billing Engine,2026-03-08,99.71759999999999
+Billing Engine,2026-03-09,99.7778
+Billing Engine,2026-03-10,99.7778
+Billing Engine,2026-03-11,99.7778
+Billing Engine,2026-03-12,99.7778
+Billing Engine,2026-03-13,99.7778
+Billing Engine,2026-03-14,99.83103333333334
+Billing Engine,2026-03-15,99.83103333333334
+Billing Engine,2026-03-16,99.46296666666667
+Billing Engine,2026-03-17,99.20139999999999
+Billing Engine,2026-03-18,99.20139999999999
+Billing Engine,2026-03-19,99.20139999999999
+Billing Engine,2026-03-20,99.37036666666667
+Billing Engine,2026-03-21,99.37036666666667
+Billing Engine,2026-03-22,99.37036666666667
+Billing Engine,2026-03-23,99.37036666666667
+Billing Engine,2026-03-24,99.37036666666667
+Billing Engine,2026-03-25,99.37036666666667
+Billing Engine,2026-03-26,99.37036666666667
+Billing Engine,2026-03-27,99.37036666666667
+Billing Engine,2026-03-28,99.37036666666667
+Billing Engine,2026-03-29,99.37036666666667
+Billing Engine,2026-03-30,99.37036666666667
+Billing Engine,2026-03-31,99.32406666666667
+Billing Engine,2026-04-01,99.32406666666667
+Billing Engine,2026-04-02,99.24536666666667
+Billing Engine,2026-04-03,99.24536666666667
+Billing Engine,2026-04-04,99.24536666666667
+Billing Engine,2026-04-05,99.24536666666667
+Billing Engine,2026-04-06,99.24536666666667
+Billing Engine,2026-04-07,99.24536666666667
+Billing Engine,2026-04-08,99.24536666666667
+Billing Engine,2026-04-09,99.21526666666666
+Billing Engine,2026-04-10,99.21526666666666
+Billing Engine,2026-04-11,99.21526666666666
+Billing Engine,2026-04-12,99.21526666666666
+Billing Engine,2026-04-13,98.60646666666666
+Billing Engine,2026-04-14,98.60646666666666
+Billing Engine,2026-04-15,98.97453333333333
+Billing Engine,2026-04-16,99.23610000000001
+Billing Engine,2026-04-17,99.23610000000001
+Billing Engine,2026-04-18,99.23610000000001
+Billing Engine,2026-04-19,99.23610000000001
+Billing Engine,2026-04-20,99.23610000000001
+Billing Engine,2026-04-21,99.05553333333334
+Billing Engine,2026-04-22,99.05553333333334
+Billing Engine,2026-04-23,99.05553333333334
+Billing Engine,2026-04-24,99.05553333333334
+Billing Engine,2026-04-25,99.05553333333334
+Billing Engine,2026-04-26,99.05553333333334
+Billing Engine,2026-04-27,99.05553333333334
+Billing Engine,2026-04-28,99.05553333333334
+Billing Engine,2026-04-29,99.05553333333334
+Billing Engine,2026-04-30,99.10183333333333
+Billing Engine,2026-05-01,98.86573333333334
+Billing Engine,2026-05-02,98.94443333333334
+Billing Engine,2026-05-03,98.94443333333334
+Billing Engine,2026-05-04,98.7384
+Billing Engine,2026-05-05,98.7384
+Billing Engine,2026-05-06,98.69443333333334
+Billing Engine,2026-05-07,98.69443333333334
+Billing Engine,2026-05-08,98.69443333333334
+Billing Engine,2026-05-09,98.72453333333333
+Billing Engine,2026-05-10,98.67360000000001
+Billing Engine,2026-05-11,98.67360000000001
+Billing Engine,2026-05-12,98.67360000000001
+Billing Engine,2026-05-13,99.28240000000001
+Billing Engine,2026-05-14,99.28240000000001
+Billing Engine,2026-05-15,99.28240000000001
+Billing Engine,2026-05-16,99.28240000000001
+Billing Engine,2026-05-17,99.28240000000001
+Billing Engine,2026-05-18,99.17593333333333
+Billing Engine,2026-05-19,99.17593333333333
+Billing Engine,2026-05-20,99.17593333333333
+Billing Engine,2026-05-21,99.35650000000001
+Billing Engine,2026-05-22,99.1042
+Billing Engine,2026-05-23,99.1042
+Billing Engine,2026-05-24,99.1042
+Billing Engine,2026-05-25,99.1042
+Billing Engine,2026-05-26,99.1042
+Billing Engine,2026-05-27,99.1042
+Billing Engine,2026-05-28,99.1042
+Billing Engine,2026-05-29,99.1042
+Billing Engine,2026-05-30,99.1042
+Billing Engine,2026-05-31,99.3403
+Billing Engine,2026-06-01,99.3403
+Billing Engine,2026-06-02,99.3403
+Billing Engine,2026-06-03,99.54633333333332
+Billing Engine,2026-06-04,99.54633333333332
+Billing Engine,2026-06-05,99.5903
+Billing Engine,2026-06-06,99.5903
+Billing Engine,2026-06-07,99.5903
+Billing Engine,2026-06-08,99.2454
+Billing Engine,2026-06-09,99.29633333333332
+Billing Engine,2026-06-10,99.213
+Billing Engine,2026-06-11,99.213
+Billing Engine,2026-06-12,99.213
+Billing Engine,2026-06-13,99.213
+Billing Engine,2026-06-14,99.213
+Claims Processing,2025-06-15,100.0
+Claims Processing,2025-06-16,100.0
+Claims Processing,2025-06-17,100.0
+Claims Processing,2025-06-18,100.0
+Claims Processing,2025-06-19,100.0
+Claims Processing,2025-06-20,100.0
+Claims Processing,2025-06-21,100.0
+Claims Processing,2025-06-22,100.0
+Claims Processing,2025-06-23,100.0
+Claims Processing,2025-06-24,100.0
+Claims Processing,2025-06-25,100.0
+Claims Processing,2025-06-26,100.0
+Claims Processing,2025-06-27,100.0
+Claims Processing,2025-06-28,100.0
+Claims Processing,2025-06-29,99.82873333333333
+Claims Processing,2025-06-30,99.6224375
+Claims Processing,2025-07-01,99.64464705882354
+Claims Processing,2025-07-02,99.27472222222222
+Claims Processing,2025-07-03,99.3128947368421
+Claims Processing,2025-07-04,99.34725
+Claims Processing,2025-07-05,99.37833333333334
+Claims Processing,2025-07-06,99.40659090909092
+Claims Processing,2025-07-07,99.43239130434783
+Claims Processing,2025-07-08,99.45604166666668
+Claims Processing,2025-07-09,99.4778
+Claims Processing,2025-07-10,99.49788461538462
+Claims Processing,2025-07-11,99.51648148148149
+Claims Processing,2025-07-12,99.53375000000001
+Claims Processing,2025-07-13,99.26486206896551
+Claims Processing,2025-07-14,99.28936666666667
+Claims Processing,2025-07-15,99.28936666666667
+Claims Processing,2025-07-16,99.28936666666667
+Claims Processing,2025-07-17,99.28936666666667
+Claims Processing,2025-07-18,99.28936666666667
+Claims Processing,2025-07-19,99.28936666666667
+Claims Processing,2025-07-20,99.09259999999999
+Claims Processing,2025-07-21,98.91436666666667
+Claims Processing,2025-07-22,98.91436666666667
+Claims Processing,2025-07-23,98.91436666666667
+Claims Processing,2025-07-24,98.91436666666667
+Claims Processing,2025-07-25,98.91436666666667
+Claims Processing,2025-07-26,98.91436666666667
+Claims Processing,2025-07-27,98.91436666666667
+Claims Processing,2025-07-28,98.86343333333333
+Claims Processing,2025-07-29,98.94906666666667
+Claims Processing,2025-07-30,99.0648
+Claims Processing,2025-07-31,99.0648
+Claims Processing,2025-08-01,99.29860000000001
+Claims Processing,2025-08-02,99.29860000000001
+Claims Processing,2025-08-03,99.23146666666666
+Claims Processing,2025-08-04,99.23146666666666
+Claims Processing,2025-08-05,99.23146666666666
+Claims Processing,2025-08-06,99.23146666666666
+Claims Processing,2025-08-07,98.3796
+Claims Processing,2025-08-08,98.3796
+Claims Processing,2025-08-09,98.3796
+Claims Processing,2025-08-10,98.3796
+Claims Processing,2025-08-11,98.3796
+Claims Processing,2025-08-12,98.65506666666667
+Claims Processing,2025-08-13,98.65506666666667
+Claims Processing,2025-08-14,98.65506666666667
+Claims Processing,2025-08-15,98.65506666666667
+Claims Processing,2025-08-16,98.65506666666667
+Claims Processing,2025-08-17,98.5648
+Claims Processing,2025-08-18,98.5648
+Claims Processing,2025-08-19,98.76156666666667
+Claims Processing,2025-08-20,98.9398
+Claims Processing,2025-08-21,98.9398
+Claims Processing,2025-08-22,98.9398
+Claims Processing,2025-08-23,98.9398
+Claims Processing,2025-08-24,98.9398
+Claims Processing,2025-08-25,98.9398
+Claims Processing,2025-08-26,98.9398
+Claims Processing,2025-08-27,98.99073333333334
+Claims Processing,2025-08-28,98.99073333333334
+Claims Processing,2025-08-29,98.99073333333334
+Claims Processing,2025-08-30,98.99073333333334
+Claims Processing,2025-08-31,98.99073333333334
+Claims Processing,2025-09-01,98.99073333333334
+Claims Processing,2025-09-02,98.93286666666667
+Claims Processing,2025-09-03,98.93286666666667
+Claims Processing,2025-09-04,98.93286666666667
+Claims Processing,2025-09-05,98.93286666666667
+Claims Processing,2025-09-06,99.78473333333334
+Claims Processing,2025-09-07,99.78473333333334
+Claims Processing,2025-09-08,99.78473333333334
+Claims Processing,2025-09-09,99.78473333333334
+Claims Processing,2025-09-10,99.78473333333334
+Claims Processing,2025-09-11,99.64353333333334
+Claims Processing,2025-09-12,99.64353333333334
+Claims Processing,2025-09-13,99.64353333333334
+Claims Processing,2025-09-14,99.41666666666667
+Claims Processing,2025-09-15,99.41666666666667
+Claims Processing,2025-09-16,99.29860000000001
+Claims Processing,2025-09-17,98.99766666666666
+Claims Processing,2025-09-18,98.99766666666666
+Claims Processing,2025-09-19,98.78933333333333
+Claims Processing,2025-09-20,98.78933333333333
+Claims Processing,2025-09-21,98.78933333333333
+Claims Processing,2025-09-22,98.78933333333333
+Claims Processing,2025-09-23,98.78933333333333
+Claims Processing,2025-09-24,98.78933333333333
+Claims Processing,2025-09-25,98.78933333333333
+Claims Processing,2025-09-26,98.78933333333333
+Claims Processing,2025-09-27,98.78933333333333
+Claims Processing,2025-09-28,98.78933333333333
+Claims Processing,2025-09-29,98.78933333333333
+Claims Processing,2025-09-30,98.59953333333333
+Claims Processing,2025-10-01,98.59953333333333
+Claims Processing,2025-10-02,98.72453333333333
+Claims Processing,2025-10-03,98.72453333333333
+Claims Processing,2025-10-04,98.72453333333333
+Claims Processing,2025-10-05,98.72453333333333
+Claims Processing,2025-10-06,98.72453333333333
+Claims Processing,2025-10-07,98.625
+Claims Processing,2025-10-08,98.625
+Claims Processing,2025-10-09,98.625
+Claims Processing,2025-10-10,98.625
+Claims Processing,2025-10-11,98.7662
+Claims Processing,2025-10-12,98.59723333333334
+Claims Processing,2025-10-13,98.59723333333334
+Claims Processing,2025-10-14,98.8241
+Claims Processing,2025-10-15,98.8241
+Claims Processing,2025-10-16,99.00466666666667
+Claims Processing,2025-10-17,99.3056
+Claims Processing,2025-10-18,99.3056
+Claims Processing,2025-10-19,99.51393333333334
+Claims Processing,2025-10-20,99.51393333333334
+Claims Processing,2025-10-21,99.51393333333334
+Claims Processing,2025-10-22,99.51393333333334
+Claims Processing,2025-10-23,99.51393333333334
+Claims Processing,2025-10-24,99.51393333333334
+Claims Processing,2025-10-25,99.51393333333334
+Claims Processing,2025-10-26,99.51393333333334
+Claims Processing,2025-10-27,99.51393333333334
+Claims Processing,2025-10-28,99.51393333333334
+Claims Processing,2025-10-29,99.43753333333333
+Claims Processing,2025-10-30,99.62733333333334
+Claims Processing,2025-10-31,99.62733333333334
+Claims Processing,2025-11-01,99.62733333333334
+Claims Processing,2025-11-02,99.62733333333334
+Claims Processing,2025-11-03,99.62733333333334
+Claims Processing,2025-11-04,99.62733333333334
+Claims Processing,2025-11-05,99.62733333333334
+Claims Processing,2025-11-06,99.59259999999999
+Claims Processing,2025-11-07,99.59259999999999
+Claims Processing,2025-11-08,99.59259999999999
+Claims Processing,2025-11-09,99.59259999999999
+Claims Processing,2025-11-10,99.59259999999999
+Claims Processing,2025-11-11,99.76156666666667
+Claims Processing,2025-11-12,99.2222
+Claims Processing,2025-11-13,99.2222
+Claims Processing,2025-11-14,99.2222
+Claims Processing,2025-11-15,99.24996666666667
+Claims Processing,2025-11-16,99.24996666666667
+Claims Processing,2025-11-17,99.0532
+Claims Processing,2025-11-18,99.0532
+Claims Processing,2025-11-19,99.0532
+Claims Processing,2025-11-20,99.0532
+Claims Processing,2025-11-21,99.0532
+Claims Processing,2025-11-22,99.0532
+Claims Processing,2025-11-23,99.0532
+Claims Processing,2025-11-24,98.9259
+Claims Processing,2025-11-25,98.9259
+Claims Processing,2025-11-26,98.9259
+Claims Processing,2025-11-27,98.9259
+Claims Processing,2025-11-28,99.0023
+Claims Processing,2025-11-29,98.79166666666667
+Claims Processing,2025-11-30,98.79166666666667
+Claims Processing,2025-12-01,98.79166666666667
+Claims Processing,2025-12-02,98.63656666666665
+Claims Processing,2025-12-03,98.63656666666665
+Claims Processing,2025-12-04,98.63656666666665
+Claims Processing,2025-12-05,98.63656666666665
+Claims Processing,2025-12-06,98.77083333333333
+Claims Processing,2025-12-07,98.77083333333333
+Claims Processing,2025-12-08,98.77083333333333
+Claims Processing,2025-12-09,98.63193333333334
+Claims Processing,2025-12-10,98.55786666666667
+Claims Processing,2025-12-11,98.55786666666667
+Claims Processing,2025-12-12,99.09723333333334
+Claims Processing,2025-12-13,99.09723333333334
+Claims Processing,2025-12-14,99.09723333333334
+Claims Processing,2025-12-15,99.09723333333334
+Claims Processing,2025-12-16,99.09723333333334
+Claims Processing,2025-12-17,99.29400000000001
+Claims Processing,2025-12-18,99.29400000000001
+Claims Processing,2025-12-19,99.29400000000001
+Claims Processing,2025-12-20,99.29400000000001
+Claims Processing,2025-12-21,99.29400000000001
+Claims Processing,2025-12-22,99.29400000000001
+Claims Processing,2025-12-23,99.29400000000001
+Claims Processing,2025-12-24,99.4213
+Claims Processing,2025-12-25,99.4213
+Claims Processing,2025-12-26,99.4213
+Claims Processing,2025-12-27,99.4213
+Claims Processing,2025-12-28,99.4213
+Claims Processing,2025-12-29,99.35416666666667
+Claims Processing,2025-12-30,99.28936666666667
+Claims Processing,2025-12-31,99.28936666666667
+Claims Processing,2026-01-01,99.25696666666666
+Claims Processing,2026-01-02,98.73383333333332
+Claims Processing,2026-01-03,98.62966666666667
+Claims Processing,2026-01-04,98.62966666666667
+Claims Processing,2026-01-05,98.62966666666667
+Claims Processing,2026-01-06,98.62966666666667
+Claims Processing,2026-01-07,98.47226666666667
+Claims Processing,2026-01-08,98.61116666666666
+Claims Processing,2026-01-09,98.68523333333333
+Claims Processing,2026-01-10,98.50466666666667
+Claims Processing,2026-01-11,98.50466666666667
+Claims Processing,2026-01-12,98.50466666666667
+Claims Processing,2026-01-13,98.50466666666667
+Claims Processing,2026-01-14,98.50466666666667
+Claims Processing,2026-01-15,98.37736666666666
+Claims Processing,2026-01-16,98.37736666666666
+Claims Processing,2026-01-17,98.37736666666666
+Claims Processing,2026-01-18,98.37736666666666
+Claims Processing,2026-01-19,97.87273333333333
+Claims Processing,2026-01-20,97.87273333333333
+Claims Processing,2026-01-21,97.87273333333333
+Claims Processing,2026-01-22,97.87273333333333
+Claims Processing,2026-01-23,97.87273333333333
+Claims Processing,2026-01-24,97.87273333333333
+Claims Processing,2026-01-25,97.87273333333333
+Claims Processing,2026-01-26,97.87273333333333
+Claims Processing,2026-01-27,97.87273333333333
+Claims Processing,2026-01-28,98.1505
+Claims Processing,2026-01-29,98.2153
+Claims Processing,2026-01-30,98.08566666666667
+Claims Processing,2026-01-31,98.27316666666667
+Claims Processing,2026-02-01,98.7963
+Claims Processing,2026-02-02,98.90046666666667
+Claims Processing,2026-02-03,98.90046666666667
+Claims Processing,2026-02-04,98.90046666666667
+Claims Processing,2026-02-05,98.90046666666667
+Claims Processing,2026-02-06,98.74766666666666
+Claims Processing,2026-02-07,98.74766666666666
+Claims Processing,2026-02-08,98.74766666666666
+Claims Processing,2026-02-09,98.92823333333334
+Claims Processing,2026-02-10,98.92823333333334
+Claims Processing,2026-02-11,98.92823333333334
+Claims Processing,2026-02-12,98.92823333333334
+Claims Processing,2026-02-13,98.92823333333334
+Claims Processing,2026-02-14,99.05553333333334
+Claims Processing,2026-02-15,98.8009
+Claims Processing,2026-02-16,98.71063333333333
+Claims Processing,2026-02-17,98.71063333333333
+Claims Processing,2026-02-18,99.21526666666666
+Claims Processing,2026-02-19,99.21526666666666
+Claims Processing,2026-02-20,99.21526666666666
+Claims Processing,2026-02-21,99.21526666666666
+Claims Processing,2026-02-22,99.21526666666666
+Claims Processing,2026-02-23,99.21526666666666
+Claims Processing,2026-02-24,99.21526666666666
+Claims Processing,2026-02-25,99.21526666666666
+Claims Processing,2026-02-26,99.21526666666666
+Claims Processing,2026-02-27,99.21526666666666
+Claims Processing,2026-02-28,99.21526666666666
+Claims Processing,2026-03-01,99.34490000000001
+Claims Processing,2026-03-02,99.34490000000001
+Claims Processing,2026-03-03,99.34490000000001
+Claims Processing,2026-03-04,99.0648
+Claims Processing,2026-03-05,99.0648
+Claims Processing,2026-03-06,99.0648
+Claims Processing,2026-03-07,99.0648
+Claims Processing,2026-03-08,99.375
+Claims Processing,2026-03-09,99.375
+Claims Processing,2026-03-10,99.375
+Claims Processing,2026-03-11,99.375
+Claims Processing,2026-03-12,99.375
+Claims Processing,2026-03-13,99.375
+Claims Processing,2026-03-14,99.375
+Claims Processing,2026-03-15,99.375
+Claims Processing,2026-03-16,99.375
+Claims Processing,2026-03-17,99.62963333333333
+Claims Processing,2026-03-18,99.71990000000001
+Claims Processing,2026-03-19,99.71990000000001
+Claims Processing,2026-03-20,99.6412
+Claims Processing,2026-03-21,99.6412
+Claims Processing,2026-03-22,99.6412
+Claims Processing,2026-03-23,99.6412
+Claims Processing,2026-03-24,99.34953333333333
+Claims Processing,2026-03-25,99.34953333333333
+Claims Processing,2026-03-26,99.34953333333333
+Claims Processing,2026-03-27,99.34953333333333
+Claims Processing,2026-03-28,99.34953333333333
+Claims Processing,2026-03-29,99.34953333333333
+Claims Processing,2026-03-30,99.34953333333333
+Claims Processing,2026-03-31,99.34953333333333
+Claims Processing,2026-04-01,99.34953333333333
+Claims Processing,2026-04-02,99.34953333333333
+Claims Processing,2026-04-03,99.62963333333333
+Claims Processing,2026-04-04,99.62963333333333
+Claims Processing,2026-04-05,99.62963333333333
+Claims Processing,2026-04-06,99.62963333333333
+Claims Processing,2026-04-07,99.3912
+Claims Processing,2026-04-08,99.3912
+Claims Processing,2026-04-09,99.3912
+Claims Processing,2026-04-10,99.3912
+Claims Processing,2026-04-11,99.3912
+Claims Processing,2026-04-12,99.30093333333333
+Claims Processing,2026-04-13,99.30093333333333
+Claims Processing,2026-04-14,99.30093333333333
+Claims Processing,2026-04-15,99.12963333333333
+Claims Processing,2026-04-16,99.12963333333333
+Claims Processing,2026-04-17,99.12963333333333
+Claims Processing,2026-04-18,99.12963333333333
+Claims Processing,2026-04-19,99.20833333333333
+Claims Processing,2026-04-20,99.10416666666667
+Claims Processing,2026-04-21,99.10416666666667
+Claims Processing,2026-04-22,99.10416666666667
+Claims Processing,2026-04-23,99.32406666666667
+Claims Processing,2026-04-24,99.19906666666667
+Claims Processing,2026-04-25,99.19906666666667
+Claims Processing,2026-04-26,99.19906666666667
+Claims Processing,2026-04-27,99.19906666666667
+Claims Processing,2026-04-28,99.19906666666667
+Claims Processing,2026-04-29,99.19906666666667
+Claims Processing,2026-04-30,99.19906666666667
+Claims Processing,2026-05-01,98.9537
+Claims Processing,2026-05-02,98.9537
+Claims Processing,2026-05-03,98.9537
+Claims Processing,2026-05-04,98.4537
+Claims Processing,2026-05-05,98.32406666666667
+Claims Processing,2026-05-06,98.32406666666667
+Claims Processing,2026-05-07,98.5625
+Claims Processing,2026-05-08,98.5625
+Claims Processing,2026-05-09,98.5625
+Claims Processing,2026-05-10,98.5625
+Claims Processing,2026-05-11,98.5625
+Claims Processing,2026-05-12,98.65276666666666
+Claims Processing,2026-05-13,98.65276666666666
+Claims Processing,2026-05-14,98.65276666666666
+Claims Processing,2026-05-15,98.82406666666667
+Claims Processing,2026-05-16,98.82406666666667
+Claims Processing,2026-05-17,98.82406666666667
+Claims Processing,2026-05-18,98.72453333333333
+Claims Processing,2026-05-19,98.72453333333333
+Claims Processing,2026-05-20,98.8287
+Claims Processing,2026-05-21,98.8287
+Claims Processing,2026-05-22,98.8287
+Claims Processing,2026-05-23,98.90046666666667
+Claims Processing,2026-05-24,99.02546666666667
+Claims Processing,2026-05-25,99.02546666666667
+Claims Processing,2026-05-26,99.02546666666667
+Claims Processing,2026-05-27,98.9977
+Claims Processing,2026-05-28,98.91206666666668
+Claims Processing,2026-05-29,98.7917
+Claims Processing,2026-05-30,98.7917
+Claims Processing,2026-05-31,99.03706666666668
+Claims Processing,2026-06-01,99.03706666666668
+Claims Processing,2026-06-02,99.03706666666668
+Claims Processing,2026-06-03,99.53706666666668
+Claims Processing,2026-06-04,99.44216666666667
+Claims Processing,2026-06-05,99.44216666666667
+Claims Processing,2026-06-06,99.44216666666667
+Claims Processing,2026-06-07,99.44216666666667
+Claims Processing,2026-06-08,99.44216666666667
+Claims Processing,2026-06-09,99.44216666666667
+Claims Processing,2026-06-10,99.44216666666667
+Claims Processing,2026-06-11,99.44216666666667
+Claims Processing,2026-06-12,99.37273333333333
+Claims Processing,2026-06-13,99.37273333333333
+Claims Processing,2026-06-14,99.37273333333333
+EHR,2025-06-15,100.0
+EHR,2025-06-16,100.0
+EHR,2025-06-17,100.0
+EHR,2025-06-18,100.0
+EHR,2025-06-19,97.2778
+EHR,2025-06-20,97.7315
+EHR,2025-06-21,98.05557142857143
+EHR,2025-06-22,98.298625
+EHR,2025-06-23,98.21755555555555
+EHR,2025-06-24,98.3958
+EHR,2025-06-25,98.54163636363637
+EHR,2025-06-26,98.66316666666667
+EHR,2025-06-27,98.766
+EHR,2025-06-28,98.85414285714286
+EHR,2025-06-29,98.93053333333334
+EHR,2025-06-30,98.997375
+EHR,2025-07-01,99.05635294117647
+EHR,2025-07-02,99.07022222222221
+EHR,2025-07-03,99.11915789473683
+EHR,2025-07-04,99.16319999999999
+EHR,2025-07-05,99.20304761904762
+EHR,2025-07-06,99.23927272727273
+EHR,2025-07-07,99.23308695652173
+EHR,2025-07-08,99.1435
+EHR,2025-07-09,98.90552
+EHR,2025-07-10,98.94761538461537
+EHR,2025-07-11,98.98659259259259
+EHR,2025-07-12,99.02278571428572
+EHR,2025-07-13,99.05648275862069
+EHR,2025-07-14,99.08793333333332
+EHR,2025-07-15,99.08793333333332
+EHR,2025-07-16,99.08793333333332
+EHR,2025-07-17,99.08793333333332
+EHR,2025-07-18,98.92356666666666
+EHR,2025-07-19,99.37726666666667
+EHR,2025-07-20,99.37726666666667
+EHR,2025-07-21,99.37726666666667
+EHR,2025-07-22,99.37726666666667
+EHR,2025-07-23,99.4583
+EHR,2025-07-24,99.4583
+EHR,2025-07-25,99.4583
+EHR,2025-07-26,99.4583
+EHR,2025-07-27,99.4583
+EHR,2025-07-28,99.3634
+EHR,2025-07-29,99.3634
+EHR,2025-07-30,99.3634
+EHR,2025-07-31,99.3634
+EHR,2025-08-01,99.38653333333333
+EHR,2025-08-02,98.84716666666667
+EHR,2025-08-03,98.84716666666667
+EHR,2025-08-04,98.84716666666667
+EHR,2025-08-05,98.84716666666667
+EHR,2025-08-06,98.87726666666667
+EHR,2025-08-07,98.9745
+EHR,2025-08-08,99.20136666666667
+EHR,2025-08-09,99.20136666666667
+EHR,2025-08-10,99.20136666666667
+EHR,2025-08-11,99.20136666666667
+EHR,2025-08-12,98.9421
+EHR,2025-08-13,98.91896666666666
+EHR,2025-08-14,98.91896666666666
+EHR,2025-08-15,98.91896666666666
+EHR,2025-08-16,98.91896666666666
+EHR,2025-08-17,99.08333333333333
+EHR,2025-08-18,98.88193333333334
+EHR,2025-08-19,98.88193333333334
+EHR,2025-08-20,98.88193333333334
+EHR,2025-08-21,98.88193333333334
+EHR,2025-08-22,98.42360000000001
+EHR,2025-08-23,98.42360000000001
+EHR,2025-08-24,98.42360000000001
+EHR,2025-08-25,98.42360000000001
+EHR,2025-08-26,98.42360000000001
+EHR,2025-08-27,98.51849999999999
+EHR,2025-08-28,98.3472
+EHR,2025-08-29,98.2245
+EHR,2025-08-30,98.2245
+EHR,2025-08-31,98.2245
+EHR,2025-09-01,98.76386666666667
+EHR,2025-09-02,98.76386666666667
+EHR,2025-09-03,98.76386666666667
+EHR,2025-09-04,98.76386666666667
+EHR,2025-09-05,98.76386666666667
+EHR,2025-09-06,98.76386666666667
+EHR,2025-09-07,98.76386666666667
+EHR,2025-09-08,98.76386666666667
+EHR,2025-09-09,98.76386666666667
+EHR,2025-09-10,98.76386666666667
+EHR,2025-09-11,99.02313333333333
+EHR,2025-09-12,99.04626666666667
+EHR,2025-09-13,98.65043333333332
+EHR,2025-09-14,98.65043333333332
+EHR,2025-09-15,98.65043333333332
+EHR,2025-09-16,98.65043333333332
+EHR,2025-09-17,98.85183333333333
+EHR,2025-09-18,98.75693333333334
+EHR,2025-09-19,98.75693333333334
+EHR,2025-09-20,98.75693333333334
+EHR,2025-09-21,99.21526666666666
+EHR,2025-09-22,99.21526666666666
+EHR,2025-09-23,99.21526666666666
+EHR,2025-09-24,99.21526666666666
+EHR,2025-09-25,99.21526666666666
+EHR,2025-09-26,99.21526666666666
+EHR,2025-09-27,99.38656666666667
+EHR,2025-09-28,99.50926666666666
+EHR,2025-09-29,99.50926666666666
+EHR,2025-09-30,99.50926666666666
+EHR,2025-10-01,99.50926666666666
+EHR,2025-10-02,99.50926666666666
+EHR,2025-10-03,99.50926666666666
+EHR,2025-10-04,99.50926666666666
+EHR,2025-10-05,99.50926666666666
+EHR,2025-10-06,99.50926666666666
+EHR,2025-10-07,99.50926666666666
+EHR,2025-10-08,99.50926666666666
+EHR,2025-10-09,99.50926666666666
+EHR,2025-10-10,99.50926666666666
+EHR,2025-10-11,99.42363333333333
+EHR,2025-10-12,99.42363333333333
+EHR,2025-10-13,99.81946666666666
+EHR,2025-10-14,99.81946666666666
+EHR,2025-10-15,99.81946666666666
+EHR,2025-10-16,99.58103333333334
+EHR,2025-10-17,99.47916666666667
+EHR,2025-10-18,99.57406666666667
+EHR,2025-10-19,99.57406666666667
+EHR,2025-10-20,99.57406666666667
+EHR,2025-10-21,99.57406666666667
+EHR,2025-10-22,99.57406666666667
+EHR,2025-10-23,99.57406666666667
+EHR,2025-10-24,99.57406666666667
+EHR,2025-10-25,99.57406666666667
+EHR,2025-10-26,99.16433333333333
+EHR,2025-10-27,99.16433333333333
+EHR,2025-10-28,99.16433333333333
+EHR,2025-10-29,99.16433333333333
+EHR,2025-10-30,99.16433333333333
+EHR,2025-10-31,99.16433333333333
+EHR,2025-11-01,99.16433333333333
+EHR,2025-11-02,99.16433333333333
+EHR,2025-11-03,99.16433333333333
+EHR,2025-11-04,99.16433333333333
+EHR,2025-11-05,99.16433333333333
+EHR,2025-11-06,99.16433333333333
+EHR,2025-11-07,99.16433333333333
+EHR,2025-11-08,99.16433333333333
+EHR,2025-11-09,99.16433333333333
+EHR,2025-11-10,98.74303333333334
+EHR,2025-11-11,98.4745
+EHR,2025-11-12,98.4745
+EHR,2025-11-13,98.4745
+EHR,2025-11-14,98.4745
+EHR,2025-11-15,98.5972
+EHR,2025-11-16,98.69906666666667
+EHR,2025-11-17,98.69906666666667
+EHR,2025-11-18,98.69906666666667
+EHR,2025-11-19,98.69906666666667
+EHR,2025-11-20,98.0648
+EHR,2025-11-21,98.0648
+EHR,2025-11-22,98.0648
+EHR,2025-11-23,98.0648
+EHR,2025-11-24,98.0648
+EHR,2025-11-25,98.47453333333333
+EHR,2025-11-26,98.47453333333333
+EHR,2025-11-27,98.47453333333333
+EHR,2025-11-28,98.47453333333333
+EHR,2025-11-29,98.47453333333333
+EHR,2025-11-30,98.47453333333333
+EHR,2025-12-01,98.47453333333333
+EHR,2025-12-02,97.92593333333333
+EHR,2025-12-03,97.92593333333333
+EHR,2025-12-04,97.8912
+EHR,2025-12-05,97.0625
+EHR,2025-12-06,97.0625
+EHR,2025-12-07,97.0625
+EHR,2025-12-08,97.0625
+EHR,2025-12-09,97.0625
+EHR,2025-12-10,97.56943333333334
+EHR,2025-12-11,97.83796666666667
+EHR,2025-12-12,97.83796666666667
+EHR,2025-12-13,96.96990000000001
+EHR,2025-12-14,96.92593333333333
+EHR,2025-12-15,96.94443333333334
+EHR,2025-12-16,96.94443333333334
+EHR,2025-12-17,96.94443333333334
+EHR,2025-12-18,96.94443333333334
+EHR,2025-12-19,96.83796666666667
+EHR,2025-12-20,97.47223333333334
+EHR,2025-12-21,97.47223333333334
+EHR,2025-12-22,97.26853333333334
+EHR,2025-12-23,97.26853333333334
+EHR,2025-12-24,97.26853333333334
+EHR,2025-12-25,97.26853333333334
+EHR,2025-12-26,97.26853333333334
+EHR,2025-12-27,97.26853333333334
+EHR,2025-12-28,97.26853333333334
+EHR,2025-12-29,97.26853333333334
+EHR,2025-12-30,97.26853333333334
+EHR,2025-12-31,97.26853333333334
+EHR,2026-01-01,97.81713333333333
+EHR,2026-01-02,97.81713333333333
+EHR,2026-01-03,97.85186666666667
+EHR,2026-01-04,98.68056666666666
+EHR,2026-01-05,98.68056666666666
+EHR,2026-01-06,98.68056666666666
+EHR,2026-01-07,98.4653
+EHR,2026-01-08,98.4653
+EHR,2026-01-09,97.5278
+EHR,2026-01-10,97.5278
+EHR,2026-01-11,97.5278
+EHR,2026-01-12,98.39586666666668
+EHR,2026-01-13,98.43983333333334
+EHR,2026-01-14,98.53706666666668
+EHR,2026-01-15,98.53706666666668
+EHR,2026-01-16,98.53706666666668
+EHR,2026-01-17,98.53706666666668
+EHR,2026-01-18,98.64353333333334
+EHR,2026-01-19,98.64353333333334
+EHR,2026-01-20,98.64353333333334
+EHR,2026-01-21,98.84723333333334
+EHR,2026-01-22,98.59493333333333
+EHR,2026-01-23,98.59493333333333
+EHR,2026-01-24,98.59493333333333
+EHR,2026-01-25,98.59493333333333
+EHR,2026-01-26,98.59493333333333
+EHR,2026-01-27,98.59493333333333
+EHR,2026-01-28,98.15973333333334
+EHR,2026-01-29,98.15973333333334
+EHR,2026-01-30,98.15973333333334
+EHR,2026-01-31,98.15973333333334
+EHR,2026-02-01,98.15973333333334
+EHR,2026-02-02,98.15973333333334
+EHR,2026-02-03,98.15973333333334
+EHR,2026-02-04,98.15973333333334
+EHR,2026-02-05,98.15973333333334
+EHR,2026-02-06,98.375
+EHR,2026-02-07,98.375
+EHR,2026-02-08,99.3125
+EHR,2026-02-09,99.3125
+EHR,2026-02-10,99.20603333333334
+EHR,2026-02-11,99.20603333333334
+EHR,2026-02-12,99.20603333333334
+EHR,2026-02-13,99.20603333333334
+EHR,2026-02-14,99.20603333333334
+EHR,2026-02-15,99.20603333333334
+EHR,2026-02-16,99.20603333333334
+EHR,2026-02-17,99.20603333333334
+EHR,2026-02-18,99.20603333333334
+EHR,2026-02-19,99.20603333333334
+EHR,2026-02-20,99.20603333333334
+EHR,2026-02-21,99.45833333333333
+EHR,2026-02-22,99.35416666666667
+EHR,2026-02-23,99.1227
+EHR,2026-02-24,99.1227
+EHR,2026-02-25,99.00233333333334
+EHR,2026-02-26,99.00233333333334
+EHR,2026-02-27,99.43753333333333
+EHR,2026-02-28,99.43753333333333
+EHR,2026-03-01,99.19446666666666
+EHR,2026-03-02,99.19446666666666
+EHR,2026-03-03,99.19446666666666
+EHR,2026-03-04,99.19446666666666
+EHR,2026-03-05,99.19446666666666
+EHR,2026-03-06,99.03243333333333
+EHR,2026-03-07,99.03243333333333
+EHR,2026-03-08,99.03243333333333
+EHR,2026-03-09,99.03243333333333
+EHR,2026-03-10,99.03243333333333
+EHR,2026-03-11,99.03243333333333
+EHR,2026-03-12,99.13889999999999
+EHR,2026-03-13,99.0741
+EHR,2026-03-14,99.0741
+EHR,2026-03-15,99.0741
+EHR,2026-03-16,99.0741
+EHR,2026-03-17,99.0741
+EHR,2026-03-18,99.0741
+EHR,2026-03-19,99.0741
+EHR,2026-03-20,99.0741
+EHR,2026-03-21,99.0741
+EHR,2026-03-22,99.0741
+EHR,2026-03-23,99.0741
+EHR,2026-03-24,99.17826666666666
+EHR,2026-03-25,99.40973333333334
+EHR,2026-03-26,99.40973333333334
+EHR,2026-03-27,99.53009999999999
+EHR,2026-03-28,99.53009999999999
+EHR,2026-03-29,99.53009999999999
+EHR,2026-03-30,99.53009999999999
+EHR,2026-03-31,99.77316666666667
+EHR,2026-04-01,99.77316666666667
+EHR,2026-04-02,99.77316666666667
+EHR,2026-04-03,99.69213333333333
+EHR,2026-04-04,99.69213333333333
+EHR,2026-04-05,99.85416666666667
+EHR,2026-04-06,99.80786666666667
+EHR,2026-04-07,99.72916666666667
+EHR,2026-04-08,99.52083333333333
+EHR,2026-04-09,99.52083333333333
+EHR,2026-04-10,99.52083333333333
+EHR,2026-04-11,99.52083333333333
+EHR,2026-04-12,99.58563333333333
+EHR,2026-04-13,99.58563333333333
+EHR,2026-04-14,99.58563333333333
+EHR,2026-04-15,99.52543333333332
+EHR,2026-04-16,99.52543333333332
+EHR,2026-04-17,99.07403333333333
+EHR,2026-04-18,98.87726666666667
+EHR,2026-04-19,98.87726666666667
+EHR,2026-04-20,98.66663333333332
+EHR,2026-04-21,98.66663333333332
+EHR,2026-04-22,98.5833
+EHR,2026-04-23,98.5833
+EHR,2026-04-24,98.5833
+EHR,2026-04-25,98.5833
+EHR,2026-04-26,98.5833
+EHR,2026-04-27,98.5833
+EHR,2026-04-28,98.5833
+EHR,2026-04-29,98.5833
+EHR,2026-04-30,98.20599999999999
+EHR,2026-05-01,98.20599999999999
+EHR,2026-05-02,98.20599999999999
+EHR,2026-05-03,98.28703333333333
+EHR,2026-05-04,98.28703333333333
+EHR,2026-05-05,98.28703333333333
+EHR,2026-05-06,98.13889999999999
+EHR,2026-05-07,98.21759999999999
+EHR,2026-05-08,98.42593333333333
+EHR,2026-05-09,98.42593333333333
+EHR,2026-05-10,98.42593333333333
+EHR,2026-05-11,98.42593333333333
+EHR,2026-05-12,98.42593333333333
+EHR,2026-05-13,98.42593333333333
+EHR,2026-05-14,98.42593333333333
+EHR,2026-05-15,98.48613333333333
+EHR,2026-05-16,98.48613333333333
+EHR,2026-05-17,98.93753333333333
+EHR,2026-05-18,99.1343
+EHR,2026-05-19,99.1343
+EHR,2026-05-20,99.34493333333333
+EHR,2026-05-21,99.34493333333333
+EHR,2026-05-22,99.42826666666666
+EHR,2026-05-23,99.42826666666666
+EHR,2026-05-24,99.42826666666666
+EHR,2026-05-25,99.42826666666666
+EHR,2026-05-26,99.42826666666666
+EHR,2026-05-27,99.42826666666666
+EHR,2026-05-28,99.42826666666666
+EHR,2026-05-29,99.42826666666666
+EHR,2026-05-30,99.80556666666666
+EHR,2026-05-31,99.80556666666666
+EHR,2026-06-01,99.80556666666666
+EHR,2026-06-02,99.80556666666666
+EHR,2026-06-03,99.80556666666666
+EHR,2026-06-04,99.80556666666666
+EHR,2026-06-05,100.0
+EHR,2026-06-06,100.0
+EHR,2026-06-07,100.0
+EHR,2026-06-08,100.0
+EHR,2026-06-09,100.0
+EHR,2026-06-10,99.89583333333333
+EHR,2026-06-11,99.89583333333333
+EHR,2026-06-12,99.89583333333333
+EHR,2026-06-13,99.89583333333333
+EHR,2026-06-14,99.89583333333333
+Lab Results API,2025-06-15,100.0
+Lab Results API,2025-06-16,100.0
+Lab Results API,2025-06-17,100.0
+Lab Results API,2025-06-18,100.0
+Lab Results API,2025-06-19,99.5
+Lab Results API,2025-06-20,99.58333333333333
+Lab Results API,2025-06-21,99.64285714285714
+Lab Results API,2025-06-22,99.6875
+Lab Results API,2025-06-23,99.72222222222223
+Lab Results API,2025-06-24,99.75
+Lab Results API,2025-06-25,99.77272727272727
+Lab Results API,2025-06-26,99.64699999999999
+Lab Results API,2025-06-27,99.67415384615384
+Lab Results API,2025-06-28,99.69742857142856
+Lab Results API,2025-06-29,99.71759999999999
+Lab Results API,2025-06-30,99.73525
+Lab Results API,2025-07-01,99.75082352941176
+Lab Results API,2025-07-02,99.456
+Lab Results API,2025-07-03,99.48463157894737
+Lab Results API,2025-07-04,99.5104
+Lab Results API,2025-07-05,99.5337142857143
+Lab Results API,2025-07-06,99.55490909090909
+Lab Results API,2025-07-07,99.57426086956522
+Lab Results API,2025-07-08,99.592
+Lab Results API,2025-07-09,99.60832
+Lab Results API,2025-07-10,99.62338461538462
+Lab Results API,2025-07-11,99.375
+Lab Results API,2025-07-12,99.39732142857143
+Lab Results API,2025-07-13,99.41810344827586
+Lab Results API,2025-07-14,99.4375
+Lab Results API,2025-07-15,99.4375
+Lab Results API,2025-07-16,98.8125
+Lab Results API,2025-07-17,98.8125
+Lab Results API,2025-07-18,98.8125
+Lab Results API,2025-07-19,98.89583333333333
+Lab Results API,2025-07-20,98.89583333333333
+Lab Results API,2025-07-21,98.89583333333333
+Lab Results API,2025-07-22,98.89583333333333
+Lab Results API,2025-07-23,98.89583333333333
+Lab Results API,2025-07-24,98.89583333333333
+Lab Results API,2025-07-25,98.5602
+Lab Results API,2025-07-26,98.61806666666666
+Lab Results API,2025-07-27,98.61806666666666
+Lab Results API,2025-07-28,98.61806666666666
+Lab Results API,2025-07-29,98.61806666666666
+Lab Results API,2025-07-30,98.61806666666666
+Lab Results API,2025-07-31,98.61806666666666
+Lab Results API,2025-08-01,98.80326666666666
+Lab Results API,2025-08-02,98.80326666666666
+Lab Results API,2025-08-03,98.80326666666666
+Lab Results API,2025-08-04,98.80326666666666
+Lab Results API,2025-08-05,98.77316666666667
+Lab Results API,2025-08-06,98.7477
+Lab Results API,2025-08-07,98.60416666666667
+Lab Results API,2025-08-08,98.60416666666667
+Lab Results API,2025-08-09,98.49306666666666
+Lab Results API,2025-08-10,98.72916666666667
+Lab Results API,2025-08-11,98.72916666666667
+Lab Results API,2025-08-12,98.72916666666667
+Lab Results API,2025-08-13,98.72916666666667
+Lab Results API,2025-08-14,98.72916666666667
+Lab Results API,2025-08-15,99.35416666666667
+Lab Results API,2025-08-16,99.35416666666667
+Lab Results API,2025-08-17,99.2963
+Lab Results API,2025-08-18,99.2963
+Lab Results API,2025-08-19,99.2963
+Lab Results API,2025-08-20,98.74306666666666
+Lab Results API,2025-08-21,98.74306666666666
+Lab Results API,2025-08-22,98.74306666666666
+Lab Results API,2025-08-23,98.74306666666666
+Lab Results API,2025-08-24,99.0787
+Lab Results API,2025-08-25,99.0787
+Lab Results API,2025-08-26,99.0787
+Lab Results API,2025-08-27,98.9398
+Lab Results API,2025-08-28,98.9398
+Lab Results API,2025-08-29,98.9398
+Lab Results API,2025-08-30,98.9398
+Lab Results API,2025-08-31,98.9398
+Lab Results API,2025-09-01,98.9398
+Lab Results API,2025-09-02,98.9398
+Lab Results API,2025-09-03,98.9398
+Lab Results API,2025-09-04,98.96990000000001
+Lab Results API,2025-09-05,98.99536666666667
+Lab Results API,2025-09-06,99.13889999999999
+Lab Results API,2025-09-07,99.13889999999999
+Lab Results API,2025-09-08,99.25
+Lab Results API,2025-09-09,99.25
+Lab Results API,2025-09-10,99.25
+Lab Results API,2025-09-11,99.25
+Lab Results API,2025-09-12,99.25
+Lab Results API,2025-09-13,99.25
+Lab Results API,2025-09-14,99.25
+Lab Results API,2025-09-15,99.25
+Lab Results API,2025-09-16,98.8773
+Lab Results API,2025-09-17,98.8773
+Lab Results API,2025-09-18,98.8773
+Lab Results API,2025-09-19,99.43053333333334
+Lab Results API,2025-09-20,99.43053333333334
+Lab Results API,2025-09-21,99.43053333333334
+Lab Results API,2025-09-22,99.43053333333334
+Lab Results API,2025-09-23,99.43053333333334
+Lab Results API,2025-09-24,99.43053333333334
+Lab Results API,2025-09-25,99.43053333333334
+Lab Results API,2025-09-26,99.56943333333334
+Lab Results API,2025-09-27,99.56943333333334
+Lab Results API,2025-09-28,99.56943333333334
+Lab Results API,2025-09-29,99.56943333333334
+Lab Results API,2025-09-30,99.49303333333334
+Lab Results API,2025-10-01,99.45136666666667
+Lab Results API,2025-10-02,99.45136666666667
+Lab Results API,2025-10-03,99.45136666666667
+Lab Results API,2025-10-04,99.3796
+Lab Results API,2025-10-05,99.3796
+Lab Results API,2025-10-06,99.3796
+Lab Results API,2025-10-07,99.3796
+Lab Results API,2025-10-08,99.3796
+Lab Results API,2025-10-09,98.93516666666666
+Lab Results API,2025-10-10,98.93516666666666
+Lab Results API,2025-10-11,98.93516666666666
+Lab Results API,2025-10-12,98.93516666666666
+Lab Results API,2025-10-13,98.93516666666666
+Lab Results API,2025-10-14,98.93516666666666
+Lab Results API,2025-10-15,98.93516666666666
+Lab Results API,2025-10-16,99.36573333333334
+Lab Results API,2025-10-17,99.36573333333334
+Lab Results API,2025-10-18,99.36573333333334
+Lab Results API,2025-10-19,99.36573333333334
+Lab Results API,2025-10-20,99.36573333333334
+Lab Results API,2025-10-21,99.0
+Lab Results API,2025-10-22,99.0
+Lab Results API,2025-10-23,99.0
+Lab Results API,2025-10-24,99.0
+Lab Results API,2025-10-25,99.0
+Lab Results API,2025-10-26,99.0
+Lab Results API,2025-10-27,98.50463333333333
+Lab Results API,2025-10-28,98.50463333333333
+Lab Results API,2025-10-29,98.50463333333333
+Lab Results API,2025-10-30,98.58103333333334
+Lab Results API,2025-10-31,98.6227
+Lab Results API,2025-11-01,98.6227
+Lab Results API,2025-11-02,98.6227
+Lab Results API,2025-11-03,98.69446666666666
+Lab Results API,2025-11-04,98.69446666666666
+Lab Results API,2025-11-05,98.69446666666666
+Lab Results API,2025-11-06,98.69446666666666
+Lab Results API,2025-11-07,98.69446666666666
+Lab Results API,2025-11-08,98.65973333333334
+Lab Results API,2025-11-09,98.65973333333334
+Lab Results API,2025-11-10,98.46066666666667
+Lab Results API,2025-11-11,98.46066666666667
+Lab Results API,2025-11-12,98.46066666666667
+Lab Results API,2025-11-13,98.46066666666667
+Lab Results API,2025-11-14,98.46066666666667
+Lab Results API,2025-11-15,98.46066666666667
+Lab Results API,2025-11-16,98.46066666666667
+Lab Results API,2025-11-17,98.46066666666667
+Lab Results API,2025-11-18,98.46066666666667
+Lab Results API,2025-11-19,98.46066666666667
+Lab Results API,2025-11-20,98.82639999999999
+Lab Results API,2025-11-21,98.82639999999999
+Lab Results API,2025-11-22,98.82639999999999
+Lab Results API,2025-11-23,98.82639999999999
+Lab Results API,2025-11-24,98.82639999999999
+Lab Results API,2025-11-25,98.82639999999999
+Lab Results API,2025-11-26,99.32176666666666
+Lab Results API,2025-11-27,99.32176666666666
+Lab Results API,2025-11-28,99.32176666666666
+Lab Results API,2025-11-29,99.32176666666666
+Lab Results API,2025-11-30,99.32176666666666
+Lab Results API,2025-12-01,99.16900000000001
+Lab Results API,2025-12-02,99.16900000000001
+Lab Results API,2025-12-03,99.16900000000001
+Lab Results API,2025-12-04,99.16900000000001
+Lab Results API,2025-12-05,98.89353333333334
+Lab Results API,2025-12-06,98.8403
+Lab Results API,2025-12-07,98.8403
+Lab Results API,2025-12-08,99.31946666666666
+Lab Results API,2025-12-09,99.31946666666666
+Lab Results API,2025-12-10,99.47686666666667
+Lab Results API,2025-12-11,99.47686666666667
+Lab Results API,2025-12-12,99.47686666666667
+Lab Results API,2025-12-13,99.47686666666667
+Lab Results API,2025-12-14,99.47686666666667
+Lab Results API,2025-12-15,99.47686666666667
+Lab Results API,2025-12-16,99.47686666666667
+Lab Results API,2025-12-17,99.30556666666666
+Lab Results API,2025-12-18,99.30556666666666
+Lab Results API,2025-12-19,99.30556666666666
+Lab Results API,2025-12-20,99.30556666666666
+Lab Results API,2025-12-21,99.30556666666666
+Lab Results API,2025-12-22,99.30556666666666
+Lab Results API,2025-12-23,99.30556666666666
+Lab Results API,2025-12-24,99.30556666666666
+Lab Results API,2025-12-25,99.30556666666666
+Lab Results API,2025-12-26,99.30556666666666
+Lab Results API,2025-12-27,99.30556666666666
+Lab Results API,2025-12-28,99.30556666666666
+Lab Results API,2025-12-29,99.30556666666666
+Lab Results API,2025-12-30,99.30556666666666
+Lab Results API,2025-12-31,99.45833333333333
+Lab Results API,2026-01-01,99.45833333333333
+Lab Results API,2026-01-02,99.45833333333333
+Lab Results API,2026-01-03,99.45833333333333
+Lab Results API,2026-01-04,99.61573333333334
+Lab Results API,2026-01-05,99.59490000000001
+Lab Results API,2026-01-06,99.59490000000001
+Lab Results API,2026-01-07,99.57176666666666
+Lab Results API,2026-01-08,99.57176666666666
+Lab Results API,2026-01-09,99.61343333333333
+Lab Results API,2026-01-10,99.61343333333333
+Lab Results API,2026-01-11,99.39353333333334
+Lab Results API,2026-01-12,99.39353333333334
+Lab Results API,2026-01-13,99.39353333333334
+Lab Results API,2026-01-14,99.39353333333334
+Lab Results API,2026-01-15,99.39353333333334
+Lab Results API,2026-01-16,99.56483333333334
+Lab Results API,2026-01-17,99.56483333333334
+Lab Results API,2026-01-18,99.56483333333334
+Lab Results API,2026-01-19,99.50696666666666
+Lab Results API,2026-01-20,99.50696666666666
+Lab Results API,2026-01-21,99.40509999999999
+Lab Results API,2026-01-22,99.40509999999999
+Lab Results API,2026-01-23,99.28009999999999
+Lab Results API,2026-01-24,99.28009999999999
+Lab Results API,2026-01-25,99.28009999999999
+Lab Results API,2026-01-26,99.06713333333333
+Lab Results API,2026-01-27,99.06713333333333
+Lab Results API,2026-01-28,99.06713333333333
+Lab Results API,2026-01-29,99.06713333333333
+Lab Results API,2026-01-30,99.01156666666667
+Lab Results API,2026-01-31,99.01156666666667
+Lab Results API,2026-02-01,99.01156666666667
+Lab Results API,2026-02-02,98.89583333333333
+Lab Results API,2026-02-03,99.01389999999999
+Lab Results API,2026-02-04,98.6852
+Lab Results API,2026-02-05,98.6852
+Lab Results API,2026-02-06,98.70833333333333
+Lab Results API,2026-02-07,98.70833333333333
+Lab Results API,2026-02-08,98.4352
+Lab Results API,2026-02-09,98.4352
+Lab Results API,2026-02-10,98.65509999999999
+Lab Results API,2026-02-11,98.45139999999999
+Lab Results API,2026-02-12,98.45139999999999
+Lab Results API,2026-02-13,98.45139999999999
+Lab Results API,2026-02-14,98.45139999999999
+Lab Results API,2026-02-15,98.45139999999999
+Lab Results API,2026-02-16,98.45139999999999
+Lab Results API,2026-02-17,98.45139999999999
+Lab Results API,2026-02-18,98.50926666666666
+Lab Results API,2026-02-19,98.31946666666666
+Lab Results API,2026-02-20,98.42133333333332
+Lab Results API,2026-02-21,98.42133333333332
+Lab Results API,2026-02-22,98.54633333333332
+Lab Results API,2026-02-23,98.54633333333332
+Lab Results API,2026-02-24,98.54633333333332
+Lab Results API,2026-02-25,98.7593
+Lab Results API,2026-02-26,98.7593
+Lab Results API,2026-02-27,98.7593
+Lab Results API,2026-02-28,98.7593
+Lab Results API,2026-03-01,98.81486666666666
+Lab Results API,2026-03-02,98.81486666666666
+Lab Results API,2026-03-03,98.81486666666666
+Lab Results API,2026-03-04,98.9306
+Lab Results API,2026-03-05,98.9306
+Lab Results API,2026-03-06,99.33336666666668
+Lab Results API,2026-03-07,99.33336666666668
+Lab Results API,2026-03-08,99.33336666666668
+Lab Results API,2026-03-09,99.33336666666668
+Lab Results API,2026-03-10,99.60650000000001
+Lab Results API,2026-03-11,99.60650000000001
+Lab Results API,2026-03-12,99.60650000000001
+Lab Results API,2026-03-13,99.8102
+Lab Results API,2026-03-14,99.56946666666666
+Lab Results API,2026-03-15,99.56946666666666
+Lab Results API,2026-03-16,99.41900000000001
+Lab Results API,2026-03-17,99.41900000000001
+Lab Results API,2026-03-18,99.41900000000001
+Lab Results API,2026-03-19,99.41900000000001
+Lab Results API,2026-03-20,99.12503333333333
+Lab Results API,2026-03-21,99.31483333333334
+Lab Results API,2026-03-22,99.31483333333334
+Lab Results API,2026-03-23,99.31483333333334
+Lab Results API,2026-03-24,99.31483333333334
+Lab Results API,2026-03-25,99.31483333333334
+Lab Results API,2026-03-26,99.31483333333334
+Lab Results API,2026-03-27,99.31483333333334
+Lab Results API,2026-03-28,99.31483333333334
+Lab Results API,2026-03-29,99.31483333333334
+Lab Results API,2026-03-30,99.31483333333334
+Lab Results API,2026-03-31,99.31483333333334
+Lab Results API,2026-04-01,99.31483333333334
+Lab Results API,2026-04-02,99.31483333333334
+Lab Results API,2026-04-03,99.2292
+Lab Results API,2026-04-04,99.2292
+Lab Results API,2026-04-05,99.2292
+Lab Results API,2026-04-06,99.2292
+Lab Results API,2026-04-07,99.2292
+Lab Results API,2026-04-08,99.2292
+Lab Results API,2026-04-09,99.2292
+Lab Results API,2026-04-10,98.46993333333333
+Lab Results API,2026-04-11,98.46993333333333
+Lab Results API,2026-04-12,98.46993333333333
+Lab Results API,2026-04-13,98.71066666666667
+Lab Results API,2026-04-14,98.71066666666667
+Lab Results API,2026-04-15,98.86113333333333
+Lab Results API,2026-04-16,98.75696666666666
+Lab Results API,2026-04-17,98.75696666666666
+Lab Results API,2026-04-18,98.75696666666666
+Lab Results API,2026-04-19,99.05093333333333
+Lab Results API,2026-04-20,99.05093333333333
+Lab Results API,2026-04-21,99.05093333333333
+Lab Results API,2026-04-22,98.78473333333334
+Lab Results API,2026-04-23,98.78473333333334
+Lab Results API,2026-04-24,98.78473333333334
+Lab Results API,2026-04-25,98.78473333333334
+Lab Results API,2026-04-26,98.78473333333334
+Lab Results API,2026-04-27,98.78473333333334
+Lab Results API,2026-04-28,98.78473333333334
+Lab Results API,2026-04-29,98.78473333333334
+Lab Results API,2026-04-30,98.78473333333334
+Lab Results API,2026-05-01,98.78473333333334
+Lab Results API,2026-05-02,98.78473333333334
+Lab Results API,2026-05-03,98.87036666666667
+Lab Results API,2026-05-04,98.87036666666667
+Lab Results API,2026-05-05,98.5
+Lab Results API,2026-05-06,98.5
+Lab Results API,2026-05-07,98.5
+Lab Results API,2026-05-08,97.98146666666666
+Lab Results API,2026-05-09,97.98146666666666
+Lab Results API,2026-05-10,98.74073333333334
+Lab Results API,2026-05-11,98.74073333333334
+Lab Results API,2026-05-12,98.3773
+Lab Results API,2026-05-13,98.3773
+Lab Results API,2026-05-14,98.3773
+Lab Results API,2026-05-15,98.3773
+Lab Results API,2026-05-16,98.48146666666666
+Lab Results API,2026-05-17,98.48146666666666
+Lab Results API,2026-05-18,98.48146666666666
+Lab Results API,2026-05-19,98.32173333333334
+Lab Results API,2026-05-20,98.32173333333334
+Lab Results API,2026-05-21,97.71756666666667
+Lab Results API,2026-05-22,97.98376666666667
+Lab Results API,2026-05-23,97.98376666666667
+Lab Results API,2026-05-24,97.98376666666667
+Lab Results API,2026-05-25,97.98376666666667
+Lab Results API,2026-05-26,97.98376666666667
+Lab Results API,2026-05-27,97.98376666666667
+Lab Results API,2026-05-28,97.98376666666667
+Lab Results API,2026-05-29,97.98376666666667
+Lab Results API,2026-05-30,97.98376666666667
+Lab Results API,2026-05-31,97.98376666666667
+Lab Results API,2026-06-01,97.98376666666667
+Lab Results API,2026-06-02,97.98376666666667
+Lab Results API,2026-06-03,97.98376666666667
+Lab Results API,2026-06-04,98.12726666666667
+Lab Results API,2026-06-05,98.12726666666667
+Lab Results API,2026-06-06,98.12726666666667
+Lab Results API,2026-06-07,98.6458
+Lab Results API,2026-06-08,98.6458
+Lab Results API,2026-06-09,98.6458
+Lab Results API,2026-06-10,98.6458
+Lab Results API,2026-06-11,99.00923333333334
+Lab Results API,2026-06-12,99.00923333333334
+Lab Results API,2026-06-13,99.00923333333334
+Lab Results API,2026-06-14,99.00923333333334
+Notification Service,2025-06-15,100.0
+Notification Service,2025-06-16,100.0
+Notification Service,2025-06-17,97.59266666666667
+Notification Service,2025-06-18,98.1945
+Notification Service,2025-06-19,98.5556
+Notification Service,2025-06-20,98.79633333333334
+Notification Service,2025-06-21,98.96828571428571
+Notification Service,2025-06-22,99.09725
+Notification Service,2025-06-23,98.696
+Notification Service,2025-06-24,98.8264
+Notification Service,2025-06-25,98.93309090909092
+Notification Service,2025-06-26,99.022
+Notification Service,2025-06-27,99.09723076923078
+Notification Service,2025-06-28,99.1617142857143
+Notification Service,2025-06-29,99.2176
+Notification Service,2025-06-30,99.26650000000001
+Notification Service,2025-07-01,99.30964705882354
+Notification Service,2025-07-02,99.34800000000001
+Notification Service,2025-07-03,99.1411052631579
+Notification Service,2025-07-04,99.18405
+Notification Service,2025-07-05,99.22290476190476
+Notification Service,2025-07-06,98.55113636363636
+Notification Service,2025-07-07,98.61413043478261
+Notification Service,2025-07-08,98.671875
+Notification Service,2025-07-09,98.43888000000001
+Notification Service,2025-07-10,98.49892307692309
+Notification Service,2025-07-11,98.55451851851852
+Notification Service,2025-07-12,98.60614285714287
+Notification Service,2025-07-13,98.33093103448276
+Notification Service,2025-07-14,98.38656666666667
+Notification Service,2025-07-15,98.2037
+Notification Service,2025-07-16,98.2037
+Notification Service,2025-07-17,98.44443333333334
+Notification Service,2025-07-18,98.44443333333334
+Notification Service,2025-07-19,98.44443333333334
+Notification Service,2025-07-20,98.44443333333334
+Notification Service,2025-07-21,98.44443333333334
+Notification Service,2025-07-22,98.44443333333334
+Notification Service,2025-07-23,98.59490000000001
+Notification Service,2025-07-24,98.59490000000001
+Notification Service,2025-07-25,98.59490000000001
+Notification Service,2025-07-26,98.59490000000001
+Notification Service,2025-07-27,98.59490000000001
+Notification Service,2025-07-28,98.29860000000001
+Notification Service,2025-07-29,98.29860000000001
+Notification Service,2025-07-30,98.29860000000001
+Notification Service,2025-07-31,98.29860000000001
+Notification Service,2025-08-01,98.18286666666667
+Notification Service,2025-08-02,98.33563333333333
+Notification Service,2025-08-03,98.33563333333333
+Notification Service,2025-08-04,98.09490000000001
+Notification Service,2025-08-05,98.61343333333333
+Notification Service,2025-08-06,98.61343333333333
+Notification Service,2025-08-07,98.61343333333333
+Notification Service,2025-08-08,98.85186666666667
+Notification Service,2025-08-09,98.85186666666667
+Notification Service,2025-08-10,98.85186666666667
+Notification Service,2025-08-11,98.85186666666667
+Notification Service,2025-08-12,99.16436666666667
+Notification Service,2025-08-13,99.10416666666667
+Notification Service,2025-08-14,99.28703333333333
+Notification Service,2025-08-15,98.59026666666666
+Notification Service,2025-08-16,98.59026666666666
+Notification Service,2025-08-17,98.59026666666666
+Notification Service,2025-08-18,98.59026666666666
+Notification Service,2025-08-19,98.16433333333333
+Notification Service,2025-08-20,98.16433333333333
+Notification Service,2025-08-21,98.16433333333333
+Notification Service,2025-08-22,98.16433333333333
+Notification Service,2025-08-23,98.16433333333333
+Notification Service,2025-08-24,98.16433333333333
+Notification Service,2025-08-25,98.16433333333333
+Notification Service,2025-08-26,97.93286666666667
+Notification Service,2025-08-27,98.22916666666667
+Notification Service,2025-08-28,98.22916666666667
+Notification Service,2025-08-29,98.22916666666667
+Notification Service,2025-08-30,98.22916666666667
+Notification Service,2025-08-31,98.34490000000001
+Notification Service,2025-09-01,98.34490000000001
+Notification Service,2025-09-02,98.34490000000001
+Notification Service,2025-09-03,98.58563333333333
+Notification Service,2025-09-04,98.58563333333333
+Notification Service,2025-09-05,98.58563333333333
+Notification Service,2025-09-06,98.58563333333333
+Notification Service,2025-09-07,98.58563333333333
+Notification Service,2025-09-08,98.58563333333333
+Notification Service,2025-09-09,98.58563333333333
+Notification Service,2025-09-10,98.58563333333333
+Notification Service,2025-09-11,98.58563333333333
+Notification Service,2025-09-12,98.28936666666667
+Notification Service,2025-09-13,98.28936666666667
+Notification Service,2025-09-14,98.53706666666668
+Notification Service,2025-09-15,98.53706666666668
+Notification Service,2025-09-16,98.53706666666668
+Notification Service,2025-09-17,98.53706666666668
+Notification Service,2025-09-18,98.963
+Notification Service,2025-09-19,98.963
+Notification Service,2025-09-20,98.963
+Notification Service,2025-09-21,98.963
+Notification Service,2025-09-22,98.963
+Notification Service,2025-09-23,98.963
+Notification Service,2025-09-24,98.81253333333333
+Notification Service,2025-09-25,99.04400000000001
+Notification Service,2025-09-26,99.04400000000001
+Notification Service,2025-09-27,99.04400000000001
+Notification Service,2025-09-28,98.51623333333333
+Notification Service,2025-09-29,97.97686666666667
+Notification Service,2025-09-30,97.97686666666667
+Notification Service,2025-10-01,97.97686666666667
+Notification Service,2025-10-02,97.97686666666667
+Notification Service,2025-10-03,97.97686666666667
+Notification Service,2025-10-04,97.97686666666667
+Notification Service,2025-10-05,97.97686666666667
+Notification Service,2025-10-06,97.97686666666667
+Notification Service,2025-10-07,97.97686666666667
+Notification Service,2025-10-08,97.97686666666667
+Notification Service,2025-10-09,97.97686666666667
+Notification Service,2025-10-10,97.97686666666667
+Notification Service,2025-10-11,97.97686666666667
+Notification Service,2025-10-12,98.33333333333333
+Notification Service,2025-10-13,98.33333333333333
+Notification Service,2025-10-14,98.5162
+Notification Service,2025-10-15,98.5162
+Notification Service,2025-10-16,98.5162
+Notification Service,2025-10-17,98.5162
+Notification Service,2025-10-18,98.5162
+Notification Service,2025-10-19,98.5162
+Notification Service,2025-10-20,98.5162
+Notification Service,2025-10-21,98.5162
+Notification Service,2025-10-22,98.5162
+Notification Service,2025-10-23,98.5162
+Notification Service,2025-10-24,98.66666666666667
+Notification Service,2025-10-25,98.66666666666667
+Notification Service,2025-10-26,98.66666666666667
+Notification Service,2025-10-27,98.66666666666667
+Notification Service,2025-10-28,99.19443333333334
+Notification Service,2025-10-29,99.7338
+Notification Service,2025-10-30,99.7338
+Notification Service,2025-10-31,99.7338
+Notification Service,2025-11-01,99.70139999999999
+Notification Service,2025-11-02,99.70139999999999
+Notification Service,2025-11-03,99.70139999999999
+Notification Service,2025-11-04,99.47223333333334
+Notification Service,2025-11-05,99.35416666666667
+Notification Service,2025-11-06,99.28703333333333
+Notification Service,2025-11-07,99.05556666666666
+Notification Service,2025-11-08,99.05556666666666
+Notification Service,2025-11-09,99.05556666666666
+Notification Service,2025-11-10,99.05556666666666
+Notification Service,2025-11-11,99.05556666666666
+Notification Service,2025-11-12,99.05556666666666
+Notification Service,2025-11-13,99.14816666666667
+Notification Service,2025-11-14,99.14816666666667
+Notification Service,2025-11-15,99.14816666666667
+Notification Service,2025-11-16,99.14816666666667
+Notification Service,2025-11-17,99.14816666666667
+Notification Service,2025-11-18,99.14816666666667
+Notification Service,2025-11-19,99.06483333333334
+Notification Service,2025-11-20,99.01623333333333
+Notification Service,2025-11-21,99.01623333333333
+Notification Service,2025-11-22,99.01623333333333
+Notification Service,2025-11-23,99.01623333333333
+Notification Service,2025-11-24,99.01623333333333
+Notification Service,2025-11-25,99.01623333333333
+Notification Service,2025-11-26,99.01623333333333
+Notification Service,2025-11-27,99.01623333333333
+Notification Service,2025-11-28,98.53013333333334
+Notification Service,2025-11-29,98.53013333333334
+Notification Service,2025-11-30,98.53013333333334
+Notification Service,2025-12-01,98.56253333333333
+Notification Service,2025-12-02,97.9954
+Notification Service,2025-12-03,97.9954
+Notification Service,2025-12-04,98.22456666666668
+Notification Service,2025-12-05,98.34263333333334
+Notification Service,2025-12-06,98.25236666666666
+Notification Service,2025-12-07,98.48383333333332
+Notification Service,2025-12-08,98.2778
+Notification Service,2025-12-09,98.2778
+Notification Service,2025-12-10,98.2778
+Notification Service,2025-12-11,98.2778
+Notification Service,2025-12-12,98.2778
+Notification Service,2025-12-13,98.45139999999999
+Notification Service,2025-12-14,98.41666666666667
+Notification Service,2025-12-15,98.41666666666667
+Notification Service,2025-12-16,98.41666666666667
+Notification Service,2025-12-17,98.41666666666667
+Notification Service,2025-12-18,98.41666666666667
+Notification Service,2025-12-19,98.5
+Notification Service,2025-12-20,98.54860000000001
+Notification Service,2025-12-21,98.54860000000001
+Notification Service,2025-12-22,98.54860000000001
+Notification Service,2025-12-23,98.54860000000001
+Notification Service,2025-12-24,98.54860000000001
+Notification Service,2025-12-25,98.54860000000001
+Notification Service,2025-12-26,98.40740000000001
+Notification Service,2025-12-27,98.14813333333333
+Notification Service,2025-12-28,98.63423333333334
+Notification Service,2025-12-29,98.63423333333334
+Notification Service,2025-12-30,98.63423333333334
+Notification Service,2025-12-31,98.63423333333334
+Notification Service,2026-01-01,99.20136666666667
+Notification Service,2026-01-02,99.20136666666667
+Notification Service,2026-01-03,99.20136666666667
+Notification Service,2026-01-04,99.20136666666667
+Notification Service,2026-01-05,99.35876666666667
+Notification Service,2026-01-06,99.35876666666667
+Notification Service,2026-01-07,99.5648
+Notification Service,2026-01-08,99.4722
+Notification Service,2026-01-09,99.4722
+Notification Service,2026-01-10,99.4722
+Notification Service,2026-01-11,99.4722
+Notification Service,2026-01-12,99.18746666666667
+Notification Service,2026-01-13,99.2222
+Notification Service,2026-01-14,99.16433333333333
+Notification Service,2026-01-15,99.04626666666667
+Notification Service,2026-01-16,99.04626666666667
+Notification Service,2026-01-17,99.04626666666667
+Notification Service,2026-01-18,99.04626666666667
+Notification Service,2026-01-19,99.04626666666667
+Notification Service,2026-01-20,99.04626666666667
+Notification Service,2026-01-21,99.04626666666667
+Notification Service,2026-01-22,99.04626666666667
+Notification Service,2026-01-23,99.04626666666667
+Notification Service,2026-01-24,99.04626666666667
+Notification Service,2026-01-25,99.18746666666667
+Notification Service,2026-01-26,99.44673333333334
+Notification Service,2026-01-27,99.44673333333334
+Notification Service,2026-01-28,99.44673333333334
+Notification Service,2026-01-29,99.00693333333334
+Notification Service,2026-01-30,99.00693333333334
+Notification Service,2026-01-31,99.00693333333334
+Notification Service,2026-02-01,99.00693333333334
+Notification Service,2026-02-02,99.00693333333334
+Notification Service,2026-02-03,99.00693333333334
+Notification Service,2026-02-04,99.00693333333334
+Notification Service,2026-02-05,98.88656666666665
+Notification Service,2026-02-06,98.88656666666665
+Notification Service,2026-02-07,98.7477
+Notification Service,2026-02-08,98.7477
+Notification Service,2026-02-09,98.7477
+Notification Service,2026-02-10,98.54166666666667
+Notification Service,2026-02-11,98.82639999999999
+Notification Service,2026-02-12,98.82639999999999
+Notification Service,2026-02-13,98.88426666666666
+Notification Service,2026-02-14,99.00233333333334
+Notification Service,2026-02-15,99.00233333333334
+Notification Service,2026-02-16,99.00233333333334
+Notification Service,2026-02-17,99.00233333333334
+Notification Service,2026-02-18,99.00233333333334
+Notification Service,2026-02-19,99.00233333333334
+Notification Service,2026-02-20,99.00233333333334
+Notification Service,2026-02-21,98.76853333333334
+Notification Service,2026-02-22,98.76853333333334
+Notification Service,2026-02-23,98.76853333333334
+Notification Service,2026-02-24,98.1875
+Notification Service,2026-02-25,98.1875
+Notification Service,2026-02-26,98.1875
+Notification Service,2026-02-27,98.0787
+Notification Service,2026-02-28,98.51849999999999
+Notification Service,2026-03-01,98.51849999999999
+Notification Service,2026-03-02,98.51849999999999
+Notification Service,2026-03-03,98.51849999999999
+Notification Service,2026-03-04,98.51849999999999
+Notification Service,2026-03-05,98.40740000000001
+Notification Service,2026-03-06,98.40740000000001
+Notification Service,2026-03-07,98.52776666666666
+Notification Service,2026-03-08,98.52776666666666
+Notification Service,2026-03-09,98.75923333333334
+Notification Service,2026-03-10,98.75923333333334
+Notification Service,2026-03-11,98.75923333333334
+Notification Service,2026-03-12,98.96526666666666
+Notification Service,2026-03-13,98.96526666666666
+Notification Service,2026-03-14,98.96526666666666
+Notification Service,2026-03-15,98.96526666666666
+Notification Service,2026-03-16,98.96526666666666
+Notification Service,2026-03-17,98.45833333333333
+Notification Service,2026-03-18,98.45833333333333
+Notification Service,2026-03-19,98.22916666666667
+Notification Service,2026-03-20,98.22916666666667
+Notification Service,2026-03-21,98.22916666666667
+Notification Service,2026-03-22,98.22916666666667
+Notification Service,2026-03-23,98.46296666666667
+Notification Service,2026-03-24,98.46296666666667
+Notification Service,2026-03-25,98.46296666666667
+Notification Service,2026-03-26,99.04400000000001
+Notification Service,2026-03-27,99.04400000000001
+Notification Service,2026-03-28,99.04400000000001
+Notification Service,2026-03-29,99.1528
+Notification Service,2026-03-30,99.1528
+Notification Service,2026-03-31,99.1528
+Notification Service,2026-04-01,99.06716666666667
+Notification Service,2026-04-02,99.06716666666667
+Notification Service,2026-04-03,99.06716666666667
+Notification Service,2026-04-04,99.17826666666666
+Notification Service,2026-04-05,99.17826666666666
+Notification Service,2026-04-06,99.17826666666666
+Notification Service,2026-04-07,99.17826666666666
+Notification Service,2026-04-08,99.0718
+Notification Service,2026-04-09,99.0718
+Notification Service,2026-04-10,98.8056
+Notification Service,2026-04-11,98.8056
+Notification Service,2026-04-12,98.8056
+Notification Service,2026-04-13,98.8056
+Notification Service,2026-04-14,98.59956666666668
+Notification Service,2026-04-15,98.59956666666668
+Notification Service,2026-04-16,99.10650000000001
+Notification Service,2026-04-17,99.10650000000001
+Notification Service,2026-04-18,99.33566666666667
+Notification Service,2026-04-19,99.33566666666667
+Notification Service,2026-04-20,99.33566666666667
+Notification Service,2026-04-21,99.33566666666667
+Notification Service,2026-04-22,98.9491
+Notification Service,2026-04-23,98.9491
+Notification Service,2026-04-24,98.9491
+Notification Service,2026-04-25,98.9491
+Notification Service,2026-04-26,98.9491
+Notification Service,2026-04-27,98.9491
+Notification Service,2026-04-28,98.9491
+Notification Service,2026-04-29,98.9491
+Notification Service,2026-04-30,98.9491
+Notification Service,2026-05-01,99.03473333333334
+Notification Service,2026-05-02,99.03473333333334
+Notification Service,2026-05-03,99.03473333333334
+Notification Service,2026-05-04,99.03473333333334
+Notification Service,2026-05-05,99.03473333333334
+Notification Service,2026-05-06,99.03473333333334
+Notification Service,2026-05-07,99.03473333333334
+Notification Service,2026-05-08,99.00926666666666
+Notification Service,2026-05-09,99.00926666666666
+Notification Service,2026-05-10,99.27546666666667
+Notification Service,2026-05-11,99.04860000000001
+Notification Service,2026-05-12,99.04860000000001
+Notification Service,2026-05-13,99.04860000000001
+Notification Service,2026-05-14,99.25463333333333
+Notification Service,2026-05-15,99.25463333333333
+Notification Service,2026-05-16,99.25463333333333
+Notification Service,2026-05-17,98.34490000000001
+Notification Service,2026-05-18,98.34490000000001
+Notification Service,2026-05-19,98.34490000000001
+Notification Service,2026-05-20,98.34490000000001
+Notification Service,2026-05-21,98.34490000000001
+Notification Service,2026-05-22,98.73146666666666
+Notification Service,2026-05-23,98.73146666666666
+Notification Service,2026-05-24,98.73146666666666
+Notification Service,2026-05-25,98.73146666666666
+Notification Service,2026-05-26,98.73146666666666
+Notification Service,2026-05-27,98.59953333333333
+Notification Service,2026-05-28,98.59953333333333
+Notification Service,2026-05-29,98.59953333333333
+Notification Service,2026-05-30,98.59953333333333
+Notification Service,2026-05-31,98.59953333333333
+Notification Service,2026-06-01,98.59953333333333
+Notification Service,2026-06-02,98.59953333333333
+Notification Service,2026-06-03,98.59953333333333
+Notification Service,2026-06-04,98.34259999999999
+Notification Service,2026-06-05,98.34259999999999
+Notification Service,2026-06-06,98.34259999999999
+Notification Service,2026-06-07,98.47453333333333
+Notification Service,2026-06-08,98.47453333333333
+Notification Service,2026-06-09,98.47453333333333
+Notification Service,2026-06-10,98.57639999999999
+Notification Service,2026-06-11,98.57639999999999
+Notification Service,2026-06-12,98.57639999999999
+Notification Service,2026-06-13,98.57639999999999
+Notification Service,2026-06-14,98.57639999999999
+Patient Portal,2025-06-15,100.0
+Patient Portal,2025-06-16,100.0
+Patient Portal,2025-06-17,100.0
+Patient Portal,2025-06-18,100.0
+Patient Portal,2025-06-19,99.5
+Patient Portal,2025-06-20,99.58333333333333
+Patient Portal,2025-06-21,99.64285714285714
+Patient Portal,2025-06-22,99.6875
+Patient Portal,2025-06-23,99.72222222222223
+Patient Portal,2025-06-24,99.75
+Patient Portal,2025-06-25,99.77272727272727
+Patient Portal,2025-06-26,99.79166666666667
+Patient Portal,2025-06-27,99.8076923076923
+Patient Portal,2025-06-28,99.82142857142857
+Patient Portal,2025-06-29,99.83333333333333
+Patient Portal,2025-06-30,99.84375
+Patient Portal,2025-07-01,99.8529411764706
+Patient Portal,2025-07-02,99.294
+Patient Portal,2025-07-03,99.09357894736843
+Patient Portal,2025-07-04,99.1389
+Patient Portal,2025-07-05,99.17990476190475
+Patient Portal,2025-07-06,99.08777272727274
+Patient Portal,2025-07-07,99.1274347826087
+Patient Portal,2025-07-08,99.01041666666667
+Patient Portal,2025-07-09,99.05
+Patient Portal,2025-07-10,99.02511538461539
+Patient Portal,2025-07-11,99.06122222222223
+Patient Portal,2025-07-12,99.09475
+Patient Portal,2025-07-13,99.12596551724138
+Patient Portal,2025-07-14,99.1551
+Patient Portal,2025-07-15,99.1551
+Patient Portal,2025-07-16,99.1551
+Patient Portal,2025-07-17,99.1551
+Patient Portal,2025-07-18,99.09953333333333
+Patient Portal,2025-07-19,99.18286666666667
+Patient Portal,2025-07-20,99.18286666666667
+Patient Portal,2025-07-21,98.71526666666666
+Patient Portal,2025-07-22,98.71526666666666
+Patient Portal,2025-07-23,98.71526666666666
+Patient Portal,2025-07-24,98.71526666666666
+Patient Portal,2025-07-25,98.71526666666666
+Patient Portal,2025-07-26,98.44443333333334
+Patient Portal,2025-07-27,98.44443333333334
+Patient Portal,2025-07-28,98.44443333333334
+Patient Portal,2025-07-29,98.44443333333334
+Patient Portal,2025-07-30,98.21296666666667
+Patient Portal,2025-07-31,97.93983333333334
+Patient Portal,2025-08-01,98.28009999999999
+Patient Portal,2025-08-02,98.43056666666666
+Patient Portal,2025-08-03,98.43056666666666
+Patient Portal,2025-08-04,98.43056666666666
+Patient Portal,2025-08-05,98.52546666666667
+Patient Portal,2025-08-06,98.52546666666667
+Patient Portal,2025-08-07,98.64816666666667
+Patient Portal,2025-08-08,98.55326666666666
+Patient Portal,2025-08-09,98.60650000000001
+Patient Portal,2025-08-10,98.60650000000001
+Patient Portal,2025-08-11,98.60650000000001
+Patient Portal,2025-08-12,98.60650000000001
+Patient Portal,2025-08-13,98.60650000000001
+Patient Portal,2025-08-14,98.60650000000001
+Patient Portal,2025-08-15,98.40743333333333
+Patient Portal,2025-08-16,98.40743333333333
+Patient Portal,2025-08-17,98.463
+Patient Portal,2025-08-18,98.3056
+Patient Portal,2025-08-19,98.3056
+Patient Portal,2025-08-20,98.7732
+Patient Portal,2025-08-21,98.7732
+Patient Portal,2025-08-22,98.7732
+Patient Portal,2025-08-23,98.7732
+Patient Portal,2025-08-24,98.7732
+Patient Portal,2025-08-25,99.04403333333333
+Patient Portal,2025-08-26,99.04403333333333
+Patient Portal,2025-08-27,99.04403333333333
+Patient Portal,2025-08-28,99.04403333333333
+Patient Portal,2025-08-29,99.2755
+Patient Portal,2025-08-30,99.54863333333333
+Patient Portal,2025-08-31,99.54863333333333
+Patient Portal,2025-09-01,99.54863333333333
+Patient Portal,2025-09-02,99.54863333333333
+Patient Portal,2025-09-03,99.2801
+Patient Portal,2025-09-04,99.2801
+Patient Portal,2025-09-05,99.2801
+Patient Portal,2025-09-06,99.2801
+Patient Portal,2025-09-07,99.375
+Patient Portal,2025-09-08,99.375
+Patient Portal,2025-09-09,99.375
+Patient Portal,2025-09-10,99.15276666666666
+Patient Portal,2025-09-11,99.15276666666666
+Patient Portal,2025-09-12,99.15276666666666
+Patient Portal,2025-09-13,99.15276666666666
+Patient Portal,2025-09-14,99.10183333333333
+Patient Portal,2025-09-15,99.00923333333334
+Patient Portal,2025-09-16,99.00923333333334
+Patient Portal,2025-09-17,99.07403333333333
+Patient Portal,2025-09-18,99.07403333333333
+Patient Portal,2025-09-19,99.07403333333333
+Patient Portal,2025-09-20,99.07403333333333
+Patient Portal,2025-09-21,99.02773333333333
+Patient Portal,2025-09-22,99.02773333333333
+Patient Portal,2025-09-23,99.02773333333333
+Patient Portal,2025-09-24,98.92356666666666
+Patient Portal,2025-09-25,98.92356666666666
+Patient Portal,2025-09-26,98.92356666666666
+Patient Portal,2025-09-27,98.59716666666667
+Patient Portal,2025-09-28,98.59716666666667
+Patient Portal,2025-09-29,98.31706666666668
+Patient Portal,2025-09-30,98.20596666666667
+Patient Portal,2025-10-01,98.20596666666667
+Patient Portal,2025-10-02,98.20596666666667
+Patient Portal,2025-10-03,98.4745
+Patient Portal,2025-10-04,98.4745
+Patient Portal,2025-10-05,98.4745
+Patient Portal,2025-10-06,98.4745
+Patient Portal,2025-10-07,98.12263333333334
+Patient Portal,2025-10-08,98.12263333333334
+Patient Portal,2025-10-09,98.12263333333334
+Patient Portal,2025-10-10,98.34486666666666
+Patient Portal,2025-10-11,98.34486666666666
+Patient Portal,2025-10-12,98.34486666666666
+Patient Portal,2025-10-13,98.34486666666666
+Patient Portal,2025-10-14,98.59486666666666
+Patient Portal,2025-10-15,98.68746666666667
+Patient Portal,2025-10-16,98.68746666666667
+Patient Portal,2025-10-17,98.78006666666667
+Patient Portal,2025-10-18,98.78006666666667
+Patient Portal,2025-10-19,98.6898
+Patient Portal,2025-10-20,98.6898
+Patient Portal,2025-10-21,98.73610000000001
+Patient Portal,2025-10-22,98.73610000000001
+Patient Portal,2025-10-23,98.73610000000001
+Patient Portal,2025-10-24,98.84026666666666
+Patient Portal,2025-10-25,98.84026666666666
+Patient Portal,2025-10-26,98.84026666666666
+Patient Portal,2025-10-27,98.90509999999999
+Patient Portal,2025-10-28,98.74306666666666
+Patient Portal,2025-10-29,99.02316666666667
+Patient Portal,2025-10-30,99.13426666666666
+Patient Portal,2025-10-31,99.13426666666666
+Patient Portal,2025-11-01,99.13426666666666
+Patient Portal,2025-11-02,99.13426666666666
+Patient Portal,2025-11-03,98.9653
+Patient Portal,2025-11-04,98.9653
+Patient Portal,2025-11-05,98.9653
+Patient Portal,2025-11-06,99.28939999999999
+Patient Portal,2025-11-07,99.28939999999999
+Patient Portal,2025-11-08,99.28939999999999
+Patient Portal,2025-11-09,99.28939999999999
+Patient Portal,2025-11-10,99.28939999999999
+Patient Portal,2025-11-11,99.28939999999999
+Patient Portal,2025-11-12,99.25236666666666
+Patient Portal,2025-11-13,99.25236666666666
+Patient Portal,2025-11-14,99.25236666666666
+Patient Portal,2025-11-15,99.25236666666666
+Patient Portal,2025-11-16,99.25236666666666
+Patient Portal,2025-11-17,99.04633333333332
+Patient Portal,2025-11-18,99.1366
+Patient Portal,2025-11-19,99.1366
+Patient Portal,2025-11-20,99.1366
+Patient Portal,2025-11-21,99.1366
+Patient Portal,2025-11-22,99.1366
+Patient Portal,2025-11-23,99.1366
+Patient Portal,2025-11-24,99.1366
+Patient Portal,2025-11-25,99.1366
+Patient Portal,2025-11-26,99.39816666666667
+Patient Portal,2025-11-27,99.5602
+Patient Portal,2025-11-28,99.5602
+Patient Portal,2025-11-29,99.5602
+Patient Portal,2025-11-30,99.5602
+Patient Portal,2025-12-01,99.5602
+Patient Portal,2025-12-02,99.5602
+Patient Portal,2025-12-03,99.54396666666666
+Patient Portal,2025-12-04,99.54396666666666
+Patient Portal,2025-12-05,99.4097
+Patient Portal,2025-12-06,99.43746666666667
+Patient Portal,2025-12-07,99.43746666666667
+Patient Portal,2025-12-08,99.43746666666667
+Patient Portal,2025-12-09,99.43746666666667
+Patient Portal,2025-12-10,99.3032
+Patient Portal,2025-12-11,99.3032
+Patient Portal,2025-12-12,99.34023333333333
+Patient Portal,2025-12-13,99.34023333333333
+Patient Portal,2025-12-14,99.34023333333333
+Patient Portal,2025-12-15,99.34023333333333
+Patient Portal,2025-12-16,99.34023333333333
+Patient Portal,2025-12-17,99.54626666666667
+Patient Portal,2025-12-18,99.54626666666667
+Patient Portal,2025-12-19,99.54626666666667
+Patient Portal,2025-12-20,99.54626666666667
+Patient Portal,2025-12-21,99.4583
+Patient Portal,2025-12-22,98.63653333333333
+Patient Portal,2025-12-23,98.4143
+Patient Portal,2025-12-24,98.4143
+Patient Portal,2025-12-25,98.4143
+Patient Portal,2025-12-26,98.4143
+Patient Portal,2025-12-27,98.4143
+Patient Portal,2025-12-28,98.4143
+Patient Portal,2025-12-29,98.4143
+Patient Portal,2025-12-30,98.4143
+Patient Portal,2025-12-31,98.4143
+Patient Portal,2026-01-01,98.4143
+Patient Portal,2026-01-02,98.5995
+Patient Portal,2026-01-03,98.5995
+Patient Portal,2026-01-04,98.73376666666667
+Patient Portal,2026-01-05,98.6157
+Patient Portal,2026-01-06,98.6157
+Patient Portal,2026-01-07,98.6157
+Patient Portal,2026-01-08,98.6157
+Patient Portal,2026-01-09,98.74996666666667
+Patient Portal,2026-01-10,98.74996666666667
+Patient Portal,2026-01-11,98.74996666666667
+Patient Portal,2026-01-12,98.2569
+Patient Portal,2026-01-13,98.2569
+Patient Portal,2026-01-14,98.2569
+Patient Portal,2026-01-15,98.2569
+Patient Portal,2026-01-16,98.2569
+Patient Portal,2026-01-17,98.2569
+Patient Portal,2026-01-18,98.21523333333333
+Patient Portal,2026-01-19,98.21523333333333
+Patient Portal,2026-01-20,98.3032
+Patient Portal,2026-01-21,99.12496666666667
+Patient Portal,2026-01-22,99.3472
+Patient Portal,2026-01-23,99.3472
+Patient Portal,2026-01-24,99.3472
+Patient Portal,2026-01-25,99.3472
+Patient Portal,2026-01-26,99.3472
+Patient Portal,2026-01-27,99.3472
+Patient Portal,2026-01-28,99.3472
+Patient Portal,2026-01-29,99.3472
+Patient Portal,2026-01-30,99.3472
+Patient Portal,2026-01-31,99.3472
+Patient Portal,2026-02-01,99.3472
+Patient Portal,2026-02-02,99.3472
+Patient Portal,2026-02-03,99.3472
+Patient Portal,2026-02-04,99.46526666666666
+Patient Portal,2026-02-05,99.46526666666666
+Patient Portal,2026-02-06,99.46526666666666
+Patient Portal,2026-02-07,99.46526666666666
+Patient Portal,2026-02-08,99.46526666666666
+Patient Portal,2026-02-09,99.46526666666666
+Patient Portal,2026-02-10,99.46526666666666
+Patient Portal,2026-02-11,99.91896666666666
+Patient Portal,2026-02-12,99.79626666666667
+Patient Portal,2026-02-13,99.79626666666667
+Patient Portal,2026-02-14,99.79626666666667
+Patient Portal,2026-02-15,99.79626666666667
+Patient Portal,2026-02-16,99.34486666666666
+Patient Portal,2026-02-17,99.38653333333333
+Patient Portal,2026-02-18,99.38653333333333
+Patient Portal,2026-02-19,99.2245
+Patient Portal,2026-02-20,99.2245
+Patient Portal,2026-02-21,99.2245
+Patient Portal,2026-02-22,99.2245
+Patient Portal,2026-02-23,99.2245
+Patient Portal,2026-02-24,99.2245
+Patient Portal,2026-02-25,99.2245
+Patient Portal,2026-02-26,99.2245
+Patient Portal,2026-02-27,99.15736666666666
+Patient Portal,2026-02-28,99.15736666666666
+Patient Portal,2026-03-01,99.15736666666666
+Patient Portal,2026-03-02,99.15736666666666
+Patient Portal,2026-03-03,99.15736666666666
+Patient Portal,2026-03-04,99.15736666666666
+Patient Portal,2026-03-05,99.15736666666666
+Patient Portal,2026-03-06,98.8518
+Patient Portal,2026-03-07,98.8518
+Patient Portal,2026-03-08,98.8518
+Patient Portal,2026-03-09,98.8518
+Patient Portal,2026-03-10,98.8518
+Patient Portal,2026-03-11,98.8518
+Patient Portal,2026-03-12,98.8518
+Patient Portal,2026-03-13,98.89116666666668
+Patient Portal,2026-03-14,99.01386666666667
+Patient Portal,2026-03-15,99.01386666666667
+Patient Portal,2026-03-16,99.01386666666667
+Patient Portal,2026-03-17,98.90506666666667
+Patient Portal,2026-03-18,99.35646666666666
+Patient Portal,2026-03-19,99.35646666666666
+Patient Portal,2026-03-20,99.35646666666666
+Patient Portal,2026-03-21,99.38886666666667
+Patient Portal,2026-03-22,99.38886666666667
+Patient Portal,2026-03-23,99.38886666666667
+Patient Portal,2026-03-24,99.38886666666667
+Patient Portal,2026-03-25,99.38886666666667
+Patient Portal,2026-03-26,99.38886666666667
+Patient Portal,2026-03-27,99.34256666666667
+Patient Portal,2026-03-28,99.34256666666667
+Patient Portal,2026-03-29,99.4097
+Patient Portal,2026-03-30,99.3333
+Patient Portal,2026-03-31,99.3333
+Patient Portal,2026-04-01,98.93976666666667
+Patient Portal,2026-04-02,98.93976666666667
+Patient Portal,2026-04-03,98.93976666666667
+Patient Portal,2026-04-04,98.93976666666667
+Patient Portal,2026-04-05,99.24533333333333
+Patient Portal,2026-04-06,99.18513333333334
+Patient Portal,2026-04-07,99.18513333333334
+Patient Portal,2026-04-08,99.18513333333334
+Patient Portal,2026-04-09,99.18513333333334
+Patient Portal,2026-04-10,99.18513333333334
+Patient Portal,2026-04-11,99.00456666666668
+Patient Portal,2026-04-12,99.00456666666668
+Patient Portal,2026-04-13,99.00456666666668
+Patient Portal,2026-04-14,99.00456666666668
+Patient Portal,2026-04-15,99.00456666666668
+Patient Portal,2026-04-16,99.11336666666666
+Patient Portal,2026-04-17,99.11336666666666
+Patient Portal,2026-04-18,99.11336666666666
+Patient Portal,2026-04-19,98.96523333333333
+Patient Portal,2026-04-20,99.09486666666666
+Patient Portal,2026-04-21,99.09486666666666
+Patient Portal,2026-04-22,99.09486666666666
+Patient Portal,2026-04-23,99.09486666666666
+Patient Portal,2026-04-24,99.09486666666666
+Patient Portal,2026-04-25,99.09486666666666
+Patient Portal,2026-04-26,99.14116666666668
+Patient Portal,2026-04-27,99.0532
+Patient Portal,2026-04-28,98.90736666666666
+Patient Portal,2026-04-29,98.98376666666667
+Patient Portal,2026-04-30,98.98376666666667
+Patient Portal,2026-05-01,99.3773
+Patient Portal,2026-05-02,99.3773
+Patient Portal,2026-05-03,99.3773
+Patient Portal,2026-05-04,99.1759
+Patient Portal,2026-05-05,99.1759
+Patient Portal,2026-05-06,99.23610000000001
+Patient Portal,2026-05-07,99.23610000000001
+Patient Portal,2026-05-08,99.23610000000001
+Patient Portal,2026-05-09,99.23610000000001
+Patient Portal,2026-05-10,99.23610000000001
+Patient Portal,2026-05-11,99.41666666666667
+Patient Portal,2026-05-12,99.41666666666667
+Patient Portal,2026-05-13,99.41666666666667
+Patient Portal,2026-05-14,99.41666666666667
+Patient Portal,2026-05-15,99.41666666666667
+Patient Portal,2026-05-16,99.41666666666667
+Patient Portal,2026-05-17,99.41666666666667
+Patient Portal,2026-05-18,99.41666666666667
+Patient Portal,2026-05-19,99.5648
+Patient Portal,2026-05-20,99.5648
+Patient Portal,2026-05-21,99.5648
+Patient Portal,2026-05-22,99.5648
+Patient Portal,2026-05-23,99.5648
+Patient Portal,2026-05-24,99.5648
+Patient Portal,2026-05-25,99.5648
+Patient Portal,2026-05-26,99.5648
+Patient Portal,2026-05-27,99.65276666666666
+Patient Portal,2026-05-28,99.68053333333334
+Patient Portal,2026-05-29,99.68053333333334
+Patient Portal,2026-05-30,99.68053333333334
+Patient Portal,2026-05-31,99.68053333333334
+Patient Portal,2026-06-01,99.68053333333334
+Patient Portal,2026-06-02,99.68053333333334
+Patient Portal,2026-06-03,99.88193333333334
+Patient Portal,2026-06-04,99.88193333333334
+Patient Portal,2026-06-05,99.88193333333334
+Patient Portal,2026-06-06,99.88193333333334
+Patient Portal,2026-06-07,99.88193333333334
+Patient Portal,2026-06-08,99.88193333333334
+Patient Portal,2026-06-09,99.88193333333334
+Patient Portal,2026-06-10,99.88193333333334
+Patient Portal,2026-06-11,99.88193333333334
+Patient Portal,2026-06-12,99.88193333333334
+Patient Portal,2026-06-13,99.88193333333334
+Patient Portal,2026-06-14,99.88193333333334

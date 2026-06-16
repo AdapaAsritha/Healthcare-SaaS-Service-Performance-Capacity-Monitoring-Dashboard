@@ -1,0 +1,9 @@
+service_name,breach_rate_pct
+EHR,100.0
+Claims Processing,100.0
+Billing Engine,100.0
+Authentication Service,92.3076923076923
+Lab Results API,84.61538461538461
+Appointment Scheduling,84.61538461538461
+Patient Portal,61.53846153846154
+Notification Service,61.53846153846154

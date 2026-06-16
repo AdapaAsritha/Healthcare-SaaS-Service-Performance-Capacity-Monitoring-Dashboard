@@ -1,0 +1,105 @@
+sla_id,service_id,month_year,target_uptime_pct,actual_uptime_pct,sla_met,total_incidents,p1_count,p2_count,mttr_hours,breach_minutes,service_name
+1,SRV-001,2025-06,99.5,99.844,True,1,0,0,0.6,0,Patient Portal
+2,SRV-002,2025-06,99.9,99.622,False,2,0,0,0.72,87,Claims Processing
+3,SRV-003,2025-06,99.9,98.997,False,2,1,0,1.92,231,EHR
+4,SRV-004,2025-06,99.5,99.57,True,2,0,0,0.82,0,Appointment Scheduling
+5,SRV-005,2025-06,99.9,98.503,False,5,0,0,1.15,345,Billing Engine
+6,SRV-006,2025-06,99.5,99.735,True,2,0,0,0.51,0,Lab Results API
+7,SRV-007,2025-06,99.0,99.266,True,3,0,1,0.94,0,Notification Service
+8,SRV-008,2025-06,99.9,99.353,False,3,0,0,0.83,149,Authentication Service
+9,SRV-001,2025-07,99.5,98.006,False,10,0,3,1.48,890,Patient Portal
+10,SRV-002,2025-07,99.9,99.095,False,5,1,0,1.35,404,Claims Processing
+11,SRV-003,2025-07,99.9,99.384,False,6,0,1,0.76,275,EHR
+12,SRV-004,2025-07,99.5,98.77,False,5,0,2,1.83,549,Appointment Scheduling
+13,SRV-005,2025-07,99.9,98.779,False,7,0,1,1.3,545,Billing Engine
+14,SRV-006,2025-07,99.5,98.663,False,4,1,2,2.49,597,Lab Results API
+15,SRV-007,2025-07,99.0,98.353,False,6,0,3,2.04,735,Notification Service
+16,SRV-008,2025-07,99.9,98.676,False,9,0,2,1.09,591,Authentication Service
+17,SRV-001,2025-08,99.5,99.563,True,3,0,1,1.08,0,Patient Portal
+18,SRV-002,2025-08,99.9,99.023,False,4,1,0,1.82,436,Claims Processing
+19,SRV-003,2025-08,99.9,98.282,False,8,1,2,1.6,767,EHR
+20,SRV-004,2025-08,99.5,98.797,False,6,0,0,1.49,537,Appointment Scheduling
+21,SRV-005,2025-08,99.9,99.25,False,4,0,1,1.4,335,Billing Engine
+22,SRV-006,2025-08,99.5,98.974,False,7,0,1,1.09,458,Lab Results API
+23,SRV-007,2025-08,99.0,98.286,False,7,0,2,1.82,765,Notification Service
+24,SRV-008,2025-08,99.9,99.158,False,7,0,1,0.9,376,Authentication Service
+25,SRV-001,2025-09,99.5,98.206,False,11,0,1,1.17,775,Patient Portal
+26,SRV-002,2025-09,99.9,98.6,False,9,0,1,1.12,605,Claims Processing
+27,SRV-003,2025-09,99.9,99.509,False,2,1,0,1.77,212,EHR
+28,SRV-004,2025-09,99.5,99.243,False,7,0,2,0.78,327,Appointment Scheduling
+29,SRV-005,2025-09,99.9,99.514,False,4,0,0,0.88,210,Billing Engine
+30,SRV-006,2025-09,99.5,99.493,False,2,0,1,1.82,219,Lab Results API
+31,SRV-007,2025-09,99.0,97.977,False,6,1,3,2.43,874,Notification Service
+32,SRV-008,2025-09,99.9,99.299,False,6,0,0,0.84,303,Authentication Service
+33,SRV-001,2025-10,99.5,99.162,False,4,1,1,1.56,374,Patient Portal
+34,SRV-002,2025-10,99.9,99.639,False,5,0,0,0.54,161,Claims Processing
+35,SRV-003,2025-10,99.9,99.191,False,4,0,2,1.5,361,EHR
+36,SRV-004,2025-10,99.5,99.458,False,3,0,1,1.34,242,Appointment Scheduling
+37,SRV-005,2025-10,99.9,99.108,False,4,0,1,1.66,398,Billing Engine
+38,SRV-006,2025-10,99.5,98.627,False,6,0,2,1.7,613,Lab Results API
+39,SRV-007,2025-10,99.0,99.742,True,2,0,0,0.96,0,Notification Service
+40,SRV-008,2025-10,99.9,99.731,False,2,0,1,1.0,120,Authentication Service
+41,SRV-001,2025-11,99.5,99.56,True,4,0,2,0.79,0,Patient Portal
+42,SRV-002,2025-11,99.9,98.792,False,5,0,3,1.74,522,Claims Processing
+43,SRV-003,2025-11,99.9,98.475,False,4,1,1,2.75,659,EHR
+44,SRV-004,2025-11,99.5,99.438,False,4,0,1,1.01,243,Appointment Scheduling
+45,SRV-005,2025-11,99.9,99.803,False,2,0,0,0.71,85,Billing Engine
+46,SRV-006,2025-11,99.5,99.322,False,2,0,1,2.44,293,Lab Results API
+47,SRV-007,2025-11,99.0,98.53,False,10,0,0,1.06,635,Notification Service
+48,SRV-008,2025-11,99.9,99.481,False,3,0,1,1.24,224,Authentication Service
+49,SRV-001,2025-12,99.5,98.466,False,7,1,0,1.63,685,Patient Portal
+50,SRV-002,2025-12,99.9,99.312,False,5,0,1,1.02,307,Claims Processing
+51,SRV-003,2025-12,99.9,97.357,False,10,3,1,1.97,1180,EHR
+52,SRV-004,2025-12,99.5,99.147,False,5,0,1,1.27,381,Appointment Scheduling
+53,SRV-005,2025-12,99.9,99.236,False,7,0,1,0.81,341,Billing Engine
+54,SRV-006,2025-12,99.5,99.328,False,5,0,0,1.0,300,Lab Results API
+55,SRV-007,2025-12,99.0,98.678,False,7,0,1,1.4,590,Notification Service
+56,SRV-008,2025-12,99.9,99.498,False,3,0,0,1.24,224,Authentication Service
+57,SRV-001,2026-01,99.5,99.368,False,3,0,1,1.57,282,Patient Portal
+58,SRV-002,2026-01,99.9,98.147,False,9,0,2,1.53,827,Claims Processing
+59,SRV-003,2026-01,99.9,98.219,False,4,2,0,3.31,795,EHR
+60,SRV-004,2026-01,99.5,99.259,False,5,0,1,1.1,331,Appointment Scheduling
+61,SRV-005,2026-01,99.9,98.862,False,5,0,2,1.69,508,Billing Engine
+62,SRV-006,2026-01,99.5,99.043,False,9,0,1,0.79,427,Lab Results API
+63,SRV-007,2026-01,99.0,99.039,True,7,0,1,1.02,0,Notification Service
+64,SRV-008,2026-01,99.9,97.881,False,8,2,0,1.97,946,Authentication Service
+65,SRV-001,2026-02,99.5,99.097,False,5,0,1,1.21,364,Patient Portal
+66,SRV-002,2026-02,99.9,99.298,False,4,0,1,1.18,283,Claims Processing
+67,SRV-003,2026-02,99.9,99.397,False,4,0,1,1.01,243,EHR
+68,SRV-004,2026-02,99.5,98.549,False,8,0,3,1.22,585,Appointment Scheduling
+69,SRV-005,2026-02,99.9,99.601,False,4,0,0,0.67,161,Billing Engine
+70,SRV-006,2026-02,99.5,98.73,False,5,0,1,1.71,512,Lab Results API
+71,SRV-007,2026-02,99.0,98.413,False,6,1,0,1.78,640,Notification Service
+72,SRV-008,2026-02,99.9,98.405,False,6,1,1,1.79,643,Authentication Service
+73,SRV-001,2026-03,99.5,99.355,False,5,0,1,0.96,288,Patient Portal
+74,SRV-002,2026-03,99.9,99.371,False,5,0,1,0.94,281,Claims Processing
+75,SRV-003,2026-03,99.9,99.545,False,3,0,1,1.13,203,EHR
+76,SRV-004,2026-03,99.5,99.12,False,4,0,1,1.64,393,Appointment Scheduling
+77,SRV-005,2026-03,99.9,99.346,False,3,0,1,1.62,292,Billing Engine
+78,SRV-006,2026-03,99.5,99.337,False,4,0,1,1.23,296,Lab Results API
+79,SRV-007,2026-03,99.0,99.18,True,3,0,1,2.03,0,Notification Service
+80,SRV-008,2026-03,99.9,99.792,False,2,0,0,0.78,93,Authentication Service
+81,SRV-001,2026-04,99.5,98.984,False,7,0,1,1.05,439,Patient Portal
+82,SRV-002,2026-04,99.9,99.199,False,6,0,0,0.96,346,Claims Processing
+83,SRV-003,2026-04,99.9,98.206,False,11,0,2,1.17,775,EHR
+84,SRV-004,2026-04,99.5,99.826,True,2,0,0,0.62,0,Appointment Scheduling
+85,SRV-005,2026-04,99.9,99.102,False,5,0,1,1.29,388,Billing Engine
+86,SRV-006,2026-04,99.5,98.785,False,4,1,0,2.19,525,Lab Results API
+87,SRV-007,2026-04,99.0,98.949,False,5,0,1,1.51,454,Notification Service
+88,SRV-008,2026-04,99.9,99.25,False,6,1,1,0.9,324,Authentication Service
+89,SRV-001,2026-05,99.5,99.691,True,2,0,1,1.15,0,Patient Portal
+90,SRV-002,2026-05,99.9,98.831,False,7,0,1,1.24,522,Claims Processing
+91,SRV-003,2026-05,99.9,99.812,False,1,0,0,1.4,84,EHR
+92,SRV-004,2026-05,99.5,99.16,False,5,0,0,1.25,375,Appointment Scheduling
+93,SRV-005,2026-05,99.9,99.133,False,6,0,0,1.08,387,Billing Engine
+94,SRV-006,2026-05,99.5,98.049,False,7,0,4,2.07,871,Lab Results API
+95,SRV-007,2026-05,99.0,98.645,False,5,1,2,2.02,605,Notification Service
+96,SRV-008,2026-05,99.9,98.376,False,8,2,0,1.51,725,Authentication Service
+97,SRV-001,2026-06,99.5,100.0,True,0,0,0,0.0,0,Patient Portal
+98,SRV-002,2026-06,99.9,99.37,False,2,0,0,1.06,127,Claims Processing
+99,SRV-003,2026-06,99.9,99.777,False,1,0,0,0.75,45,EHR
+100,SRV-004,2026-06,99.5,98.289,False,5,0,0,1.15,345,Appointment Scheduling
+101,SRV-005,2026-06,99.9,99.082,False,2,1,0,1.54,185,Billing Engine
+102,SRV-006,2026-06,99.5,99.514,True,1,0,1,1.63,0,Lab Results API
+103,SRV-007,2026-06,99.0,99.182,True,2,0,0,1.38,0,Notification Service
+104,SRV-008,2026-06,99.9,99.916,True,1,0,0,0.28,0,Authentication Service

@@ -1,0 +1,21 @@
+service_name,month_year,p1_count,prev_month_p1_count,mom_change
+Authentication Service,2026-01,2,,
+Authentication Service,2026-02,1,2.0,-1.0
+Authentication Service,2026-04,1,1.0,0.0
+Authentication Service,2026-05,2,1.0,1.0
+Billing Engine,2026-06,1,,
+Claims Processing,2025-07,1,,
+Claims Processing,2025-08,1,1.0,0.0
+EHR,2025-06,1,,
+EHR,2025-08,1,1.0,0.0
+EHR,2025-09,1,1.0,0.0
+EHR,2025-11,1,1.0,0.0
+EHR,2025-12,3,1.0,2.0
+EHR,2026-01,2,3.0,-1.0
+Lab Results API,2025-07,1,,
+Lab Results API,2026-04,1,1.0,0.0
+Notification Service,2025-09,1,,
+Notification Service,2026-02,1,1.0,0.0
+Notification Service,2026-05,1,1.0,0.0
+Patient Portal,2025-10,1,,
+Patient Portal,2025-12,1,1.0,0.0

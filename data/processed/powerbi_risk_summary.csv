@@ -1,0 +1,9 @@
+service_name,service_tier,cpu_warning_days,cpu_critical_days,memory_warning_days,memory_critical_days,storage_warning_days,storage_critical_days,risk_score,risk_level,recommended_action
+Patient Portal,standard,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,0,LOW RISK,No action needed
+Claims Processing,critical,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,10,LOW RISK,No action needed
+EHR,critical,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,10,LOW RISK,No action needed
+Appointment Scheduling,standard,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,0,LOW RISK,No action needed
+Billing Engine,critical,No breach in 90 days,No breach in 90 days,53,No breach in 90 days,No breach in 90 days,No breach in 90 days,35,MEDIUM RISK,Monitor closely
+Lab Results API,standard,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,0,LOW RISK,No action needed
+Notification Service,low,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,0,LOW RISK,No action needed
+Authentication Service,critical,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,No breach in 90 days,10,LOW RISK,No action needed

@@ -1,0 +1,9 @@
+service_name,overall_uptime_pct
+Notification Service,98.75533150684933
+EHR,98.89078904109589
+Lab Results API,98.9973397260274
+Claims Processing,99.06621643835616
+Authentication Service,99.09912602739725
+Patient Portal,99.1141397260274
+Appointment Scheduling,99.14726849315068
+Billing Engine,99.20471780821919

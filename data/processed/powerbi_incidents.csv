@@ -1,0 +1,501 @@
+incident_id,service_id,incident_date,severity,category,start_time,end_time,downtime_minutes,resolution_notes,status,service_name,service_tier,downtime_hours,severity_weight,business_impact_score
+INC-1490,SRV-005,2025-06-15,P3,Application,2025-06-15 13:25:37,2025-06-15 14:23:37,58,Great plant son natural hear blood.,Resolved,Billing Engine,critical,0.9666666666666667,2,116
+INC-1446,SRV-007,2025-06-17,P2,Database,2025-06-17 15:20:03,2025-06-17 17:04:03,104,Yourself whom style no order executive range.,Resolved,Notification Service,low,1.7333333333333334,3,312
+INC-1377,SRV-008,2025-06-18,P4,Database,2025-06-18 14:05:41,2025-06-18 14:39:41,34,Customer nor fight performance less option.,Resolved,Authentication Service,critical,0.5666666666666667,1,34
+INC-1334,SRV-005,2025-06-18,P4,Application,2025-06-18 17:25:26,2025-06-18 18:02:26,37,Carry spring white measure manager range indeed.,Resolved,Billing Engine,critical,0.6166666666666667,1,37
+INC-1014,SRV-006,2025-06-19,P4,Application,2025-06-19 07:13:39,2025-06-19 07:49:39,36,Race Mr environment political.,Resolved,Lab Results API,standard,0.6,1,36
+INC-1367,SRV-003,2025-06-19,P1,Application,2025-06-19 14:15:45,2025-06-19 17:31:45,196,Reduce clearly well mission.,Resolved,EHR,critical,3.2666666666666666,4,784
+INC-1076,SRV-001,2025-06-19,P3,Application,2025-06-19 14:19:35,2025-06-19 14:55:35,36,State black whether player stock religious.,Resolved,Patient Portal,standard,0.6,2,72
+INC-1361,SRV-005,2025-06-19,P4,Application,2025-06-19 20:59:21,2025-06-19 21:45:21,46,Value car team nothing half raise.,Resolved,Billing Engine,critical,0.7666666666666667,1,46
+INC-1461,SRV-008,2025-06-20,P3,Application,2025-06-20 14:28:29,2025-06-20 15:16:29,48,Series most adult above safe difficult.,Resolved,Authentication Service,critical,0.8,2,96
+INC-1163,SRV-005,2025-06-22,P3,Application,2025-06-22 10:04:01,2025-06-22 11:42:01,98,Tv television office of remember individual boy.,Resolved,Billing Engine,critical,1.6333333333333333,2,196
+INC-1099,SRV-007,2025-06-23,P3,Application,2025-06-23 13:24:41,2025-06-23 13:44:41,20,Office several compare million kind.,Resolved,Notification Service,low,0.3333333333333333,2,40
+INC-1164,SRV-007,2025-06-23,P4,Database,2025-06-23 17:05:49,2025-06-23 17:50:49,45,Commercial way least ready gun join.,Resolved,Notification Service,low,0.75,1,45
+INC-1270,SRV-003,2025-06-23,P4,Infrastructure,2025-06-23 19:58:30,2025-06-23 20:33:30,35,Leg rest interest here discover.,Resolved,EHR,critical,0.5833333333333334,1,35
+INC-1098,SRV-004,2025-06-25,P3,Application,2025-06-25 14:16:41,2025-06-25 15:09:41,53,Director purpose team onto.,Resolved,Appointment Scheduling,standard,0.8833333333333333,2,106
+INC-1048,SRV-005,2025-06-25,P3,Application,2025-06-25 15:16:20,2025-06-25 17:02:20,106,Theory end oil worker.,Resolved,Billing Engine,critical,1.7666666666666666,2,212
+INC-1328,SRV-004,2025-06-26,P3,Application,2025-06-26 16:02:30,2025-06-26 16:48:30,46,Third last involve above Democrat everything region somebody.,Resolved,Appointment Scheduling,standard,0.7666666666666667,2,92
+INC-1303,SRV-006,2025-06-26,P3,Application,2025-06-26 16:44:52,2025-06-26 17:09:52,25,Situation late direction need heart.,Resolved,Lab Results API,standard,0.4166666666666667,2,50
+INC-1156,SRV-008,2025-06-26,P3,Database,2025-06-26 21:53:41,2025-06-26 23:00:41,67,Second Democrat information game.,Resolved,Authentication Service,critical,1.1166666666666667,2,134
+INC-1049,SRV-002,2025-06-29,P3,Network,2025-06-29 06:00:58,2025-06-29 06:37:58,37,Others generation skill job.,Resolved,Claims Processing,critical,0.6166666666666667,2,74
+INC-1471,SRV-002,2025-06-30,P3,Infrastructure,2025-06-30 04:51:16,2025-06-30 05:41:16,50,Many debate value former able public trade.,Resolved,Claims Processing,critical,0.8333333333333334,2,100
+INC-1205,SRV-005,2025-07-01,P4,Application,2025-07-01 10:58:43,2025-07-01 11:04:43,6,Past itself police social arm provide.,Resolved,Billing Engine,critical,0.1,1,6
+INC-1160,SRV-008,2025-07-02,P4,Database,2025-07-02 10:41:13,2025-07-02 10:54:13,13,House out account feeling deep.,Resolved,Authentication Service,critical,0.21666666666666667,1,13
+INC-1231,SRV-001,2025-07-02,P2,Application,2025-07-02 14:22:22,2025-07-02 16:49:22,147,Anything no guy eye hit late.,Resolved,Patient Portal,standard,2.45,3,441
+INC-1376,SRV-002,2025-07-02,P3,Infrastructure,2025-07-02 17:54:07,2025-07-02 19:35:07,101,Attention let executive suddenly force network.,Resolved,Claims Processing,critical,1.6833333333333333,2,202
+INC-1372,SRV-006,2025-07-02,P3,Application,2025-07-02 19:29:46,2025-07-02 20:49:46,80,Each line him.,Resolved,Lab Results API,standard,1.3333333333333333,2,160
+INC-1266,SRV-003,2025-07-02,P4,Database,2025-07-02 20:28:53,2025-07-02 20:38:53,10,General as yes various attorney value.,Resolved,EHR,critical,0.16666666666666666,1,10
+INC-1290,SRV-007,2025-07-03,P3,Application,2025-07-03 13:19:12,2025-07-03 14:25:12,66,Include successful discuss.,Resolved,Notification Service,low,1.1,2,132
+INC-1229,SRV-001,2025-07-03,P3,Application,2025-07-03 16:18:36,2025-07-03 17:23:36,65,Example our successful.,Resolved,Patient Portal,standard,1.0833333333333333,2,130
+INC-1151,SRV-008,2025-07-04,P4,Database,2025-07-04 15:53:43,2025-07-04 16:39:43,46,Outside goal official defense prevent.,Resolved,Authentication Service,critical,0.7666666666666667,1,46
+INC-1420,SRV-004,2025-07-04,P3,Database,2025-07-04 22:25:09,2025-07-04 23:03:09,38,Occur style child guess into far.,Resolved,Appointment Scheduling,standard,0.6333333333333333,2,76
+INC-1116,SRV-007,2025-07-06,P2,Application,2025-07-06 13:05:08,2025-07-06 16:49:08,224,Grow issue each include radio.,Resolved,Notification Service,low,3.7333333333333334,3,672
+INC-1360,SRV-001,2025-07-06,P4,Network,2025-07-06 16:55:16,2025-07-06 17:36:16,41,Manager both matter order month.,Resolved,Patient Portal,standard,0.6833333333333333,1,41
+INC-1171,SRV-008,2025-07-07,P3,Application,2025-07-07 10:29:13,2025-07-07 10:40:13,11,Story baby ten talk past medical.,Resolved,Authentication Service,critical,0.18333333333333332,2,22
+INC-1458,SRV-003,2025-07-07,P3,Application,2025-07-07 11:43:33,2025-07-07 11:56:33,13,Later decide similar.,Resolved,EHR,critical,0.21666666666666667,2,26
+INC-1137,SRV-005,2025-07-08,P3,Application,2025-07-08 12:38:03,2025-07-08 13:47:03,69,Every why we station begin deep.,Resolved,Billing Engine,critical,1.15,2,138
+INC-1224,SRV-003,2025-07-08,P2,Infrastructure,2025-07-08 12:56:47,2025-07-08 13:38:47,42,Keep machine daughter parent.,Resolved,EHR,critical,0.7,3,126
+INC-1150,SRV-001,2025-07-08,P2,Application,2025-07-08 15:45:47,2025-07-08 16:38:47,53,What no prove improve them wait institution trouble.,Resolved,Patient Portal,standard,0.8833333333333333,3,159
+INC-1347,SRV-008,2025-07-09,P2,Application,2025-07-09 08:45:05,2025-07-09 10:44:05,119,Huge why station manager follow exist natural.,Resolved,Authentication Service,critical,1.9833333333333334,3,357
+INC-1192,SRV-007,2025-07-09,P3,Application,2025-07-09 14:29:18,2025-07-09 16:12:18,103,Student matter movie place.,Resolved,Notification Service,low,1.7166666666666666,2,206
+INC-1258,SRV-003,2025-07-09,P3,Application,2025-07-09 15:38:26,2025-07-09 17:16:26,98,Let civil rather type.,Resolved,EHR,critical,1.6333333333333333,2,196
+INC-1391,SRV-001,2025-07-10,P4,Network,2025-07-10 15:48:22,2025-07-10 16:11:22,23,Total kitchen can toward stop.,Resolved,Patient Portal,standard,0.38333333333333336,1,23
+INC-1325,SRV-006,2025-07-11,P2,Network,2025-07-11 09:15:36,2025-07-11 10:57:36,102,And represent against gas body.,Resolved,Lab Results API,standard,1.7,3,306
+INC-1170,SRV-004,2025-07-11,P3,Application,2025-07-11 10:24:26,2025-07-11 11:48:26,84,Kind field ever argue medical financial later.,Resolved,Appointment Scheduling,standard,1.4,2,168
+INC-1047,SRV-005,2025-07-11,P3,Application,2025-07-11 18:36:53,2025-07-11 20:17:53,101,Go meeting quickly such former.,Resolved,Billing Engine,critical,1.6833333333333333,2,202
+INC-1281,SRV-008,2025-07-13,P3,Application,2025-07-13 16:43:56,2025-07-13 18:36:56,113,Source onto provide describe decade.,Resolved,Authentication Service,critical,1.8833333333333333,2,226
+INC-1034,SRV-007,2025-07-13,P2,Application,2025-07-13 17:12:21,2025-07-13 19:27:21,135,Defense enter value thing these hard citizen.,Resolved,Notification Service,low,2.25,3,405
+INC-1145,SRV-002,2025-07-13,P1,Application,2025-07-13 17:35:59,2025-07-13 19:34:59,119,Focus chance call person.,Resolved,Claims Processing,critical,1.9833333333333334,4,476
+INC-1428,SRV-007,2025-07-15,P3,Infrastructure,2025-07-15 18:15:51,2025-07-15 19:34:51,79,Dark state challenge organization floor road.,Resolved,Notification Service,low,1.3166666666666667,2,158
+INC-1063,SRV-006,2025-07-16,P1,Application,2025-07-16 09:26:17,2025-07-16 13:56:17,270,Character him check degree.,Resolved,Lab Results API,standard,4.5,4,1080
+INC-1032,SRV-008,2025-07-16,P3,Application,2025-07-16 13:15:26,2025-07-16 13:41:26,26,Price north first end prove fire.,Resolved,Authentication Service,critical,0.43333333333333335,2,52
+INC-1113,SRV-008,2025-07-16,P2,Application,2025-07-16 23:28:34,2025-07-17 02:49:34,201,System teacher here first responsibility service.,Resolved,Authentication Service,critical,3.35,3,603
+INC-1019,SRV-001,2025-07-18,P3,Infrastructure,2025-07-18 08:29:52,2025-07-18 08:53:52,24,Staff within mouth call process water close.,Resolved,Patient Portal,standard,0.4,2,48
+INC-1357,SRV-004,2025-07-18,P2,Application,2025-07-18 12:49:27,2025-07-18 16:24:27,215,Cause but role goal.,Resolved,Appointment Scheduling,standard,3.5833333333333335,3,645
+INC-1366,SRV-003,2025-07-18,P3,Database,2025-07-18 14:25:41,2025-07-18 15:36:41,71,Break partner area program price compare.,Resolved,EHR,critical,1.1833333333333333,2,142
+INC-1323,SRV-008,2025-07-18,P4,Database,2025-07-18 22:12:29,2025-07-18 22:46:29,34,Story role give gas.,Resolved,Authentication Service,critical,0.5666666666666667,1,34
+INC-1352,SRV-002,2025-07-20,P3,Application,2025-07-20 17:44:16,2025-07-20 19:09:16,85,Ability live car difficult.,Resolved,Claims Processing,critical,1.4166666666666667,2,170
+INC-1389,SRV-001,2025-07-21,P2,Application,2025-07-21 11:04:12,2025-07-21 14:26:12,202,Big soldier building article sit develop cup.,Resolved,Patient Portal,standard,3.3666666666666667,3,606
+INC-1148,SRV-005,2025-07-21,P2,Application,2025-07-21 16:48:51,2025-07-21 18:31:51,103,Interview professor hear check type attack.,Resolved,Billing Engine,critical,1.7166666666666666,3,309
+INC-1296,SRV-002,2025-07-21,P3,Application,2025-07-21 17:23:16,2025-07-21 18:40:16,77,Here need argue act commercial matter.,Resolved,Claims Processing,critical,1.2833333333333334,2,154
+INC-1082,SRV-008,2025-07-21,P3,Application,2025-07-21 19:45:12,2025-07-21 20:13:12,28,Develop reality fill ok list.,Resolved,Authentication Service,critical,0.4666666666666667,2,56
+INC-1302,SRV-005,2025-07-22,P3,Database,2025-07-22 16:34:51,2025-07-22 18:15:51,101,Discussion away painting pass other why.,Resolved,Billing Engine,critical,1.6833333333333333,2,202
+INC-1115,SRV-005,2025-07-23,P3,Application,2025-07-23 15:16:23,2025-07-23 16:32:23,76,Kitchen really tough animal.,Resolved,Billing Engine,critical,1.2666666666666666,2,152
+INC-1329,SRV-005,2025-07-24,P3,Database,2025-07-24 16:32:52,2025-07-24 18:01:52,89,Cost for leader energy television month police.,Resolved,Billing Engine,critical,1.4833333333333334,2,178
+INC-1307,SRV-006,2025-07-25,P2,Application,2025-07-25 11:36:35,2025-07-25 14:01:35,145,Bed never others.,Resolved,Lab Results API,standard,2.4166666666666665,3,435
+INC-1311,SRV-004,2025-07-26,P2,Application,2025-07-26 18:54:17,2025-07-26 21:45:17,171,Fight we forward per.,Resolved,Appointment Scheduling,standard,2.85,3,513
+INC-1413,SRV-001,2025-07-26,P3,Application,2025-07-26 19:52:19,2025-07-26 21:49:19,117,Answer just information.,Resolved,Patient Portal,standard,1.95,2,234
+INC-1025,SRV-004,2025-07-27,P4,Network,2025-07-27 14:53:40,2025-07-27 15:34:40,41,Court movie cell contain leg.,Resolved,Appointment Scheduling,standard,0.6833333333333333,1,41
+INC-1018,SRV-007,2025-07-28,P2,Application,2025-07-28 10:40:57,2025-07-28 12:48:57,128,These story film around there water.,Resolved,Notification Service,low,2.1333333333333333,3,384
+INC-1015,SRV-003,2025-07-28,P3,Application,2025-07-28 11:58:29,2025-07-28 12:39:29,41,Itself law west then enjoy.,Resolved,EHR,critical,0.6833333333333333,2,82
+INC-1480,SRV-002,2025-07-28,P4,Application,2025-07-28 13:49:12,2025-07-28 14:11:12,22,Key as pressure actually than modern.,Resolved,Claims Processing,critical,0.36666666666666664,1,22
+INC-1133,SRV-001,2025-07-30,P3,Application,2025-07-30 15:38:54,2025-07-30 17:18:54,100,Animal also you break.,Resolved,Patient Portal,standard,1.6666666666666667,2,200
+INC-1084,SRV-001,2025-07-31,P3,Application,2025-07-31 10:44:39,2025-07-31 12:42:39,118,Firm sea week real course.,Resolved,Patient Portal,standard,1.9666666666666666,2,236
+INC-1211,SRV-007,2025-08-01,P3,Infrastructure,2025-08-01 18:52:49,2025-08-01 19:42:49,50,Table later together knowledge.,Resolved,Notification Service,low,0.8333333333333334,2,100
+INC-1220,SRV-003,2025-08-02,P1,Infrastructure,2025-08-02 23:17:18,2025-08-03 03:10:18,233,Field move maybe collection walk child probably result.,Resolved,EHR,critical,3.8833333333333333,4,932
+INC-1041,SRV-008,2025-08-03,P4,Application,2025-08-03 14:16:42,2025-08-03 15:05:42,49,Final together someone.,Resolved,Authentication Service,critical,0.8166666666666667,1,49
+INC-1053,SRV-002,2025-08-03,P3,Infrastructure,2025-08-03 16:08:29,2025-08-03 16:37:29,29,Inside wait quality total past.,Resolved,Claims Processing,critical,0.48333333333333334,2,58
+INC-1348,SRV-005,2025-08-04,P4,Application,2025-08-04 11:59:35,2025-08-04 12:40:35,41,System small thus several animal phone student.,Resolved,Billing Engine,critical,0.6833333333333333,1,41
+INC-1465,SRV-007,2025-08-04,P3,Application,2025-08-04 13:11:35,2025-08-04 14:55:35,104,Safe operation college hand practice.,Resolved,Notification Service,low,1.7333333333333334,2,208
+INC-1260,SRV-005,2025-08-05,P4,Infrastructure,2025-08-05 10:15:04,2025-08-05 11:10:04,55,Check security paper indeed near likely Mr.,Resolved,Billing Engine,critical,0.9166666666666666,1,55
+INC-1269,SRV-006,2025-08-05,P4,Infrastructure,2025-08-05 14:20:17,2025-08-05 14:33:17,13,Budget year hotel camera without strong.,Resolved,Lab Results API,standard,0.21666666666666667,1,13
+INC-1438,SRV-006,2025-08-06,P3,Database,2025-08-06 07:05:52,2025-08-06 07:16:52,11,These ahead cover strategy student economic lead.,Resolved,Lab Results API,standard,0.18333333333333332,2,22
+INC-1214,SRV-006,2025-08-07,P3,Infrastructure,2025-08-07 12:08:34,2025-08-07 13:10:34,62,So ago network hard sound.,Resolved,Lab Results API,standard,1.0333333333333334,2,124
+INC-1246,SRV-008,2025-08-07,P3,Application,2025-08-07 12:12:36,2025-08-07 12:29:36,17,Past only drug prove.,Resolved,Authentication Service,critical,0.2833333333333333,2,34
+INC-1332,SRV-002,2025-08-07,P1,Application,2025-08-07 14:02:58,2025-08-07 19:04:58,302,Himself control player really population yourself never.,Resolved,Claims Processing,critical,5.033333333333333,4,1208
+INC-1161,SRV-002,2025-08-07,P3,Database,2025-08-07 17:37:15,2025-08-07 18:43:15,66,Face build market issue can.,Resolved,Claims Processing,critical,1.1,2,132
+INC-1274,SRV-001,2025-08-08,P4,Application,2025-08-08 10:53:29,2025-08-08 11:34:29,41,Year doctor trouble office officer significant stand.,Resolved,Patient Portal,standard,0.6833333333333333,1,41
+INC-1381,SRV-008,2025-08-09,P4,Network,2025-08-09 11:04:01,2025-08-09 11:35:01,31,Behavior TV today mind red.,Resolved,Authentication Service,critical,0.5166666666666667,1,31
+INC-1344,SRV-006,2025-08-09,P4,Application,2025-08-09 12:29:08,2025-08-09 13:17:08,48,Plan physical heart away some shoulder idea.,Resolved,Lab Results API,standard,0.8,1,48
+INC-1263,SRV-003,2025-08-12,P3,Database,2025-08-12 09:33:31,2025-08-12 11:25:31,112,Foreign minute break day.,Resolved,EHR,critical,1.8666666666666667,2,224
+INC-1181,SRV-007,2025-08-13,P3,Application,2025-08-13 10:58:23,2025-08-13 11:24:23,26,Congress realize person total.,Resolved,Notification Service,low,0.43333333333333335,2,52
+INC-1305,SRV-003,2025-08-13,P4,Application,2025-08-13 14:29:36,2025-08-13 14:39:36,10,Republican plant science first blood accept.,Resolved,EHR,critical,0.16666666666666666,1,10
+INC-1385,SRV-004,2025-08-14,P3,Database,2025-08-14 14:08:52,2025-08-14 15:54:52,106,Clearly letter image movie.,Resolved,Appointment Scheduling,standard,1.7666666666666666,2,212
+INC-1135,SRV-004,2025-08-14,P3,Application,2025-08-14 20:37:28,2025-08-14 21:56:28,79,Pressure street past voice evidence real.,Resolved,Appointment Scheduling,standard,1.3166666666666667,2,158
+INC-1061,SRV-007,2025-08-15,P2,Database,2025-08-15 13:42:33,2025-08-15 17:23:33,221,Late seem style everyone sing machine dream.,Resolved,Notification Service,low,3.683333333333333,3,663
+INC-1119,SRV-007,2025-08-15,P3,Database,2025-08-15 17:35:22,2025-08-15 18:55:22,80,Kid generation onto police.,Resolved,Notification Service,low,1.3333333333333333,2,160
+INC-1478,SRV-001,2025-08-15,P2,Infrastructure,2025-08-15 23:10:22,2025-08-16 00:36:22,86,Indeed opportunity soon question.,Resolved,Patient Portal,standard,1.4333333333333333,3,258
+INC-1008,SRV-002,2025-08-17,P3,Network,2025-08-17 12:23:17,2025-08-17 13:02:17,39,Here writer policy news range successful simply.,Resolved,Claims Processing,critical,0.65,2,78
+INC-1073,SRV-006,2025-08-17,P3,Infrastructure,2025-08-17 20:58:28,2025-08-17 21:23:28,25,Blue agent find quality when.,Resolved,Lab Results API,standard,0.4166666666666667,2,50
+INC-1414,SRV-001,2025-08-18,P3,Application,2025-08-18 15:04:11,2025-08-18 16:12:11,68,Manage her national big look tell.,Resolved,Patient Portal,standard,1.1333333333333333,2,136
+INC-1027,SRV-003,2025-08-18,P3,Application,2025-08-18 15:08:54,2025-08-18 16:35:54,87,Magazine degree husband around her world.,Resolved,EHR,critical,1.45,2,174
+INC-1341,SRV-004,2025-08-19,P3,Application,2025-08-19 14:09:26,2025-08-19 15:58:26,109,Without fall of weight method too.,Resolved,Appointment Scheduling,standard,1.8166666666666667,2,218
+INC-1288,SRV-007,2025-08-19,P2,Network,2025-08-19 15:51:04,2025-08-19 18:55:04,184,College result major true my politics.,Resolved,Notification Service,low,3.066666666666667,3,552
+INC-1166,SRV-004,2025-08-19,P3,Infrastructure,2025-08-19 17:58:37,2025-08-19 19:03:37,65,Member box member town.,Resolved,Appointment Scheduling,standard,1.0833333333333333,2,130
+INC-1117,SRV-008,2025-08-20,P3,Application,2025-08-20 09:30:44,2025-08-20 09:42:44,12,Bad that people drive.,Resolved,Authentication Service,critical,0.2,2,24
+INC-1475,SRV-008,2025-08-20,P3,Application,2025-08-20 13:11:22,2025-08-20 15:11:22,120,Group just perform there behavior spring.,Resolved,Authentication Service,critical,2.0,2,240
+INC-1237,SRV-006,2025-08-20,P2,Application,2025-08-20 14:32:15,2025-08-20 18:31:15,239,Pick people subject challenge quite all way.,Resolved,Lab Results API,standard,3.9833333333333334,3,717
+INC-1400,SRV-005,2025-08-21,P2,Application,2025-08-21 07:53:48,2025-08-21 10:57:48,184,Door fish scene grow.,Resolved,Billing Engine,critical,3.066666666666667,3,552
+INC-1044,SRV-003,2025-08-22,P3,Network,2025-08-22 08:30:51,2025-08-22 09:45:51,75,Agent say forward us soon ten.,Resolved,EHR,critical,1.25,2,150
+INC-1059,SRV-003,2025-08-22,P2,Network,2025-08-22 17:35:57,2025-08-22 19:38:57,123,Let newspaper true building card let most.,Resolved,EHR,critical,2.05,3,369
+INC-1373,SRV-004,2025-08-23,P3,Infrastructure,2025-08-23 17:48:12,2025-08-23 19:25:12,97,Need trial scientist.,Resolved,Appointment Scheduling,standard,1.6166666666666667,2,194
+INC-1476,SRV-004,2025-08-25,P3,Database,2025-08-25 16:00:59,2025-08-25 17:21:59,81,Husband while even history.,Resolved,Appointment Scheduling,standard,1.35,2,162
+INC-1194,SRV-008,2025-08-26,P2,Database,2025-08-26 14:23:31,2025-08-26 16:25:31,122,Model guess well name.,Resolved,Authentication Service,critical,2.033333333333333,3,366
+INC-1492,SRV-008,2025-08-26,P4,Database,2025-08-26 14:59:52,2025-08-26 15:24:52,25,Us hotel lead sit.,Resolved,Authentication Service,critical,0.4166666666666667,1,25
+INC-1252,SRV-007,2025-08-26,P3,Network,2025-08-26 22:58:00,2025-08-27 00:38:00,100,Theory across nothing blue work.,Resolved,Notification Service,low,1.6666666666666667,2,200
+INC-1419,SRV-006,2025-08-27,P3,Application,2025-08-27 14:33:53,2025-08-27 15:33:53,60,Recent reveal role enter example down.,Resolved,Lab Results API,standard,1.0,2,120
+INC-1238,SRV-003,2025-08-28,P2,Application,2025-08-28 11:09:19,2025-08-28 12:23:19,74,Kid industry include.,Resolved,EHR,critical,1.2333333333333334,3,222
+INC-1242,SRV-005,2025-08-28,P3,Application,2025-08-28 16:40:54,2025-08-28 17:35:54,55,Everything fear walk word side.,Resolved,Billing Engine,critical,0.9166666666666666,2,110
+INC-1255,SRV-003,2025-08-29,P3,Database,2025-08-29 12:01:37,2025-08-29 12:54:37,53,Particularly police if into.,Resolved,EHR,critical,0.8833333333333333,2,106
+INC-1239,SRV-002,2025-09-02,P4,Application,2025-09-02 17:48:29,2025-09-02 18:42:29,54,Maybe particularly likely summer road relationship.,Resolved,Claims Processing,critical,0.9,1,54
+INC-1243,SRV-001,2025-09-03,P3,Network,2025-09-03 17:19:08,2025-09-03 19:15:08,116,First give value somebody event business quality.,Resolved,Patient Portal,standard,1.9333333333333333,2,232
+INC-1029,SRV-008,2025-09-07,P3,Network,2025-09-07 12:41:09,2025-09-07 13:19:09,38,Often my security arm.,Resolved,Authentication Service,critical,0.6333333333333333,2,76
+INC-1451,SRV-005,2025-09-09,P3,Application,2025-09-09 17:43:30,2025-09-09 19:17:30,94,Point little wait grow feel color price.,Resolved,Billing Engine,critical,1.5666666666666667,2,188
+INC-1295,SRV-001,2025-09-10,P3,Application,2025-09-10 11:23:31,2025-09-10 12:59:31,96,Range summer president teach service.,Resolved,Patient Portal,standard,1.6,2,192
+INC-1415,SRV-008,2025-09-10,P3,Infrastructure,2025-09-10 11:39:00,2025-09-10 11:51:00,12,Later son almost after.,Resolved,Authentication Service,critical,0.2,2,24
+INC-1153,SRV-004,2025-09-10,P4,Application,2025-09-10 14:30:19,2025-09-10 14:44:19,14,Suddenly window stand party poor ago.,Resolved,Appointment Scheduling,standard,0.23333333333333334,1,14
+INC-1354,SRV-002,2025-09-11,P3,Infrastructure,2025-09-11 13:21:22,2025-09-11 13:48:22,27,Become south billion happen federal him.,Resolved,Claims Processing,critical,0.45,2,54
+INC-1009,SRV-002,2025-09-11,P4,Application,2025-09-11 16:05:57,2025-09-11 16:39:57,34,Source husband at.,Resolved,Claims Processing,critical,0.5666666666666667,1,34
+INC-1473,SRV-007,2025-09-12,P2,Application,2025-09-12 19:38:12,2025-09-12 22:12:12,154,Write fast less between company always fact.,Resolved,Notification Service,low,2.566666666666667,3,462
+INC-1379,SRV-003,2025-09-13,P1,Network,2025-09-13 10:46:46,2025-09-13 13:37:46,171,Get style theory week ability price support.,Resolved,EHR,critical,2.85,4,684
+INC-1056,SRV-007,2025-09-14,P1,Application,2025-09-14 10:02:02,2025-09-14 13:16:02,194,Different current agency each little.,Resolved,Notification Service,low,3.2333333333333334,4,776
+INC-1257,SRV-001,2025-09-14,P3,Infrastructure,2025-09-14 11:06:01,2025-09-14 12:54:01,108,Send west few reveal activity president realize.,Resolved,Patient Portal,standard,1.8,2,216
+INC-1167,SRV-002,2025-09-14,P3,Application,2025-09-14 21:48:07,2025-09-14 23:26:07,98,Chair culture own set.,Resolved,Claims Processing,critical,1.6333333333333333,2,196
+INC-1275,SRV-001,2025-09-15,P3,Application,2025-09-15 15:09:20,2025-09-15 15:49:20,40,Then worry miss including every.,Resolved,Patient Portal,standard,0.6666666666666666,2,80
+INC-1193,SRV-008,2025-09-16,P3,Application,2025-09-16 09:26:36,2025-09-16 10:11:36,45,Fact ability good number.,Resolved,Authentication Service,critical,0.75,2,90
+INC-1484,SRV-006,2025-09-16,P2,Database,2025-09-16 10:15:28,2025-09-16 13:21:28,186,Wife anyone development poor idea dog.,Resolved,Lab Results API,standard,3.1,3,558
+INC-1081,SRV-002,2025-09-16,P3,Application,2025-09-16 15:30:05,2025-09-16 17:00:05,90,Major serve real position make society.,Resolved,Claims Processing,critical,1.5,2,180
+INC-1079,SRV-002,2025-09-17,P3,Database,2025-09-17 06:40:19,2025-09-17 08:26:19,106,Now property from management foot maintain great.,Resolved,Claims Processing,critical,1.7666666666666666,2,212
+INC-1309,SRV-002,2025-09-17,P4,Application,2025-09-17 13:58:27,2025-09-17 14:22:27,24,Minute rate college especially environmental certainly cold.,Resolved,Claims Processing,critical,0.4,1,24
+INC-1165,SRV-001,2025-09-17,P3,Application,2025-09-17 15:48:26,2025-09-17 16:28:26,40,Open model how financial fund four.,Resolved,Patient Portal,standard,0.6666666666666666,2,80
+INC-1011,SRV-003,2025-09-18,P3,Application,2025-09-18 12:43:05,2025-09-18 13:24:05,41,Much section investment on gun young catch.,Resolved,EHR,critical,0.6833333333333333,2,82
+INC-1045,SRV-002,2025-09-19,P2,Infrastructure,2025-09-19 11:11:10,2025-09-19 12:41:10,90,City red him although likely.,Resolved,Claims Processing,critical,1.5,3,270
+INC-1071,SRV-005,2025-09-19,P3,Network,2025-09-19 20:57:50,2025-09-19 22:02:50,65,Stuff perform draw list boy.,Resolved,Billing Engine,critical,1.0833333333333333,2,130
+INC-1468,SRV-004,2025-09-21,P3,Application,2025-09-21 11:11:29,2025-09-21 11:54:29,43,Reduce day rate act inside big minute.,Resolved,Appointment Scheduling,standard,0.7166666666666667,2,86
+INC-1294,SRV-001,2025-09-21,P4,Network,2025-09-21 15:43:29,2025-09-21 16:03:29,20,Environment however health image north wrong.,Resolved,Patient Portal,standard,0.3333333333333333,1,20
+INC-1080,SRV-004,2025-09-23,P2,Network,2025-09-23 13:19:08,2025-09-23 14:00:08,41,Evidence other they new might course.,Resolved,Appointment Scheduling,standard,0.6833333333333333,3,123
+INC-1286,SRV-007,2025-09-24,P3,Infrastructure,2025-09-24 13:51:27,2025-09-24 14:50:27,59,Various often individual charge form here street.,Resolved,Notification Service,low,0.9833333333333333,2,118
+INC-1388,SRV-007,2025-09-24,P4,Application,2025-09-24 17:02:48,2025-09-24 17:08:48,6,All identify laugh security.,Resolved,Notification Service,low,0.1,1,6
+INC-1416,SRV-001,2025-09-24,P3,Application,2025-09-24 20:35:11,2025-09-24 21:20:11,45,Avoid color heart rule.,Resolved,Patient Portal,standard,0.75,2,90
+INC-1028,SRV-004,2025-09-25,P4,Infrastructure,2025-09-25 11:13:17,2025-09-25 11:43:17,30,Expect recent room situation product main couple.,Resolved,Appointment Scheduling,standard,0.5,1,30
+INC-1370,SRV-005,2025-09-25,P4,Infrastructure,2025-09-25 14:59:06,2025-09-25 15:44:06,45,Physical many member area teacher cold church.,Resolved,Billing Engine,critical,0.75,1,45
+INC-1222,SRV-004,2025-09-25,P2,Application,2025-09-25 16:01:18,2025-09-25 18:27:18,146,Short indicate police marriage phone.,Resolved,Appointment Scheduling,standard,2.433333333333333,3,438
+INC-1033,SRV-008,2025-09-26,P3,Application,2025-09-26 09:56:24,2025-09-26 11:06:24,70,Capital population lead upon very act.,Resolved,Authentication Service,critical,1.1666666666666667,2,140
+INC-1104,SRV-005,2025-09-26,P4,Network,2025-09-26 13:49:40,2025-09-26 13:55:40,6,Capital explain thing machine ahead picture son.,Resolved,Billing Engine,critical,0.1,1,6
+INC-1337,SRV-001,2025-09-27,P3,Application,2025-09-27 12:55:20,2025-09-27 13:38:20,43,Statement happen state among rest national wrong.,Resolved,Patient Portal,standard,0.7166666666666667,2,86
+INC-1424,SRV-001,2025-09-27,P3,Application,2025-09-27 16:57:45,2025-09-27 18:35:45,98,Article sell property beat gas must wife.,Resolved,Patient Portal,standard,1.6333333333333333,2,196
+INC-1158,SRV-007,2025-09-28,P2,Application,2025-09-28 09:44:56,2025-09-28 13:32:56,228,Product magazine kind event sense box.,Resolved,Notification Service,low,3.8,3,684
+INC-1336,SRV-007,2025-09-29,P2,Application,2025-09-29 10:43:53,2025-09-29 14:36:53,233,Mrs collection leader score she.,Resolved,Notification Service,low,3.8833333333333333,3,699
+INC-1439,SRV-004,2025-09-29,P4,Application,2025-09-29 13:24:19,2025-09-29 13:39:19,15,Statement measure play buy air head.,Resolved,Appointment Scheduling,standard,0.25,1,15
+INC-1201,SRV-001,2025-09-29,P2,Network,2025-09-29 16:51:48,2025-09-29 18:52:48,121,Son join hundred keep.,Resolved,Patient Portal,standard,2.0166666666666666,3,363
+INC-1085,SRV-006,2025-09-30,P4,Database,2025-09-30 11:08:47,2025-09-30 11:41:47,33,With modern executive beyond create dinner conference add.,Resolved,Lab Results API,standard,0.55,1,33
+INC-1343,SRV-008,2025-09-30,P4,Application,2025-09-30 11:20:33,2025-09-30 11:45:33,25,Reduce car chair focus.,Resolved,Authentication Service,critical,0.4166666666666667,1,25
+INC-1310,SRV-004,2025-09-30,P4,Application,2025-09-30 13:20:03,2025-09-30 13:58:03,38,Feel site guess want result many.,Resolved,Appointment Scheduling,standard,0.6333333333333333,1,38
+INC-1140,SRV-001,2025-09-30,P4,Database,2025-09-30 14:14:19,2025-09-30 15:02:19,48,Would music sometimes body.,Resolved,Patient Portal,standard,0.8,1,48
+INC-1107,SRV-002,2025-09-30,P3,Infrastructure,2025-09-30 14:43:44,2025-09-30 16:05:44,82,Future skin environment able rise study.,Resolved,Claims Processing,critical,1.3666666666666667,2,164
+INC-1003,SRV-008,2025-09-30,P3,Application,2025-09-30 20:34:55,2025-09-30 22:27:55,113,Democratic shake bill here.,Resolved,Authentication Service,critical,1.8833333333333333,2,226
+INC-1100,SRV-006,2025-10-01,P3,Application,2025-10-01 08:47:25,2025-10-01 09:05:25,18,Young job sport why.,Resolved,Lab Results API,standard,0.3,2,36
+INC-1267,SRV-006,2025-10-04,P4,Database,2025-10-04 08:14:45,2025-10-04 08:45:45,31,Conference career political role white hear.,Resolved,Lab Results API,standard,0.5166666666666667,1,31
+INC-1463,SRV-004,2025-10-05,P4,Application,2025-10-05 14:59:41,2025-10-05 15:39:41,40,Road others full thousand yet garden top.,Resolved,Appointment Scheduling,standard,0.6666666666666666,1,40
+INC-1199,SRV-004,2025-10-06,P4,Application,2025-10-06 09:13:58,2025-10-06 09:27:58,14,Analysis current among value middle.,Resolved,Appointment Scheduling,standard,0.23333333333333334,1,14
+INC-1126,SRV-001,2025-10-07,P2,Application,2025-10-07 10:21:43,2025-10-07 12:53:43,152,Section compare car much will most.,Resolved,Patient Portal,standard,2.533333333333333,3,456
+INC-1452,SRV-002,2025-10-07,P4,Application,2025-10-07 10:27:57,2025-10-07 11:10:57,43,Likely scientist rise next.,Resolved,Claims Processing,critical,0.7166666666666667,1,43
+INC-1497,SRV-008,2025-10-07,P2,Network,2025-10-07 13:02:46,2025-10-07 14:12:46,70,Source catch owner though mention successful natural.,Resolved,Authentication Service,critical,1.1666666666666667,3,210
+INC-1300,SRV-008,2025-10-09,P4,Application,2025-10-09 10:08:46,2025-10-09 10:58:46,50,Nor note support quality.,Resolved,Authentication Service,critical,0.8333333333333334,1,50
+INC-1054,SRV-006,2025-10-09,P2,Application,2025-10-09 18:38:22,2025-10-09 21:50:22,192,Nature a expert involve oil pressure.,Resolved,Lab Results API,standard,3.2,3,576
+INC-1089,SRV-005,2025-10-10,P3,Application,2025-10-10 16:45:08,2025-10-10 18:04:08,79,Yes budget share paper.,Resolved,Billing Engine,critical,1.3166666666666667,2,158
+INC-1331,SRV-003,2025-10-11,P4,Application,2025-10-11 10:35:52,2025-10-11 11:12:52,37,Consumer really memory industry.,Resolved,EHR,critical,0.6166666666666667,1,37
+INC-1265,SRV-002,2025-10-12,P4,Application,2025-10-12 09:45:54,2025-10-12 10:38:54,53,How staff second.,Resolved,Claims Processing,critical,0.8833333333333333,1,53
+INC-1454,SRV-002,2025-10-12,P4,Network,2025-10-12 11:44:31,2025-10-12 12:04:31,20,Small former end family surface like.,Resolved,Claims Processing,critical,0.3333333333333333,1,20
+INC-1498,SRV-007,2025-10-14,P4,Application,2025-10-14 10:00:38,2025-10-14 10:49:38,49,Plan cut person fact generation public wonder.,Resolved,Notification Service,low,0.8166666666666667,1,49
+INC-1225,SRV-007,2025-10-14,P3,Application,2025-10-14 18:17:48,2025-10-14 19:23:48,66,Safe team wish candidate have no.,Resolved,Notification Service,low,1.1,2,132
+INC-1110,SRV-003,2025-10-16,P3,Application,2025-10-16 06:53:05,2025-10-16 08:36:05,103,Relate specific history professional star wonder manager.,Resolved,EHR,critical,1.7166666666666666,2,206
+INC-1226,SRV-002,2025-10-16,P4,Application,2025-10-16 14:13:32,2025-10-16 14:25:32,12,Letter environment easy best face.,Resolved,Claims Processing,critical,0.2,1,12
+INC-1397,SRV-003,2025-10-17,P2,Database,2025-10-17 19:54:13,2025-10-17 20:38:13,44,Establish ago others ahead specific exactly.,Resolved,EHR,critical,0.7333333333333333,3,132
+INC-1436,SRV-005,2025-10-17,P3,Network,2025-10-17 20:19:34,2025-10-17 20:40:34,21,Rock painting become kid tree.,Resolved,Billing Engine,critical,0.35,2,42
+INC-1146,SRV-001,2025-10-19,P4,Infrastructure,2025-10-19 09:25:52,2025-10-19 10:04:52,39,Yes most law painting between reduce.,Resolved,Patient Portal,standard,0.65,1,39
+INC-1069,SRV-005,2025-10-19,P2,Network,2025-10-19 11:16:25,2025-10-19 14:18:25,182,Seven here sell story edge bank.,Resolved,Billing Engine,critical,3.033333333333333,3,546
+INC-1392,SRV-006,2025-10-21,P3,Application,2025-10-21 08:58:08,2025-10-21 10:46:08,108,Amount leave collection off.,Resolved,Lab Results API,standard,1.8,2,216
+INC-1301,SRV-006,2025-10-21,P4,Infrastructure,2025-10-21 11:05:46,2025-10-21 11:55:46,50,Sense cause write right may window.,Resolved,Lab Results API,standard,0.8333333333333334,1,50
+INC-1175,SRV-005,2025-10-22,P3,Network,2025-10-22 17:36:28,2025-10-22 19:32:28,116,Form newspaper hit edge.,Resolved,Billing Engine,critical,1.9333333333333333,2,232
+INC-1322,SRV-003,2025-10-26,P2,Database,2025-10-26 10:26:44,2025-10-26 13:23:44,177,Lot far turn.,Resolved,EHR,critical,2.95,3,531
+INC-1411,SRV-006,2025-10-27,P2,Application,2025-10-27 09:29:16,2025-10-27 13:03:16,214,Collection those become remember police though.,Resolved,Lab Results API,standard,3.566666666666667,3,642
+INC-1245,SRV-001,2025-10-27,P3,Application,2025-10-27 12:37:30,2025-10-27 14:30:30,113,Pretty section degree still even no.,Resolved,Patient Portal,standard,1.8833333333333333,2,226
+INC-1188,SRV-004,2025-10-28,P2,Application,2025-10-28 10:23:08,2025-10-28 13:31:08,188,Increase how hear.,Resolved,Appointment Scheduling,standard,3.1333333333333333,3,564
+INC-1101,SRV-001,2025-10-28,P1,Application,2025-10-28 12:41:55,2025-10-28 13:51:55,70,Four prove tax form really explain.,Resolved,Patient Portal,standard,1.1666666666666667,4,280
+INC-1340,SRV-002,2025-10-29,P4,Application,2025-10-29 10:36:58,2025-10-29 11:09:58,33,Plan coach cause deal deal arrive go exactly.,Resolved,Claims Processing,critical,0.55,1,33
+INC-1004,SRV-007,2025-11-01,P4,Application,2025-11-01 13:48:49,2025-11-01 14:02:49,14,Page southern role movie win her.,Resolved,Notification Service,low,0.23333333333333334,1,14
+INC-1233,SRV-001,2025-11-03,P2,Database,2025-11-03 11:18:54,2025-11-03 12:31:54,73,Current meeting matter and.,Resolved,Patient Portal,standard,1.2166666666666666,3,219
+INC-1209,SRV-007,2025-11-04,P3,Network,2025-11-04 23:29:17,2025-11-05 01:08:17,99,Fire everything whether ago control military.,Resolved,Notification Service,low,1.65,2,198
+INC-1157,SRV-007,2025-11-05,P3,Application,2025-11-05 15:22:41,2025-11-05 16:13:41,51,Return since nothing be apply.,Resolved,Notification Service,low,0.85,2,102
+INC-1382,SRV-007,2025-11-06,P4,Application,2025-11-06 05:08:36,2025-11-06 05:37:36,29,Window be believe card star avoid nothing.,Resolved,Notification Service,low,0.48333333333333334,1,29
+INC-1375,SRV-004,2025-11-06,P2,Application,2025-11-06 10:36:26,2025-11-06 11:44:26,68,Maybe top conference source.,Resolved,Appointment Scheduling,standard,1.1333333333333333,3,204
+INC-1186,SRV-001,2025-11-06,P4,Application,2025-11-06 15:05:51,2025-11-06 15:17:51,12,Various represent middle by base civil last.,Resolved,Patient Portal,standard,0.2,1,12
+INC-1351,SRV-004,2025-11-06,P3,Database,2025-11-06 19:47:06,2025-11-06 20:31:06,44,Appear personal rise sense.,Resolved,Appointment Scheduling,standard,0.7333333333333333,2,88
+INC-1434,SRV-002,2025-11-06,P3,Application,2025-11-06 20:15:56,2025-11-06 21:13:56,58,Full soldier financial.,Resolved,Claims Processing,critical,0.9666666666666667,2,116
+INC-1406,SRV-008,2025-11-07,P4,Infrastructure,2025-11-07 09:51:06,2025-11-07 10:16:06,25,Only from follow wish run join.,Resolved,Authentication Service,critical,0.4166666666666667,1,25
+INC-1466,SRV-007,2025-11-07,P3,Application,2025-11-07 16:12:48,2025-11-07 17:52:48,100,Side perhaps order answer blue.,Resolved,Notification Service,low,1.6666666666666667,2,200
+INC-1445,SRV-006,2025-11-08,P2,Application,2025-11-08 16:38:19,2025-11-08 20:05:19,207,Learn design few minute perhaps once.,Resolved,Lab Results API,standard,3.45,3,621
+INC-1304,SRV-008,2025-11-09,P2,Network,2025-11-09 13:50:04,2025-11-09 16:41:04,171,Sign far east available.,Resolved,Authentication Service,critical,2.85,3,513
+INC-1121,SRV-003,2025-11-10,P2,Application,2025-11-10 10:20:22,2025-11-10 13:59:22,219,Grow fast recognize against stop how account.,Resolved,EHR,critical,3.65,3,657
+INC-1208,SRV-006,2025-11-10,P3,Application,2025-11-10 16:17:41,2025-11-10 17:43:41,86,Allow check last he know baby case.,Resolved,Lab Results API,standard,1.4333333333333333,2,172
+INC-1227,SRV-005,2025-11-11,P3,Network,2025-11-11 09:43:09,2025-11-11 10:43:09,60,Industry while total spend value return couple city.,Resolved,Billing Engine,critical,1.0,2,120
+INC-1058,SRV-003,2025-11-11,P3,Application,2025-11-11 15:56:19,2025-11-11 17:52:19,116,Hundred challenge reach throughout team those sing.,Resolved,EHR,critical,1.9333333333333333,2,232
+INC-1330,SRV-002,2025-11-12,P2,Application,2025-11-12 13:07:49,2025-11-12 17:00:49,233,Hotel box goal leader common purpose song try.,Resolved,Claims Processing,critical,3.8833333333333333,3,699
+INC-1202,SRV-001,2025-11-12,P3,Application,2025-11-12 18:15:25,2025-11-12 18:31:25,16,Wind many marriage under mind song.,Resolved,Patient Portal,standard,0.26666666666666666,2,32
+INC-1365,SRV-007,2025-11-13,P3,Database,2025-11-13 12:11:53,2025-11-13 13:26:53,75,Plant strong race at recognize role suffer around.,Resolved,Notification Service,low,1.25,2,150
+INC-1426,SRV-003,2025-11-15,P3,Database,2025-11-15 10:36:36,2025-11-15 11:26:36,50,Maybe too song.,Resolved,EHR,critical,0.8333333333333334,2,100
+INC-1390,SRV-001,2025-11-17,P2,Application,2025-11-17 10:03:35,2025-11-17 11:32:35,89,Rather visit base only true avoid.,Resolved,Patient Portal,standard,1.4833333333333334,3,267
+INC-1102,SRV-002,2025-11-17,P2,Application,2025-11-17 12:15:07,2025-11-17 13:40:07,85,Already because education break significant ten stay.,Resolved,Claims Processing,critical,1.4166666666666667,3,255
+INC-1206,SRV-007,2025-11-19,P4,Infrastructure,2025-11-19 16:30:13,2025-11-19 17:06:13,36,Message seek civil all support question.,Resolved,Notification Service,low,0.6,1,36
+INC-1437,SRV-007,2025-11-20,P3,Network,2025-11-20 08:28:10,2025-11-20 08:49:10,21,Service test start middle city find medical.,Resolved,Notification Service,low,0.35,2,42
+INC-1093,SRV-003,2025-11-20,P1,Infrastructure,2025-11-20 12:30:35,2025-11-20 17:04:35,274,Ready like allow explain executive teacher author.,Resolved,EHR,critical,4.566666666666666,4,1096
+INC-1112,SRV-004,2025-11-21,P3,Database,2025-11-21 14:17:39,2025-11-21 14:38:39,21,Avoid sit enter perhaps.,Resolved,Appointment Scheduling,standard,0.35,2,42
+INC-1064,SRV-004,2025-11-23,P3,Application,2025-11-23 17:55:56,2025-11-23 19:45:56,110,Former letter artist strategy hope show.,Resolved,Appointment Scheduling,standard,1.8333333333333333,2,220
+INC-1450,SRV-002,2025-11-24,P4,Database,2025-11-24 13:18:53,2025-11-24 14:13:53,55,Home along remain occur couple risk.,Resolved,Claims Processing,critical,0.9166666666666666,1,55
+INC-1374,SRV-008,2025-11-24,P4,Application,2025-11-24 22:55:18,2025-11-24 23:23:18,28,Focus indicate result even back.,Resolved,Authentication Service,critical,0.4666666666666667,1,28
+INC-1120,SRV-005,2025-11-26,P3,Application,2025-11-26 17:44:45,2025-11-26 18:09:45,25,Lead few yourself table blood.,Resolved,Billing Engine,critical,0.4166666666666667,2,50
+INC-1159,SRV-007,2025-11-28,P3,Application,2025-11-28 16:20:07,2025-11-28 17:54:07,94,Exist question main project.,Resolved,Notification Service,low,1.5666666666666667,2,188
+INC-1091,SRV-007,2025-11-28,P3,Network,2025-11-28 17:21:01,2025-11-28 19:17:01,116,Notice art whether between several.,Resolved,Notification Service,low,1.9333333333333333,2,232
+INC-1418,SRV-002,2025-11-29,P2,Application,2025-11-29 18:11:29,2025-11-29 19:42:29,91,Parent its approach former.,Resolved,Claims Processing,critical,1.5166666666666666,3,273
+INC-1182,SRV-005,2025-12-01,P4,Database,2025-12-01 09:56:42,2025-12-01 10:17:42,21,Improve put down.,Resolved,Billing Engine,critical,0.35,1,21
+INC-1077,SRV-006,2025-12-01,P3,Application,2025-12-01 12:37:03,2025-12-01 13:43:03,66,Safe whole establish space.,Resolved,Lab Results API,standard,1.1,2,132
+INC-1062,SRV-003,2025-12-02,P2,Database,2025-12-02 09:59:35,2025-12-02 13:56:35,237,Require doctor from throw.,Resolved,EHR,critical,3.95,3,711
+INC-1339,SRV-007,2025-12-02,P3,Network,2025-12-02 11:33:41,2025-12-02 13:10:41,97,Simply down specific onto.,Resolved,Notification Service,low,1.6166666666666667,2,194
+INC-1021,SRV-005,2025-12-02,P4,Database,2025-12-02 13:00:19,2025-12-02 13:53:19,53,Later easy ask again network open according.,Resolved,Billing Engine,critical,0.8833333333333333,1,53
+INC-1356,SRV-005,2025-12-02,P4,Application,2025-12-02 13:12:26,2025-12-02 13:58:26,46,Reveal physical character in rather team.,Resolved,Billing Engine,critical,0.7666666666666667,1,46
+INC-1097,SRV-007,2025-12-02,P2,Network,2025-12-02 15:01:30,2025-12-02 17:29:30,148,Our threat same page.,Resolved,Notification Service,low,2.466666666666667,3,444
+INC-1207,SRV-002,2025-12-02,P2,Application,2025-12-02 16:28:00,2025-12-02 17:35:00,67,Call door population.,Resolved,Claims Processing,critical,1.1166666666666667,3,201
+INC-1040,SRV-001,2025-12-03,P3,Application,2025-12-03 16:55:19,2025-12-03 17:05:19,10,Relationship night born war real chance along.,Resolved,Patient Portal,standard,0.16666666666666666,2,20
+INC-1125,SRV-001,2025-12-03,P3,Application,2025-12-03 22:48:11,2025-12-03 23:58:11,70,Often run bed.,Resolved,Patient Portal,standard,1.1666666666666667,2,140
+INC-1136,SRV-003,2025-12-04,P4,Network,2025-12-04 10:09:47,2025-12-04 10:24:47,15,Wear talk between rate name within.,Resolved,EHR,critical,0.25,1,15
+INC-1306,SRV-008,2025-12-04,P4,Application,2025-12-04 19:25:19,2025-12-04 20:19:19,54,Seven bill beautiful issue news mention.,Resolved,Authentication Service,critical,0.9,1,54
+INC-1412,SRV-001,2025-12-05,P4,Application,2025-12-05 07:11:33,2025-12-05 08:09:33,58,Enter economic attack.,Resolved,Patient Portal,standard,0.9666666666666667,1,58
+INC-1273,SRV-003,2025-12-05,P1,Infrastructure,2025-12-05 14:07:56,2025-12-05 19:01:56,294,Public the each analysis keep music senior simply.,Resolved,EHR,critical,4.9,4,1176
+INC-1440,SRV-005,2025-12-05,P2,Application,2025-12-05 15:10:07,2025-12-05 16:17:07,67,Whether listen necessary general.,Resolved,Billing Engine,critical,1.1166666666666667,3,201
+INC-1423,SRV-006,2025-12-05,P3,Application,2025-12-05 17:27:36,2025-12-05 19:26:36,119,Enjoy let difficult.,Resolved,Lab Results API,standard,1.9833333333333334,2,238
+INC-1394,SRV-003,2025-12-05,P3,Application,2025-12-05 18:19:40,2025-12-05 19:23:40,64,Alone people early far.,Resolved,EHR,critical,1.0666666666666667,2,128
+INC-1143,SRV-006,2025-12-06,P3,Application,2025-12-06 14:30:40,2025-12-06 14:53:40,23,Message board mean war analysis situation.,Resolved,Lab Results API,standard,0.38333333333333336,2,46
+INC-1173,SRV-007,2025-12-06,P3,Infrastructure,2025-12-06 15:19:47,2025-12-06 16:27:47,68,Specific study word base.,Resolved,Notification Service,low,1.1333333333333333,2,136
+INC-1130,SRV-007,2025-12-08,P3,Application,2025-12-08 07:28:46,2025-12-08 08:57:46,89,Pull public once state wait board.,Resolved,Notification Service,low,1.4833333333333334,2,178
+INC-1494,SRV-002,2025-12-09,P3,Infrastructure,2025-12-09 20:44:50,2025-12-09 21:44:50,60,What care material morning any very stuff lot.,Resolved,Claims Processing,critical,1.0,2,120
+INC-1254,SRV-002,2025-12-10,P4,Application,2025-12-10 07:47:34,2025-12-10 08:19:34,32,Responsibility add front far purpose.,Resolved,Claims Processing,critical,0.5333333333333333,1,32
+INC-1271,SRV-001,2025-12-10,P4,Application,2025-12-10 08:00:19,2025-12-10 08:58:19,58,Choice country themselves she allow produce.,Resolved,Patient Portal,standard,0.9666666666666667,1,58
+INC-1485,SRV-004,2025-12-10,P3,Database,2025-12-10 08:10:18,2025-12-10 10:03:18,113,Soon large task language budget market.,Resolved,Appointment Scheduling,standard,1.8833333333333333,2,226
+INC-1241,SRV-006,2025-12-10,P3,Application,2025-12-10 13:39:28,2025-12-10 13:57:28,18,Garden great sign return poor really particular.,Resolved,Lab Results API,standard,0.3,2,36
+INC-1072,SRV-004,2025-12-12,P4,Application,2025-12-12 13:59:51,2025-12-12 14:08:51,9,Short cold parent security boy.,Resolved,Appointment Scheduling,standard,0.15,1,9
+INC-1228,SRV-003,2025-12-13,P1,Application,2025-12-13 11:03:56,2025-12-13 13:13:56,130,These market bed hotel lead drive on.,Resolved,EHR,critical,2.1666666666666665,4,520
+INC-1024,SRV-003,2025-12-13,P1,Network,2025-12-13 11:58:07,2025-12-13 16:03:07,245,Pull worker better.,Resolved,EHR,critical,4.083333333333333,4,980
+INC-1190,SRV-007,2025-12-14,P3,Network,2025-12-14 12:58:23,2025-12-14 13:13:23,15,Past town affect democratic change vote participant.,Resolved,Notification Service,low,0.25,2,30
+INC-1184,SRV-003,2025-12-14,P4,Infrastructure,2025-12-14 13:29:32,2025-12-14 13:48:32,19,Happy water worker left example.,Resolved,EHR,critical,0.31666666666666665,1,19
+INC-1398,SRV-003,2025-12-15,P3,Application,2025-12-15 13:26:01,2025-12-15 14:08:01,42,Group once do city easy drop move.,Resolved,EHR,critical,0.7,2,84
+INC-1278,SRV-005,2025-12-15,P4,Infrastructure,2025-12-15 14:24:55,2025-12-15 14:51:55,27,Support feeling remain south trip.,Resolved,Billing Engine,critical,0.45,1,27
+INC-1131,SRV-004,2025-12-15,P2,Application,2025-12-15 14:47:58,2025-12-15 16:24:58,97,People wall foreign.,Resolved,Appointment Scheduling,standard,1.6166666666666667,3,291
+INC-1216,SRV-006,2025-12-17,P3,Network,2025-12-17 10:18:55,2025-12-17 11:32:55,74,Improve important offer by first avoid letter.,Resolved,Lab Results API,standard,1.2333333333333334,2,148
+INC-1447,SRV-004,2025-12-19,P3,Application,2025-12-19 10:40:39,2025-12-19 11:25:39,45,From everybody foot everybody.,Resolved,Appointment Scheduling,standard,0.75,2,90
+INC-1078,SRV-003,2025-12-19,P3,Infrastructure,2025-12-19 14:32:24,2025-12-19 15:18:24,46,Itself room environmental system store beautiful think.,Resolved,EHR,critical,0.7666666666666667,2,92
+INC-1407,SRV-001,2025-12-21,P3,Application,2025-12-21 13:23:59,2025-12-21 14:01:59,38,Company why really up skin development.,Resolved,Patient Portal,standard,0.6333333333333333,2,76
+INC-1335,SRV-005,2025-12-21,P3,Application,2025-12-21 13:34:34,2025-12-21 13:46:34,12,Bar air set factor.,Resolved,Billing Engine,critical,0.2,2,24
+INC-1333,SRV-003,2025-12-22,P3,Application,2025-12-22 11:09:40,2025-12-22 12:37:40,88,Cell fire late approach grow.,Resolved,EHR,critical,1.4666666666666666,2,176
+INC-1314,SRV-001,2025-12-22,P1,Application,2025-12-22 19:55:11,2025-12-23 01:50:11,355,Site for exactly skill half usually customer.,Resolved,Patient Portal,standard,5.916666666666667,4,1420
+INC-1012,SRV-004,2025-12-23,P3,Infrastructure,2025-12-23 14:24:03,2025-12-23 16:21:03,117,Sense technology check civil.,Resolved,Appointment Scheduling,standard,1.95,2,234
+INC-1378,SRV-001,2025-12-23,P3,Application,2025-12-23 22:26:17,2025-12-24 00:02:17,96,Run national somebody character usually.,Resolved,Patient Portal,standard,1.6,2,192
+INC-1287,SRV-008,2025-12-25,P3,Application,2025-12-25 16:11:37,2025-12-25 18:03:37,112,Pressure range either start whom politics make.,Resolved,Authentication Service,critical,1.8666666666666667,2,224
+INC-1016,SRV-007,2025-12-26,P3,Database,2025-12-26 09:34:02,2025-12-26 10:35:02,61,Medical blood personal success.,Resolved,Notification Service,low,1.0166666666666666,2,122
+INC-1185,SRV-007,2025-12-27,P3,Database,2025-12-27 16:46:48,2025-12-27 18:38:48,112,Industry class current painting their appear lose.,Resolved,Notification Service,low,1.8666666666666667,2,224
+INC-1017,SRV-002,2025-12-29,P3,Infrastructure,2025-12-29 15:08:39,2025-12-29 17:08:39,120,Current hear claim well two truth out major.,Resolved,Claims Processing,critical,2.0,2,240
+INC-1495,SRV-008,2025-12-29,P4,Application,2025-12-29 16:27:21,2025-12-29 17:25:21,58,Reality community spring billion.,Resolved,Authentication Service,critical,0.9666666666666667,1,58
+INC-1050,SRV-002,2025-12-30,P4,Database,2025-12-30 15:08:30,2025-12-30 15:36:30,28,History office effort remember.,Resolved,Claims Processing,critical,0.4666666666666667,1,28
+INC-1187,SRV-005,2025-12-31,P3,Application,2025-12-31 13:43:39,2025-12-31 15:38:39,115,Store begin treat stage.,Resolved,Billing Engine,critical,1.9166666666666667,2,230
+INC-1217,SRV-002,2026-01-01,P3,Application,2026-01-01 13:42:41,2026-01-01 15:03:41,81,Campaign stop necessary onto should can.,Resolved,Claims Processing,critical,1.35,2,162
+INC-1430,SRV-002,2026-01-02,P2,Application,2026-01-02 09:27:41,2026-01-02 13:13:41,226,True actually red onto site both change.,Resolved,Claims Processing,critical,3.7666666666666666,3,678
+INC-1240,SRV-008,2026-01-02,P4,Infrastructure,2026-01-02 10:29:40,2026-01-02 11:10:40,41,Night your long heavy what.,Resolved,Authentication Service,critical,0.6833333333333333,1,41
+INC-1051,SRV-005,2026-01-02,P4,Application,2026-01-02 12:28:31,2026-01-02 13:24:31,56,Rather vote say culture issue we TV.,Resolved,Billing Engine,critical,0.9333333333333333,1,56
+INC-1425,SRV-002,2026-01-03,P3,Infrastructure,2026-01-03 19:30:11,2026-01-03 20:15:11,45,Whole reach view of dog federal.,Resolved,Claims Processing,critical,0.75,2,90
+INC-1289,SRV-006,2026-01-04,P3,Network,2026-01-04 11:11:57,2026-01-04 12:02:57,51,Stuff avoid stand.,Resolved,Lab Results API,standard,0.85,2,102
+INC-1174,SRV-008,2026-01-04,P4,Network,2026-01-04 15:12:22,2026-01-04 15:41:22,29,Particular hair truth hold simple quickly appear.,Resolved,Authentication Service,critical,0.48333333333333334,1,29
+INC-1180,SRV-001,2026-01-05,P4,Application,2026-01-05 16:19:49,2026-01-05 17:10:49,51,Product then peace.,Resolved,Patient Portal,standard,0.85,1,51
+INC-1020,SRV-006,2026-01-05,P4,Network,2026-01-05 19:34:34,2026-01-05 20:06:34,32,Institution deep much role cut find yet practice.,Resolved,Lab Results API,standard,0.5333333333333333,1,32
+INC-1262,SRV-008,2026-01-06,P4,Infrastructure,2026-01-06 01:36:49,2026-01-06 02:30:49,54,Back nor article natural measure of.,Resolved,Authentication Service,critical,0.9,1,54
+INC-1083,SRV-002,2026-01-07,P4,Infrastructure,2026-01-07 11:00:03,2026-01-07 11:19:03,19,International second former reflect even edge.,Resolved,Claims Processing,critical,0.31666666666666665,1,19
+INC-1247,SRV-006,2026-01-07,P4,Database,2026-01-07 11:51:55,2026-01-07 12:01:55,10,Point appear including response beyond.,Resolved,Lab Results API,standard,0.16666666666666666,1,10
+INC-1235,SRV-002,2026-01-07,P3,Application,2026-01-07 16:27:00,2026-01-07 17:16:00,49,Remember feel staff happy purpose woman on.,Resolved,Claims Processing,critical,0.8166666666666667,2,98
+INC-1162,SRV-003,2026-01-07,P3,Application,2026-01-07 18:58:38,2026-01-07 20:31:38,93,Matter street south author technology.,Resolved,EHR,critical,1.55,2,186
+INC-1086,SRV-007,2026-01-08,P4,Database,2026-01-08 17:46:59,2026-01-08 18:26:59,40,Ever window network recently.,Resolved,Notification Service,low,0.6666666666666666,1,40
+INC-1284,SRV-005,2026-01-08,P3,Network,2026-01-08 22:52:46,2026-01-09 00:24:46,92,Final growth third letter sort reveal.,Resolved,Billing Engine,critical,1.5333333333333334,2,184
+INC-1364,SRV-003,2026-01-09,P1,Application,2026-01-09 16:11:47,2026-01-09 22:56:47,405,Pattern everyone finally memory data space movie.,Resolved,EHR,critical,6.75,4,1620
+INC-1026,SRV-002,2026-01-10,P3,Database,2026-01-10 09:05:41,2026-01-10 10:23:41,78,Why unit support.,Resolved,Claims Processing,critical,1.3,2,156
+INC-1066,SRV-004,2026-01-10,P3,Application,2026-01-10 13:22:45,2026-01-10 14:56:45,94,Son today major event magazine home protect.,Resolved,Appointment Scheduling,standard,1.5666666666666667,2,188
+INC-1253,SRV-006,2026-01-11,P3,Database,2026-01-11 18:19:39,2026-01-11 19:54:39,95,Management voice surface life cover both class.,Resolved,Lab Results API,standard,1.5833333333333333,2,190
+INC-1095,SRV-007,2026-01-12,P3,Infrastructure,2026-01-12 08:01:21,2026-01-12 09:58:21,117,Positive training step author coach.,Resolved,Notification Service,low,1.95,2,234
+INC-1315,SRV-007,2026-01-12,P4,Application,2026-01-12 14:13:54,2026-01-12 14:19:54,6,Race nearly well left.,Resolved,Notification Service,low,0.1,1,6
+INC-1002,SRV-001,2026-01-12,P2,Application,2026-01-12 16:13:21,2026-01-12 19:46:21,213,Determine operation speak according south recently.,Resolved,Patient Portal,standard,3.55,3,639
+INC-1417,SRV-008,2026-01-13,P1,Infrastructure,2026-01-13 14:18:26,2026-01-13 22:10:26,472,Full world throw relate.,Resolved,Authentication Service,critical,7.866666666666666,4,1888
+INC-1395,SRV-007,2026-01-14,P4,Infrastructure,2026-01-14 12:03:25,2026-01-14 12:28:25,25,Article evidence case current this moment piece.,Resolved,Notification Service,low,0.4166666666666667,1,25
+INC-1037,SRV-004,2026-01-15,P3,Database,2026-01-15 06:11:05,2026-01-15 06:30:05,19,Evening painting response data.,Resolved,Appointment Scheduling,standard,0.31666666666666665,2,38
+INC-1005,SRV-002,2026-01-15,P3,Application,2026-01-15 13:48:29,2026-01-15 14:43:29,55,Stop peace technology officer relate.,Resolved,Claims Processing,critical,0.9166666666666666,2,110
+INC-1215,SRV-007,2026-01-15,P4,Database,2026-01-15 17:42:19,2026-01-15 18:33:19,51,Partner beat finally yourself.,Resolved,Notification Service,low,0.85,1,51
+INC-1060,SRV-001,2026-01-18,P4,Database,2026-01-18 12:50:40,2026-01-18 13:08:40,18,Fish sense kind spring throughout interview trade knowledge.,Resolved,Patient Portal,standard,0.3,1,18
+INC-1327,SRV-005,2026-01-18,P2,Infrastructure,2026-01-18 17:27:13,2026-01-18 21:12:13,225,When discussion if continue policy it.,Resolved,Billing Engine,critical,3.75,3,675
+INC-1279,SRV-002,2026-01-19,P2,Infrastructure,2026-01-19 12:22:01,2026-01-19 16:00:01,218,Whose newspaper care drug data position.,Resolved,Claims Processing,critical,3.6333333333333333,3,654
+INC-1320,SRV-006,2026-01-19,P3,Application,2026-01-19 14:32:36,2026-01-19 14:57:36,25,Whom former someone black better develop.,Resolved,Lab Results API,standard,0.4166666666666667,2,50
+INC-1402,SRV-008,2026-01-19,P1,Database,2026-01-19 14:58:18,2026-01-19 16:58:18,120,Student special wife my compare.,Resolved,Authentication Service,critical,2.0,4,480
+INC-1488,SRV-005,2026-01-19,P2,Database,2026-01-19 20:58:10,2026-01-19 22:00:10,62,Pressure lay future stay staff.,Resolved,Billing Engine,critical,1.0333333333333334,3,186
+INC-1431,SRV-006,2026-01-21,P3,Network,2026-01-21 05:38:17,2026-01-21 06:22:17,44,Old who beyond black single size test they.,Resolved,Lab Results API,standard,0.7333333333333333,2,88
+INC-1023,SRV-003,2026-01-22,P3,Application,2026-01-22 08:09:26,2026-01-22 09:58:26,109,Line six space couple best issue interest.,Resolved,EHR,critical,1.8166666666666667,2,218
+INC-1442,SRV-008,2026-01-23,P3,Application,2026-01-23 05:15:54,2026-01-23 05:50:54,35,Tax positive question especially important.,Resolved,Authentication Service,critical,0.5833333333333334,2,70
+INC-1250,SRV-006,2026-01-23,P2,Network,2026-01-23 08:38:38,2026-01-23 09:32:38,54,Movement rich view tree company.,Resolved,Lab Results API,standard,0.9,3,162
+INC-1409,SRV-004,2026-01-23,P3,Application,2026-01-23 16:24:26,2026-01-23 17:57:26,93,Surface side nothing consider fish speak.,Resolved,Appointment Scheduling,standard,1.55,2,186
+INC-1108,SRV-006,2026-01-26,P3,Network,2026-01-26 15:22:39,2026-01-26 16:54:39,92,Tend land machine forward several help usually.,Resolved,Lab Results API,standard,1.5333333333333334,2,184
+INC-1030,SRV-004,2026-01-27,P3,Application,2026-01-27 11:01:47,2026-01-27 11:11:47,10,Me system church whether bag control organization.,Resolved,Appointment Scheduling,standard,0.16666666666666666,2,20
+INC-1264,SRV-008,2026-01-27,P3,Database,2026-01-27 12:55:49,2026-01-27 14:15:49,80,Before member speak law message lead around.,Resolved,Authentication Service,critical,1.3333333333333333,2,160
+INC-1139,SRV-003,2026-01-28,P1,Application,2026-01-28 09:38:11,2026-01-28 12:46:11,188,Spend do similar small other.,Resolved,EHR,critical,3.1333333333333333,4,752
+INC-1405,SRV-005,2026-01-28,P3,Application,2026-01-28 16:41:37,2026-01-28 17:54:37,73,Similar suffer team whether.,Resolved,Billing Engine,critical,1.2166666666666666,2,146
+INC-1142,SRV-007,2026-01-29,P2,Application,2026-01-29 07:17:25,2026-01-29 09:52:25,155,Administration enter camera inside box as.,Resolved,Notification Service,low,2.5833333333333335,3,465
+INC-1408,SRV-007,2026-01-29,P3,Application,2026-01-29 14:01:47,2026-01-29 14:36:47,35,Her safe family concern.,Resolved,Notification Service,low,0.5833333333333334,2,70
+INC-1401,SRV-004,2026-01-30,P2,Application,2026-01-30 11:55:43,2026-01-30 13:50:43,115,Region goal nothing.,Resolved,Appointment Scheduling,standard,1.9166666666666667,3,345
+INC-1111,SRV-008,2026-01-30,P3,Application,2026-01-30 13:41:49,2026-01-30 15:36:49,115,Thank them key moment lead reveal.,Resolved,Authentication Service,critical,1.9166666666666667,2,230
+INC-1276,SRV-002,2026-01-30,P3,Application,2026-01-30 14:11:14,2026-01-30 15:07:14,56,Personal interview many win.,Resolved,Claims Processing,critical,0.9333333333333333,2,112
+INC-1068,SRV-006,2026-01-30,P3,Database,2026-01-30 15:32:25,2026-01-30 15:56:25,24,Production base investment term consider employee force.,Resolved,Lab Results API,standard,0.4,2,48
+INC-1177,SRV-005,2026-02-01,P3,Infrastructure,2026-02-01 19:47:10,2026-02-01 20:26:10,39,Finally heavy social spend.,Resolved,Billing Engine,critical,0.65,2,78
+INC-1318,SRV-006,2026-02-02,P3,Application,2026-02-02 15:30:50,2026-02-02 16:20:50,50,Old move type thank industry already why.,Resolved,Lab Results API,standard,0.8333333333333334,2,100
+INC-1403,SRV-004,2026-02-03,P3,Infrastructure,2026-02-03 14:48:13,2026-02-03 16:28:13,100,After long forward pass southern.,Resolved,Appointment Scheduling,standard,1.6666666666666667,2,200
+INC-1313,SRV-006,2026-02-04,P2,Database,2026-02-04 17:37:11,2026-02-04 20:31:11,174,Look concern huge five same.,Resolved,Lab Results API,standard,2.9,3,522
+INC-1221,SRV-007,2026-02-05,P4,Network,2026-02-05 06:11:12,2026-02-05 07:03:12,52,Successful nor stay agreement animal political.,Resolved,Notification Service,low,0.8666666666666667,1,52
+INC-1359,SRV-008,2026-02-05,P1,Infrastructure,2026-02-05 10:58:41,2026-02-05 13:33:41,155,Single real summer probably feeling.,Resolved,Authentication Service,critical,2.5833333333333335,4,620
+INC-1132,SRV-002,2026-02-06,P2,Application,2026-02-06 09:10:41,2026-02-06 11:24:41,134,Positive play less red power.,Resolved,Claims Processing,critical,2.2333333333333334,3,402
+INC-1470,SRV-008,2026-02-06,P3,Application,2026-02-06 12:07:29,2026-02-06 14:01:29,114,Sing story win group important.,Resolved,Authentication Service,critical,1.9,2,228
+INC-1232,SRV-007,2026-02-07,P3,Application,2026-02-07 14:55:05,2026-02-07 16:35:05,100,Campaign benefit health would.,Resolved,Notification Service,low,1.6666666666666667,2,200
+INC-1183,SRV-005,2026-02-07,P4,Infrastructure,2026-02-07 15:30:42,2026-02-07 15:56:42,26,Sell six doctor dream whole.,Resolved,Billing Engine,critical,0.43333333333333335,1,26
+INC-1410,SRV-008,2026-02-07,P3,Database,2026-02-07 16:21:07,2026-02-07 17:53:07,92,Policy bit many former back.,Resolved,Authentication Service,critical,1.5333333333333334,2,184
+INC-1234,SRV-006,2026-02-08,P3,Network,2026-02-08 22:39:32,2026-02-09 00:37:32,118,Class wrong school federal from stock.,Resolved,Lab Results API,standard,1.9666666666666666,2,236
+INC-1090,SRV-003,2026-02-10,P2,Infrastructure,2026-02-10 14:09:36,2026-02-10 14:55:36,46,Simply herself training father open.,Resolved,EHR,critical,0.7666666666666667,3,138
+INC-1433,SRV-007,2026-02-10,P3,Network,2026-02-10 16:43:22,2026-02-10 18:12:22,89,Race I how these real any little environmental.,Resolved,Notification Service,low,1.4833333333333334,2,178
+INC-1469,SRV-006,2026-02-11,P3,Application,2026-02-11 11:31:45,2026-02-11 12:59:45,88,Red industry together memory pay executive size marriage.,Resolved,Lab Results API,standard,1.4666666666666666,2,176
+INC-1043,SRV-001,2026-02-11,P3,Infrastructure,2026-02-11 12:03:04,2026-02-11 12:20:04,17,Understand door class son.,Resolved,Patient Portal,standard,0.2833333333333333,2,34
+INC-1052,SRV-005,2026-02-12,P3,Database,2026-02-12 11:00:45,2026-02-12 11:23:45,23,Professional by tonight medical project for.,Resolved,Billing Engine,critical,0.38333333333333336,2,46
+INC-1092,SRV-001,2026-02-12,P4,Database,2026-02-12 11:57:21,2026-02-12 12:50:21,53,Enough ball dream necessary choose.,Resolved,Patient Portal,standard,0.8833333333333333,1,53
+INC-1317,SRV-002,2026-02-15,P3,Infrastructure,2026-02-15 12:25:11,2026-02-15 12:55:11,30,Drug probably resource smile available.,Resolved,Claims Processing,critical,0.5,2,60
+INC-1198,SRV-002,2026-02-15,P3,Database,2026-02-15 14:50:17,2026-02-15 16:10:17,80,Specific as simply leader.,Resolved,Claims Processing,critical,1.3333333333333333,2,160
+INC-1038,SRV-002,2026-02-16,P4,Network,2026-02-16 08:55:34,2026-02-16 09:34:34,39,Measure economy traditional anything plant.,Resolved,Claims Processing,critical,0.65,1,39
+INC-1455,SRV-001,2026-02-16,P2,Application,2026-02-16 10:22:22,2026-02-16 13:37:22,195,Oil per line create build quite morning including.,Resolved,Patient Portal,standard,3.25,3,585
+INC-1460,SRV-004,2026-02-16,P3,Application,2026-02-16 21:19:54,2026-02-16 22:13:54,54,Idea whole himself also current health.,Resolved,Appointment Scheduling,standard,0.9,2,108
+INC-1087,SRV-008,2026-02-17,P3,Application,2026-02-17 15:10:33,2026-02-17 16:56:33,106,Bill activity expect long future whole education.,Resolved,Authentication Service,critical,1.7666666666666666,2,212
+INC-1000,SRV-004,2026-02-18,P3,Application,2026-02-18 15:01:23,2026-02-18 16:45:23,104,Agent every development say.,Resolved,Appointment Scheduling,standard,1.7333333333333334,2,208
+INC-1138,SRV-005,2026-02-18,P3,Application,2026-02-18 17:44:21,2026-02-18 18:57:21,73,Wife anything four writer skin day stop never.,Resolved,Billing Engine,critical,1.2166666666666666,2,146
+INC-1223,SRV-006,2026-02-19,P3,Infrastructure,2026-02-19 07:23:34,2026-02-19 08:45:34,82,Lot source rate father authority.,Resolved,Lab Results API,standard,1.3666666666666667,2,164
+INC-1277,SRV-001,2026-02-19,P3,Application,2026-02-19 11:33:25,2026-02-19 12:43:25,70,Skill five indicate chance heavy senior.,Resolved,Patient Portal,standard,1.1666666666666667,2,140
+INC-1297,SRV-004,2026-02-20,P3,Database,2026-02-20 15:20:16,2026-02-20 15:33:16,13,Not teach believe month amount deep.,Resolved,Appointment Scheduling,standard,0.21666666666666667,2,26
+INC-1105,SRV-007,2026-02-21,P3,Application,2026-02-21 15:36:30,2026-02-21 17:17:30,101,Marriage respond meeting event.,Resolved,Notification Service,low,1.6833333333333333,2,202
+INC-1189,SRV-004,2026-02-22,P3,Application,2026-02-22 07:35:21,2026-02-22 09:06:21,91,Social case expert stop receive catch.,Resolved,Appointment Scheduling,standard,1.5166666666666666,2,182
+INC-1499,SRV-003,2026-02-22,P3,Database,2026-02-22 08:56:39,2026-02-22 09:41:39,45,Mean reason follow break.,Resolved,EHR,critical,0.75,2,90
+INC-1486,SRV-003,2026-02-23,P3,Application,2026-02-23 11:22:40,2026-02-23 13:02:40,100,Bill include news.,Resolved,EHR,critical,1.6666666666666667,2,200
+INC-1168,SRV-007,2026-02-24,P1,Application,2026-02-24 13:01:12,2026-02-24 17:12:12,251,Concern significant management senior.,Resolved,Notification Service,low,4.183333333333334,4,1004
+INC-1496,SRV-008,2026-02-25,P3,Infrastructure,2026-02-25 09:35:50,2026-02-25 11:12:50,97,Paper focus thing industry participant realize eat huge.,Resolved,Authentication Service,critical,1.6166666666666667,2,194
+INC-1103,SRV-003,2026-02-25,P4,Application,2026-02-25 10:16:20,2026-02-25 11:08:20,52,Left approach million performance material kind appear.,Resolved,EHR,critical,0.8666666666666667,1,52
+INC-1482,SRV-004,2026-02-26,P2,Application,2026-02-26 07:27:52,2026-02-26 08:05:52,38,Loss professional political chance step.,Resolved,Appointment Scheduling,standard,0.6333333333333333,3,114
+INC-1204,SRV-004,2026-02-26,P2,Database,2026-02-26 08:37:49,2026-02-26 09:18:49,41,Fill owner international ready goal.,Resolved,Appointment Scheduling,standard,0.6833333333333333,3,123
+INC-1383,SRV-007,2026-02-27,P4,Network,2026-02-27 11:58:29,2026-02-27 12:45:29,47,Door end fire song.,Resolved,Notification Service,low,0.7833333333333333,1,47
+INC-1261,SRV-008,2026-02-27,P2,Database,2026-02-27 13:34:31,2026-02-27 14:53:31,79,Seven quite other skin moment.,Resolved,Authentication Service,critical,1.3166666666666667,3,237
+INC-1036,SRV-004,2026-02-27,P2,Application,2026-02-27 14:55:51,2026-02-27 17:19:51,144,Voice care break blood.,Resolved,Appointment Scheduling,standard,2.4,3,432
+INC-1421,SRV-001,2026-02-27,P4,Network,2026-02-27 21:52:32,2026-02-27 22:21:32,29,Outside current agent color factor bank such final.,Resolved,Patient Portal,standard,0.48333333333333334,1,29
+INC-1256,SRV-003,2026-03-01,P2,Application,2026-03-01 19:31:00,2026-03-01 21:16:00,105,Continue cell food easy.,Resolved,EHR,critical,1.75,3,315
+INC-1178,SRV-004,2026-03-02,P2,Application,2026-03-02 12:22:15,2026-03-02 15:45:15,203,Behavior provide meet adult final week game.,Resolved,Appointment Scheduling,standard,3.3833333333333333,3,609
+INC-1230,SRV-004,2026-03-03,P3,Application,2026-03-03 11:24:46,2026-03-03 13:20:46,116,Experience account blue care enough hand idea.,Resolved,Appointment Scheduling,standard,1.9333333333333333,2,232
+INC-1129,SRV-004,2026-03-03,P3,Infrastructure,2026-03-03 11:48:17,2026-03-03 12:46:17,58,Whose source hand so add Mr.,Resolved,Appointment Scheduling,standard,0.9666666666666667,2,116
+INC-1001,SRV-002,2026-03-04,P4,Application,2026-03-04 13:47:46,2026-03-04 13:54:46,7,Beautiful instead ahead despite measure ago current.,Resolved,Claims Processing,critical,0.11666666666666667,1,7
+INC-1031,SRV-002,2026-03-04,P2,Database,2026-03-04 21:40:13,2026-03-04 23:34:13,114,Identify walk now often always.,Resolved,Claims Processing,critical,1.9,3,342
+INC-1427,SRV-007,2026-03-05,P3,Database,2026-03-05 16:13:58,2026-03-05 17:01:58,48,Challenge we last we cold deep cover amount.,Resolved,Notification Service,low,0.8,2,96
+INC-1013,SRV-001,2026-03-06,P2,Database,2026-03-06 06:03:40,2026-03-06 08:15:40,132,Others his other life edge network.,Resolved,Patient Portal,standard,2.2,3,396
+INC-1449,SRV-008,2026-03-06,P3,Database,2026-03-06 09:49:12,2026-03-06 10:25:12,36,Return pretty young else.,Resolved,Authentication Service,critical,0.6,2,72
+INC-1353,SRV-004,2026-03-06,P3,Application,2026-03-06 13:03:54,2026-03-06 13:19:54,16,Act receive stage write institution car.,Resolved,Appointment Scheduling,standard,0.26666666666666666,2,32
+INC-1212,SRV-003,2026-03-06,P3,Infrastructure,2026-03-06 17:42:28,2026-03-06 18:52:28,70,Property remember nearly face feel church.,Resolved,EHR,critical,1.1666666666666667,2,140
+INC-1065,SRV-008,2026-03-12,P4,Application,2026-03-12 19:24:38,2026-03-12 20:21:38,57,Task she herself.,Resolved,Authentication Service,critical,0.95,1,57
+INC-1293,SRV-003,2026-03-13,P3,Database,2026-03-13 17:51:04,2026-03-13 18:19:04,28,South travel blood benefit chance court.,Resolved,EHR,critical,0.4666666666666667,2,56
+INC-1384,SRV-006,2026-03-14,P3,Network,2026-03-14 10:08:09,2026-03-14 11:26:09,78,Fish evening avoid dark sister once.,Resolved,Lab Results API,standard,1.3,2,156
+INC-1319,SRV-006,2026-03-14,P3,Database,2026-03-14 13:20:19,2026-03-14 13:46:19,26,Order trial body eat professor coach partner.,Resolved,Lab Results API,standard,0.43333333333333335,2,52
+INC-1291,SRV-006,2026-03-16,P3,Application,2026-03-16 12:02:53,2026-03-16 13:07:53,65,Across media health pay.,Resolved,Lab Results API,standard,1.0833333333333333,2,130
+INC-1022,SRV-005,2026-03-16,P2,Database,2026-03-16 14:58:20,2026-03-16 17:37:20,159,Arrive attack all form method everything magazine much.,Resolved,Billing Engine,critical,2.65,3,477
+INC-1219,SRV-001,2026-03-17,P4,Application,2026-03-17 14:49:16,2026-03-17 15:36:16,47,Generation wait thus suffer economy.,Resolved,Patient Portal,standard,0.7833333333333333,1,47
+INC-1316,SRV-005,2026-03-17,P3,Application,2026-03-17 16:40:34,2026-03-17 18:33:34,113,Just fact realize standard somebody.,Resolved,Billing Engine,critical,1.8833333333333333,2,226
+INC-1213,SRV-007,2026-03-17,P2,Network,2026-03-17 16:53:49,2026-03-17 20:32:49,219,Soldier meeting building cut.,Resolved,Notification Service,low,3.65,3,657
+INC-1074,SRV-007,2026-03-19,P3,Application,2026-03-19 03:19:12,2026-03-19 04:58:12,99,Away real physical big significant.,Resolved,Notification Service,low,1.65,2,198
+INC-1493,SRV-002,2026-03-20,P4,Infrastructure,2026-03-20 10:55:51,2026-03-20 11:29:51,34,Blue increase unit study open sign.,Resolved,Claims Processing,critical,0.5666666666666667,1,34
+INC-1404,SRV-006,2026-03-20,P2,Infrastructure,2026-03-20 12:58:35,2026-03-20 15:05:35,127,Try such food against.,Resolved,Lab Results API,standard,2.1166666666666667,3,381
+INC-1368,SRV-001,2026-03-21,P3,Application,2026-03-21 14:19:17,2026-03-21 15:15:17,56,Cold camera sit environmental though.,Resolved,Patient Portal,standard,0.9333333333333333,2,112
+INC-1380,SRV-002,2026-03-24,P3,Application,2026-03-24 10:02:07,2026-03-24 10:19:07,17,Billion morning draw man art.,Resolved,Claims Processing,critical,0.2833333333333333,2,34
+INC-1203,SRV-002,2026-03-24,P3,Application,2026-03-24 18:26:20,2026-03-24 20:15:20,109,Bad own state nation fly bag.,Resolved,Claims Processing,critical,1.8166666666666667,2,218
+INC-1197,SRV-001,2026-03-27,P4,Infrastructure,2026-03-27 14:38:21,2026-03-27 14:58:21,20,Card good full poor store range.,Resolved,Patient Portal,standard,0.3333333333333333,1,20
+INC-1481,SRV-001,2026-03-30,P4,Infrastructure,2026-03-30 10:52:34,2026-03-30 11:25:34,33,Rich difference what their mind read peace.,Resolved,Patient Portal,standard,0.55,1,33
+INC-1128,SRV-005,2026-03-31,P4,Network,2026-03-31 14:09:14,2026-03-31 14:29:14,20,Sound life away senior difficult put.,Resolved,Billing Engine,critical,0.3333333333333333,1,20
+INC-1096,SRV-001,2026-04-01,P4,Database,2026-04-01 15:08:30,2026-04-01 15:50:30,42,Tv keep light fight I evening music.,Resolved,Patient Portal,standard,0.7,1,42
+INC-1070,SRV-007,2026-04-01,P4,Application,2026-04-01 15:46:43,2026-04-01 16:23:43,37,Appear weight difference attention whatever American all.,Resolved,Notification Service,low,0.6166666666666667,1,37
+INC-1321,SRV-001,2026-04-01,P2,Application,2026-04-01 16:15:29,2026-04-01 18:23:29,128,Newspaper reach determine hear leg quickly real.,Resolved,Patient Portal,standard,2.1333333333333333,3,384
+INC-1464,SRV-008,2026-04-02,P3,Application,2026-04-02 13:35:02,2026-04-02 14:36:02,61,Close trade speech affect difference.,Resolved,Authentication Service,critical,1.0166666666666666,2,122
+INC-1345,SRV-005,2026-04-02,P3,Application,2026-04-02 14:46:53,2026-04-02 15:20:53,34,Reason theory lawyer maintain old.,Resolved,Billing Engine,critical,0.5666666666666667,2,68
+INC-1283,SRV-006,2026-04-03,P4,Database,2026-04-03 09:12:19,2026-04-03 09:49:19,37,Trial receive region however dream focus executive.,Resolved,Lab Results API,standard,0.6166666666666667,1,37
+INC-1355,SRV-003,2026-04-03,P4,Application,2026-04-03 09:35:22,2026-04-03 10:10:22,35,Political quality attention none.,Resolved,EHR,critical,0.5833333333333334,1,35
+INC-1285,SRV-001,2026-04-06,P4,Database,2026-04-06 06:22:47,2026-04-06 06:48:47,26,Trial have including none determine certainly.,Resolved,Patient Portal,standard,0.43333333333333335,1,26
+INC-1169,SRV-003,2026-04-06,P3,Application,2026-04-06 10:15:06,2026-04-06 10:35:06,20,Large under north play person ten physical character.,Resolved,EHR,critical,0.3333333333333333,2,40
+INC-1459,SRV-002,2026-04-07,P3,Network,2026-04-07 09:18:17,2026-04-07 11:01:17,103,Majority shake because pass.,Resolved,Claims Processing,critical,1.7166666666666666,2,206
+INC-1362,SRV-003,2026-04-07,P4,Database,2026-04-07 13:31:15,2026-04-07 14:05:15,34,West side admit attack energy always art.,Resolved,EHR,critical,0.5666666666666667,1,34
+INC-1399,SRV-008,2026-04-07,P2,Database,2026-04-07 18:41:34,2026-04-07 19:34:34,53,Offer work home very yard.,Resolved,Authentication Service,critical,0.8833333333333333,3,159
+INC-1272,SRV-007,2026-04-08,P3,Network,2026-04-08 18:46:08,2026-04-08 19:32:08,46,Drive attack order.,Resolved,Notification Service,low,0.7666666666666667,2,92
+INC-1179,SRV-003,2026-04-08,P3,Application,2026-04-08 23:49:36,2026-04-09 01:19:36,90,Court yourself choice fast small medical music.,Resolved,EHR,critical,1.5,2,180
+INC-1124,SRV-005,2026-04-09,P4,Infrastructure,2026-04-09 16:02:45,2026-04-09 16:15:45,13,Pick tough position final.,Resolved,Billing Engine,critical,0.21666666666666667,1,13
+INC-1369,SRV-008,2026-04-10,P3,Application,2026-04-10 10:03:05,2026-04-10 11:04:05,61,Friend investment model.,Resolved,Authentication Service,critical,1.0166666666666666,2,122
+INC-1386,SRV-007,2026-04-10,P3,Application,2026-04-10 15:19:32,2026-04-10 17:14:32,115,Later leg system bed space.,Resolved,Notification Service,low,1.9166666666666667,2,230
+INC-1248,SRV-006,2026-04-10,P1,Database,2026-04-10 21:11:37,2026-04-11 02:39:37,328,Accept nearly upon imagine.,Resolved,Lab Results API,standard,5.466666666666667,4,1312
+INC-1346,SRV-004,2026-04-11,P3,Database,2026-04-11 08:17:49,2026-04-11 09:05:49,48,Room learn professional group.,Resolved,Appointment Scheduling,standard,0.8,2,96
+INC-1371,SRV-004,2026-04-11,P3,Application,2026-04-11 15:18:53,2026-04-11 15:45:53,27,Thus purpose boy scientist.,Resolved,Appointment Scheduling,standard,0.45,2,54
+INC-1006,SRV-001,2026-04-11,P3,Infrastructure,2026-04-11 20:38:09,2026-04-11 21:56:09,78,World talk term herself law.,Resolved,Patient Portal,standard,1.3,2,156
+INC-1191,SRV-002,2026-04-12,P4,Network,2026-04-12 17:19:11,2026-04-12 17:58:11,39,Down business draw police performance.,Resolved,Claims Processing,critical,0.65,1,39
+INC-1479,SRV-005,2026-04-13,P2,Application,2026-04-13 18:17:15,2026-04-13 20:44:15,147,Particularly television they road through low.,Resolved,Billing Engine,critical,2.45,3,441
+INC-1122,SRV-005,2026-04-13,P3,Database,2026-04-13 19:46:24,2026-04-13 21:42:24,116,Treat seat strategy.,Resolved,Billing Engine,critical,1.9333333333333333,2,232
+INC-1443,SRV-007,2026-04-14,P3,Application,2026-04-14 13:08:26,2026-04-14 14:37:26,89,Listen car community.,Resolved,Notification Service,low,1.4833333333333334,2,178
+INC-1324,SRV-002,2026-04-15,P3,Database,2026-04-15 09:19:34,2026-04-15 10:33:34,74,Miss give best reveal laugh.,Resolved,Claims Processing,critical,1.2333333333333334,2,148
+INC-1308,SRV-003,2026-04-15,P3,Infrastructure,2026-04-15 16:33:55,2026-04-15 16:59:55,26,Tell activity including single right nice.,Resolved,EHR,critical,0.43333333333333335,2,52
+INC-1195,SRV-006,2026-04-16,P3,Network,2026-04-16 15:43:39,2026-04-16 16:28:39,45,Never hospital like player wonder effect administration.,Resolved,Lab Results API,standard,0.75,2,90
+INC-1196,SRV-008,2026-04-17,P4,Network,2026-04-17 10:07:21,2026-04-17 10:25:21,18,General run pick sign.,Resolved,Authentication Service,critical,0.3,1,18
+INC-1363,SRV-003,2026-04-17,P2,Infrastructure,2026-04-17 15:51:57,2026-04-17 19:06:57,195,Media pick may indeed reduce bar.,Resolved,EHR,critical,3.25,3,585
+INC-1172,SRV-003,2026-04-18,P4,Network,2026-04-18 13:29:36,2026-04-18 13:56:36,27,Last special prepare.,Resolved,EHR,critical,0.45,1,27
+INC-1358,SRV-003,2026-04-18,P4,Application,2026-04-18 15:02:08,2026-04-18 16:00:08,58,Easy popular easy over.,Resolved,EHR,critical,0.9666666666666667,1,58
+INC-1055,SRV-001,2026-04-19,P3,Network,2026-04-19 17:32:00,2026-04-19 18:36:00,64,Probably exist professional people.,Resolved,Patient Portal,standard,1.0666666666666667,2,128
+INC-1236,SRV-003,2026-04-20,P3,Network,2026-04-20 05:14:35,2026-04-20 06:45:35,91,Ago listen whose situation simply officer return on.,Resolved,EHR,critical,1.5166666666666666,2,182
+INC-1067,SRV-002,2026-04-20,P3,Database,2026-04-20 18:21:32,2026-04-20 19:06:32,45,Right subject try wonder move trade.,Resolved,Claims Processing,critical,0.75,2,90
+INC-1123,SRV-005,2026-04-21,P3,Network,2026-04-21 08:14:57,2026-04-21 09:32:57,78,Parent good PM per question.,Resolved,Billing Engine,critical,1.3,2,156
+INC-1326,SRV-008,2026-04-21,P4,Application,2026-04-21 18:56:27,2026-04-21 19:01:27,5,Upon scientist might necessary.,Resolved,Authentication Service,critical,0.08333333333333333,1,5
+INC-1396,SRV-007,2026-04-22,P2,Application,2026-04-22 07:26:54,2026-04-22 10:13:54,167,Some writer site grow name machine tree.,Resolved,Notification Service,low,2.783333333333333,3,501
+INC-1444,SRV-006,2026-04-22,P3,Application,2026-04-22 08:55:03,2026-04-22 10:50:03,115,Difference part wall.,Resolved,Lab Results API,standard,1.9166666666666667,2,230
+INC-1474,SRV-003,2026-04-22,P4,Application,2026-04-22 20:44:01,2026-04-22 21:20:01,36,International break surface three act catch.,Resolved,EHR,critical,0.6,1,36
+INC-1312,SRV-002,2026-04-23,P3,Application,2026-04-23 17:40:08,2026-04-23 18:11:08,31,Key issue statement prepare organization feel.,Resolved,Claims Processing,critical,0.5166666666666667,2,62
+INC-1429,SRV-002,2026-04-24,P3,Application,2026-04-24 06:48:18,2026-04-24 07:42:18,54,Beautiful news need task.,Resolved,Claims Processing,critical,0.9,2,108
+INC-1342,SRV-001,2026-04-27,P4,Infrastructure,2026-04-27 14:30:12,2026-04-27 15:08:12,38,Career seek in arrive.,Resolved,Patient Portal,standard,0.6333333333333333,1,38
+INC-1200,SRV-008,2026-04-27,P1,Network,2026-04-27 15:38:07,2026-04-27 17:44:07,126,List already positive experience television answer pretty.,Resolved,Authentication Service,critical,2.1,4,504
+INC-1046,SRV-001,2026-04-28,P3,Application,2026-04-28 12:56:19,2026-04-28 13:59:19,63,Glass star the development process huge everything.,Resolved,Patient Portal,standard,1.05,2,126
+INC-1393,SRV-003,2026-04-30,P2,Database,2026-04-30 21:20:46,2026-05-01 00:03:46,163,Many him interview government traditional every.,Resolved,EHR,critical,2.716666666666667,3,489
+INC-1487,SRV-002,2026-05-01,P3,Network,2026-05-01 09:36:39,2026-05-01 11:22:39,106,Social white point three.,Resolved,Claims Processing,critical,1.7666666666666666,2,212
+INC-1387,SRV-005,2026-05-01,P3,Application,2026-05-01 21:29:55,2026-05-01 23:11:55,102,American structure foreign before eat green message quality.,Resolved,Billing Engine,critical,1.7,2,204
+INC-1039,SRV-004,2026-05-03,P4,Application,2026-05-03 14:05:04,2026-05-03 14:41:04,36,Analysis four capital woman claim.,Resolved,Appointment Scheduling,standard,0.6,1,36
+INC-1338,SRV-004,2026-05-03,P4,Infrastructure,2026-05-03 15:50:11,2026-05-03 16:32:11,42,Fear yourself last give stage.,Resolved,Appointment Scheduling,standard,0.7,1,42
+INC-1035,SRV-002,2026-05-04,P2,Network,2026-05-04 09:46:58,2026-05-04 13:22:58,216,Region particularly would pressure account stage federal.,Resolved,Claims Processing,critical,3.6,3,648
+INC-1149,SRV-001,2026-05-04,P3,Database,2026-05-04 15:44:33,2026-05-04 17:11:33,87,Behavior benefit school speech.,Resolved,Patient Portal,standard,1.45,2,174
+INC-1007,SRV-005,2026-05-04,P3,Database,2026-05-04 17:59:21,2026-05-04 19:28:21,89,Class great prove reduce raise author.,Resolved,Billing Engine,critical,1.4833333333333334,2,178
+INC-1472,SRV-006,2026-05-05,P2,Infrastructure,2026-05-05 07:19:40,2026-05-05 09:59:40,160,Protect chance bed memory rich big eight.,Resolved,Lab Results API,standard,2.6666666666666665,3,480
+INC-1467,SRV-002,2026-05-05,P4,Application,2026-05-05 17:17:12,2026-05-05 18:13:12,56,Answer break know.,Resolved,Claims Processing,critical,0.9333333333333333,1,56
+INC-1106,SRV-004,2026-05-05,P3,Network,2026-05-05 21:37:27,2026-05-05 23:25:27,108,Woman during necessary himself two meet these.,Resolved,Appointment Scheduling,standard,1.8,2,216
+INC-1441,SRV-005,2026-05-06,P3,Application,2026-05-06 13:27:56,2026-05-06 13:46:56,19,See read expect hit clear.,Resolved,Billing Engine,critical,0.31666666666666665,2,38
+INC-1251,SRV-003,2026-05-06,P3,Application,2026-05-06 17:24:36,2026-05-06 18:48:36,84,Value already structure small.,Resolved,EHR,critical,1.4,2,168
+INC-1435,SRV-007,2026-05-08,P2,Application,2026-05-08 14:40:57,2026-05-08 15:37:57,57,Teach range win direction feel season similar.,Resolved,Notification Service,low,0.95,3,171
+INC-1489,SRV-006,2026-05-08,P2,Database,2026-05-08 17:08:32,2026-05-08 20:52:32,224,Forward should outside respond guy laugh best.,Resolved,Lab Results API,standard,3.7333333333333334,3,672
+INC-1152,SRV-005,2026-05-10,P4,Application,2026-05-10 11:31:26,2026-05-10 11:53:26,22,Glass news boy everything.,Resolved,Billing Engine,critical,0.36666666666666664,1,22
+INC-1057,SRV-007,2026-05-11,P3,Application,2026-05-11 12:28:45,2026-05-11 12:52:45,24,Lay though offer responsibility.,Resolved,Notification Service,low,0.4,2,48
+INC-1176,SRV-008,2026-05-11,P1,Infrastructure,2026-05-11 14:17:22,2026-05-11 15:42:22,85,Their four old center glass whose recognize hot.,Resolved,Authentication Service,critical,1.4166666666666667,4,340
+INC-1477,SRV-008,2026-05-11,P3,Application,2026-05-11 15:31:01,2026-05-11 17:28:01,117,Son power someone both receive around wall.,Resolved,Authentication Service,critical,1.95,2,234
+INC-1075,SRV-007,2026-05-11,P2,Infrastructure,2026-05-11 17:08:26,2026-05-11 18:22:26,74,South someone not American mouth product attention positive.,Resolved,Notification Service,low,1.2333333333333334,3,222
+INC-1147,SRV-006,2026-05-12,P2,Application,2026-05-12 08:03:15,2026-05-12 10:40:15,157,Result Democrat later direction fund law indeed.,Resolved,Lab Results API,standard,2.6166666666666667,3,471
+INC-1088,SRV-008,2026-05-15,P3,Application,2026-05-15 11:40:24,2026-05-15 12:25:24,45,Box assume man officer rather charge specific.,Resolved,Authentication Service,critical,0.75,2,90
+INC-1144,SRV-008,2026-05-17,P3,Application,2026-05-17 15:21:51,2026-05-17 16:22:51,61,Feeling poor all your suggest international blue.,Resolved,Authentication Service,critical,1.0166666666666666,2,122
+INC-1141,SRV-007,2026-05-17,P1,Application,2026-05-17 19:36:46,2026-05-18 02:09:46,393,Capital group small.,Resolved,Notification Service,low,6.55,4,1572
+INC-1155,SRV-005,2026-05-18,P3,Database,2026-05-18 11:54:29,2026-05-18 12:40:29,46,Not husband center plan.,Resolved,Billing Engine,critical,0.7666666666666667,2,92
+INC-1109,SRV-008,2026-05-18,P3,Network,2026-05-18 13:54:30,2026-05-18 14:50:30,56,Wonder draw him task improve.,Resolved,Authentication Service,critical,0.9333333333333333,2,112
+INC-1298,SRV-002,2026-05-18,P3,Application,2026-05-18 17:31:09,2026-05-18 18:14:09,43,Little another avoid understand tonight nor allow.,Resolved,Claims Processing,critical,0.7166666666666667,2,86
+INC-1114,SRV-006,2026-05-19,P3,Application,2026-05-19 13:01:56,2026-05-19 13:38:56,37,Along attention piece TV young section its.,Resolved,Lab Results API,standard,0.6166666666666667,2,74
+INC-1456,SRV-006,2026-05-19,P4,Database,2026-05-19 13:25:08,2026-05-19 13:57:08,32,Case customer important notice.,Resolved,Lab Results API,standard,0.5333333333333333,1,32
+INC-1462,SRV-006,2026-05-21,P2,Application,2026-05-21 11:45:38,2026-05-21 15:08:38,203,Fine bill me fill assume animal.,Resolved,Lab Results API,standard,3.3833333333333333,3,609
+INC-1432,SRV-006,2026-05-21,P3,Application,2026-05-21 12:28:39,2026-05-21 13:26:39,58,Enough pressure occur list common idea.,Resolved,Lab Results API,standard,0.9666666666666667,2,116
+INC-1249,SRV-005,2026-05-22,P3,Application,2026-05-22 15:10:40,2026-05-22 16:59:40,109,Local current white fly position traditional become.,Resolved,Billing Engine,critical,1.8166666666666667,2,218
+INC-1350,SRV-008,2026-05-23,P1,Network,2026-05-23 15:18:47,2026-05-23 20:04:47,286,City usually ever pressure economy.,Resolved,Authentication Service,critical,4.766666666666667,4,1144
+INC-1134,SRV-004,2026-05-25,P3,Database,2026-05-25 10:55:22,2026-05-25 12:45:22,110,Career law provide sea watch industry score.,Resolved,Appointment Scheduling,standard,1.8333333333333333,2,220
+INC-1259,SRV-008,2026-05-25,P4,Network,2026-05-25 17:51:32,2026-05-25 18:19:32,28,Real police wait happen determine.,Resolved,Authentication Service,critical,0.4666666666666667,1,28
+INC-1268,SRV-007,2026-05-27,P3,Database,2026-05-27 12:32:52,2026-05-27 13:29:52,57,Large true help bag who themselves.,Resolved,Notification Service,low,0.95,2,114
+INC-1483,SRV-002,2026-05-27,P4,Application,2026-05-27 14:22:09,2026-05-27 14:34:09,12,Approach poor church support system thank avoid man.,Resolved,Claims Processing,critical,0.2,1,12
+INC-1244,SRV-002,2026-05-28,P4,Application,2026-05-28 09:41:33,2026-05-28 10:18:33,37,Stand west source fact explain research.,Resolved,Claims Processing,critical,0.6166666666666667,1,37
+INC-1422,SRV-001,2026-05-28,P2,Infrastructure,2026-05-28 13:30:45,2026-05-28 14:21:45,51,Before name continue those hard.,Resolved,Patient Portal,standard,0.85,3,153
+INC-1491,SRV-002,2026-05-29,P4,Application,2026-05-29 19:40:02,2026-05-29 20:32:02,52,Manage state score important.,Resolved,Claims Processing,critical,0.8666666666666667,1,52
+INC-1448,SRV-004,2026-05-30,P3,Application,2026-05-30 11:25:27,2026-05-30 12:44:27,79,South sort outside produce.,Resolved,Appointment Scheduling,standard,1.3166666666666667,2,158
+INC-1042,SRV-008,2026-05-30,P3,Application,2026-05-30 13:50:05,2026-05-30 14:37:05,47,Decide economic bill sister this image.,Resolved,Authentication Service,critical,0.7833333333333333,2,94
+INC-1457,SRV-004,2026-06-02,P3,Application,2026-06-02 09:06:10,2026-06-02 10:06:10,60,Century television Congress ball forward would finish.,Resolved,Appointment Scheduling,standard,1.0,2,120
+INC-1282,SRV-008,2026-06-02,P4,Network,2026-06-02 20:45:31,2026-06-02 21:02:31,17,Field training deep couple scientist section.,Resolved,Authentication Service,critical,0.2833333333333333,1,17
+INC-1218,SRV-004,2026-06-03,P3,Database,2026-06-03 12:48:12,2026-06-03 14:46:12,118,Story million fight class.,Resolved,Appointment Scheduling,standard,1.9666666666666666,2,236
+INC-1127,SRV-002,2026-06-04,P3,Application,2026-06-04 11:04:56,2026-06-04 12:41:56,97,Store either station loss southern.,Resolved,Claims Processing,critical,1.6166666666666667,2,194
+INC-1010,SRV-006,2026-06-04,P2,Application,2026-06-04 12:23:43,2026-06-04 14:01:43,98,Then fire pretty how trip learn enter.,Resolved,Lab Results API,standard,1.6333333333333333,3,294
+INC-1453,SRV-007,2026-06-04,P3,Application,2026-06-04 16:25:45,2026-06-04 18:16:45,111,Water tonight pressure develop.,Resolved,Notification Service,low,1.85,2,222
+INC-1210,SRV-004,2026-06-04,P3,Application,2026-06-04 16:41:59,2026-06-04 17:20:59,39,Brother simple region Democrat partner really your.,Resolved,Appointment Scheduling,standard,0.65,2,78
+INC-1118,SRV-004,2026-06-04,P3,Application,2026-06-04 18:14:59,2026-06-04 19:38:59,84,Central leave effect effort act source top quality.,Resolved,Appointment Scheduling,standard,1.4,2,168
+INC-1094,SRV-004,2026-06-08,P3,Application,2026-06-08 12:47:30,2026-06-08 13:31:30,44,Skin person product value interesting.,Resolved,Appointment Scheduling,standard,0.7333333333333333,2,88
+INC-1280,SRV-005,2026-06-08,P1,Database,2026-06-08 14:08:13,2026-06-08 16:37:13,149,Suggest begin right couple environmental purpose owner.,Resolved,Billing Engine,critical,2.4833333333333334,4,596
+INC-1349,SRV-007,2026-06-10,P4,Database,2026-06-10 13:24:32,2026-06-10 14:18:32,54,Kid a when dark.,Resolved,Notification Service,low,0.9,1,54
+INC-1154,SRV-003,2026-06-10,P3,Database,2026-06-10 15:58:35,2026-06-10 16:43:35,45,Ahead event several TV go.,Resolved,EHR,critical,0.75,2,90
+INC-1299,SRV-005,2026-06-10,P4,Infrastructure,2026-06-10 16:13:47,2026-06-10 16:49:47,36,Administration debate certain star start up.,Resolved,Billing Engine,critical,0.6,1,36
+INC-1292,SRV-002,2026-06-12,P4,Infrastructure,2026-06-12 11:50:48,2026-06-12 12:20:48,30,Tree process administration mother in admit reveal movie.,Resolved,Claims Processing,critical,0.5,1,30

@@ -1,0 +1,249 @@
+capacity_id,service_id,date,cpu_utilization_pct,memory_utilization_pct,storage_utilization_pct,active_connections,request_volume,service_name,service_tier,team_owner,sla_uptime_target_pct,month
+2673,SRV-001,2026-05-15,30.15,41.53,38.35,1570,22719,Patient Portal,standard,Patient Experience,99.5,2026-05
+2674,SRV-002,2026-05-15,47.32,53.58,37.37,6103,84854,Claims Processing,critical,Revenue Cycle,99.9,2026-05
+2675,SRV-003,2026-05-15,51.81,69.95,44.53,6452,77637,EHR,critical,Clinical Systems,99.9,2026-05
+2676,SRV-004,2026-05-15,42.42,36.32,41.29,1284,20098,Appointment Scheduling,standard,Patient Experience,99.5,2026-05
+2677,SRV-005,2026-05-15,70.64,68.05,46.33,6431,93173,Billing Engine,critical,Revenue Cycle,99.9,2026-05
+2678,SRV-006,2026-05-15,34.85,39.49,41.33,1307,20007,Lab Results API,standard,Integration,99.5,2026-05
+2679,SRV-007,2026-05-15,37.68,38.45,35.89,1321,15905,Notification Service,low,Platform,99.0,2026-05
+2680,SRV-008,2026-05-15,60.84,54.3,38.96,5977,116533,Authentication Service,critical,Security,99.9,2026-05
+2681,SRV-001,2026-05-16,32.54,40.96,39.02,487,3270,Patient Portal,standard,Patient Experience,99.5,2026-05
+2682,SRV-002,2026-05-16,65.56,60.09,43.8,2293,22242,Claims Processing,critical,Revenue Cycle,99.9,2026-05
+2683,SRV-003,2026-05-16,62.87,55.53,39.36,2627,20981,EHR,critical,Clinical Systems,99.9,2026-05
+2684,SRV-004,2026-05-16,25.98,44.28,45.73,501,4647,Appointment Scheduling,standard,Patient Experience,99.5,2026-05
+2685,SRV-005,2026-05-16,45.06,54.68,41.95,3082,19954,Billing Engine,critical,Revenue Cycle,99.9,2026-05
+2686,SRV-006,2026-05-16,28.06,34.47,46.14,545,3511,Lab Results API,standard,Integration,99.5,2026-05
+2687,SRV-007,2026-05-16,30.3,33.16,42.84,489,4518,Notification Service,low,Platform,99.0,2026-05
+2688,SRV-008,2026-05-16,61.68,62.68,43.42,2271,12912,Authentication Service,critical,Security,99.9,2026-05
+2689,SRV-001,2026-05-17,27.82,28.86,41.71,722,5761,Patient Portal,standard,Patient Experience,99.5,2026-05
+2690,SRV-002,2026-05-17,48.81,51.85,35.92,1998,18670,Claims Processing,critical,Revenue Cycle,99.9,2026-05
+2691,SRV-003,2026-05-17,67.56,62.65,46.18,2442,24052,EHR,critical,Clinical Systems,99.9,2026-05
+2692,SRV-004,2026-05-17,30.09,32.28,42.36,690,5580,Appointment Scheduling,standard,Patient Experience,99.5,2026-05
+2693,SRV-005,2026-05-17,62.94,60.22,40.54,2377,19831,Billing Engine,critical,Revenue Cycle,99.9,2026-05
+2694,SRV-006,2026-05-17,36.98,28.54,41.74,415,2314,Lab Results API,standard,Integration,99.5,2026-05
+2695,SRV-007,2026-05-17,31.4,37.49,41.06,421,4033,Notification Service,low,Platform,99.0,2026-05
+2696,SRV-008,2026-05-17,61.19,60.59,42.29,2522,18336,Authentication Service,critical,Security,99.9,2026-05
+2697,SRV-001,2026-05-18,25.19,32.47,37.88,1418,18399,Patient Portal,standard,Patient Experience,99.5,2026-05
+2698,SRV-002,2026-05-18,66.13,71.35,42.44,8002,147565,Claims Processing,critical,Revenue Cycle,99.9,2026-05
+2699,SRV-003,2026-05-18,56.46,61.61,42.25,6129,77222,EHR,critical,Clinical Systems,99.9,2026-05
+2700,SRV-004,2026-05-18,35.19,30.71,41.81,1412,14547,Appointment Scheduling,standard,Patient Experience,99.5,2026-05
+2701,SRV-005,2026-05-18,56.12,58.15,42.01,5225,62754,Billing Engine,critical,Revenue Cycle,99.9,2026-05
+2702,SRV-006,2026-05-18,33.46,39.05,41.32,1646,24903,Lab Results API,standard,Integration,99.5,2026-05
+2703,SRV-007,2026-05-18,39.42,40.46,41.84,1252,14699,Notification Service,low,Platform,99.0,2026-05
+2704,SRV-008,2026-05-18,52.51,59.56,42.07,5850,98529,Authentication Service,critical,Security,99.9,2026-05
+2705,SRV-001,2026-05-19,23.22,37.6,39.53,1459,17693,Patient Portal,standard,Patient Experience,99.5,2026-05
+2706,SRV-002,2026-05-19,51.21,65.32,42.25,5297,80084,Claims Processing,critical,Revenue Cycle,99.9,2026-05
+2707,SRV-003,2026-05-19,58.52,68.73,41.61,6427,88790,EHR,critical,Clinical Systems,99.9,2026-05
+2708,SRV-004,2026-05-19,29.37,37.12,41.71,1285,17957,Appointment Scheduling,standard,Patient Experience,99.5,2026-05
+2709,SRV-005,2026-05-19,71.74,62.5,46.45,6089,97704,Billing Engine,critical,Revenue Cycle,99.9,2026-05
+2710,SRV-006,2026-05-19,28.05,38.82,38.13,1483,15610,Lab Results API,standard,Integration,99.5,2026-05
+2711,SRV-007,2026-05-19,33.7,29.17,38.74,1105,17631,Notification Service,low,Platform,99.0,2026-05
+2712,SRV-008,2026-05-19,51.35,53.52,43.19,7335,123503,Authentication Service,critical,Security,99.9,2026-05
+2713,SRV-001,2026-05-20,22.8,28.65,41.01,1379,17796,Patient Portal,standard,Patient Experience,99.5,2026-05
+2714,SRV-002,2026-05-20,59.34,58.59,41.65,6453,97872,Claims Processing,critical,Revenue Cycle,99.9,2026-05
+2715,SRV-003,2026-05-20,68.03,68.62,42.99,6666,91371,EHR,critical,Clinical Systems,99.9,2026-05
+2716,SRV-004,2026-05-20,38.37,32.0,41.15,1252,20471,Appointment Scheduling,standard,Patient Experience,99.5,2026-05
+2717,SRV-005,2026-05-20,63.91,57.45,42.0,5681,90460,Billing Engine,critical,Revenue Cycle,99.9,2026-05
+2718,SRV-006,2026-05-20,21.62,37.66,39.02,1278,21219,Lab Results API,standard,Integration,99.5,2026-05
+2719,SRV-007,2026-05-20,34.94,30.25,39.94,1381,16399,Notification Service,low,Platform,99.0,2026-05
+2720,SRV-008,2026-05-20,66.35,69.4,41.85,7923,138701,Authentication Service,critical,Security,99.9,2026-05
+2721,SRV-001,2026-05-21,40.05,32.35,40.39,1121,14190,Patient Portal,standard,Patient Experience,99.5,2026-05
+2722,SRV-002,2026-05-21,60.46,70.48,41.83,8527,169008,Claims Processing,critical,Revenue Cycle,99.9,2026-05
+2723,SRV-003,2026-05-21,48.37,54.2,35.5,6285,84327,EHR,critical,Clinical Systems,99.9,2026-05
+2724,SRV-004,2026-05-21,32.04,39.52,41.51,1373,27265,Appointment Scheduling,standard,Patient Experience,99.5,2026-05
+2725,SRV-005,2026-05-21,52.74,72.34,42.46,5646,102817,Billing Engine,critical,Revenue Cycle,99.9,2026-05
+2726,SRV-006,2026-05-21,34.99,43.31,46.23,1504,24519,Lab Results API,standard,Integration,99.5,2026-05
+2727,SRV-007,2026-05-21,22.24,33.44,36.03,1164,18161,Notification Service,low,Platform,99.0,2026-05
+2728,SRV-008,2026-05-21,56.0,57.23,43.17,6235,101506,Authentication Service,critical,Security,99.9,2026-05
+2729,SRV-001,2026-05-22,37.18,37.19,39.08,1485,29123,Patient Portal,standard,Patient Experience,99.5,2026-05
+2730,SRV-002,2026-05-22,60.63,54.79,35.56,5855,102235,Claims Processing,critical,Revenue Cycle,99.9,2026-05
+2731,SRV-003,2026-05-22,56.38,62.91,35.96,5606,104139,EHR,critical,Clinical Systems,99.9,2026-05
+2732,SRV-004,2026-05-22,31.42,33.31,36.37,1430,19298,Appointment Scheduling,standard,Patient Experience,99.5,2026-05
+2733,SRV-005,2026-05-22,54.47,60.92,41.04,5929,91010,Billing Engine,critical,Revenue Cycle,99.9,2026-05
+2734,SRV-006,2026-05-22,29.89,27.9,37.25,1024,11628,Lab Results API,standard,Integration,99.5,2026-05
+2735,SRV-007,2026-05-22,29.55,32.67,42.34,1485,26656,Notification Service,low,Platform,99.0,2026-05
+2736,SRV-008,2026-05-22,52.59,66.52,39.08,6523,79387,Authentication Service,critical,Security,99.9,2026-05
+2737,SRV-001,2026-05-23,35.35,33.43,38.62,526,4730,Patient Portal,standard,Patient Experience,99.5,2026-05
+2738,SRV-002,2026-05-23,44.47,55.51,37.25,3466,30349,Claims Processing,critical,Revenue Cycle,99.9,2026-05
+2739,SRV-003,2026-05-23,54.15,69.01,43.05,3581,19443,EHR,critical,Clinical Systems,99.9,2026-05
+2740,SRV-004,2026-05-23,28.59,32.97,40.9,608,4125,Appointment Scheduling,standard,Patient Experience,99.5,2026-05
+2741,SRV-005,2026-05-23,53.06,63.42,41.54,4090,32994,Billing Engine,critical,Revenue Cycle,99.9,2026-05
+2742,SRV-006,2026-05-23,39.07,42.8,42.26,483,2483,Lab Results API,standard,Integration,99.5,2026-05
+2743,SRV-007,2026-05-23,31.99,41.32,40.2,530,3559,Notification Service,low,Platform,99.0,2026-05
+2744,SRV-008,2026-05-23,49.54,53.6,41.9,2402,21822,Authentication Service,critical,Security,99.9,2026-05
+2745,SRV-001,2026-05-24,23.94,42.66,43.47,697,6826,Patient Portal,standard,Patient Experience,99.5,2026-05
+2746,SRV-002,2026-05-24,64.48,58.12,42.84,3166,20572,Claims Processing,critical,Revenue Cycle,99.9,2026-05
+2747,SRV-003,2026-05-24,51.95,63.7,40.94,2500,19502,EHR,critical,Clinical Systems,99.9,2026-05
+2748,SRV-004,2026-05-24,29.21,28.72,36.46,544,3287,Appointment Scheduling,standard,Patient Experience,99.5,2026-05
+2749,SRV-005,2026-05-24,62.13,64.32,37.33,2360,14992,Billing Engine,critical,Revenue Cycle,99.9,2026-05
+2750,SRV-006,2026-05-24,35.01,29.59,37.58,452,2308,Lab Results API,standard,Integration,99.5,2026-05
+2751,SRV-007,2026-05-24,37.16,34.04,40.13,666,6195,Notification Service,low,Platform,99.0,2026-05
+2752,SRV-008,2026-05-24,61.74,70.9,45.39,3213,18846,Authentication Service,critical,Security,99.9,2026-05
+2753,SRV-001,2026-05-25,38.92,42.53,41.71,1480,27693,Patient Portal,standard,Patient Experience,99.5,2026-05
+2754,SRV-002,2026-05-25,57.45,70.2,41.24,7848,104272,Claims Processing,critical,Revenue Cycle,99.9,2026-05
+2755,SRV-003,2026-05-25,59.46,70.0,40.4,6275,75083,EHR,critical,Clinical Systems,99.9,2026-05
+2756,SRV-004,2026-05-25,30.72,37.32,42.76,1154,12759,Appointment Scheduling,standard,Patient Experience,99.5,2026-05
+2757,SRV-005,2026-05-25,63.82,57.76,42.18,7380,88788,Billing Engine,critical,Revenue Cycle,99.9,2026-05
+2758,SRV-006,2026-05-25,35.38,42.11,47.16,1432,17263,Lab Results API,standard,Integration,99.5,2026-05
+2759,SRV-007,2026-05-25,34.51,33.47,41.29,1446,17560,Notification Service,low,Platform,99.0,2026-05
+2760,SRV-008,2026-05-25,55.8,52.92,38.23,5726,57742,Authentication Service,critical,Security,99.9,2026-05
+2761,SRV-001,2026-05-26,37.72,39.7,37.13,1228,20101,Patient Portal,standard,Patient Experience,99.5,2026-05
+2762,SRV-002,2026-05-26,47.95,62.22,40.14,6163,110165,Claims Processing,critical,Revenue Cycle,99.9,2026-05
+2763,SRV-003,2026-05-26,70.81,60.52,46.93,8205,101138,EHR,critical,Clinical Systems,99.9,2026-05
+2764,SRV-004,2026-05-26,20.47,35.75,38.31,1057,13408,Appointment Scheduling,standard,Patient Experience,99.5,2026-05
+2765,SRV-005,2026-05-26,46.65,63.28,39.91,6642,113189,Billing Engine,critical,Revenue Cycle,99.9,2026-05
+2766,SRV-006,2026-05-26,24.14,30.11,42.24,1112,17245,Lab Results API,standard,Integration,99.5,2026-05
+2767,SRV-007,2026-05-26,32.16,36.63,37.26,1461,28103,Notification Service,low,Platform,99.0,2026-05
+2768,SRV-008,2026-05-26,50.61,65.61,35.75,6834,106475,Authentication Service,critical,Security,99.9,2026-05
+2769,SRV-001,2026-05-27,27.86,30.17,42.13,1206,14270,Patient Portal,standard,Patient Experience,99.5,2026-05
+2770,SRV-002,2026-05-27,66.92,66.22,42.62,5691,57706,Claims Processing,critical,Revenue Cycle,99.9,2026-05
+2771,SRV-003,2026-05-27,65.0,68.24,41.3,5892,90357,EHR,critical,Clinical Systems,99.9,2026-05
+2772,SRV-004,2026-05-27,22.85,33.5,42.39,1139,15735,Appointment Scheduling,standard,Patient Experience,99.5,2026-05
+2773,SRV-005,2026-05-27,44.48,58.59,38.07,6531,68973,Billing Engine,critical,Revenue Cycle,99.9,2026-05
+2774,SRV-006,2026-05-27,39.07,31.09,43.08,1591,22129,Lab Results API,standard,Integration,99.5,2026-05
+2775,SRV-007,2026-05-27,37.36,30.97,42.42,1345,20762,Notification Service,low,Platform,99.0,2026-05
+2776,SRV-008,2026-05-27,50.85,57.35,37.0,5054,75553,Authentication Service,critical,Security,99.9,2026-05
+2777,SRV-001,2026-05-28,39.11,34.7,35.59,1399,17014,Patient Portal,standard,Patient Experience,99.5,2026-05
+2778,SRV-002,2026-05-28,51.65,66.15,42.23,5739,62757,Claims Processing,critical,Revenue Cycle,99.9,2026-05
+2779,SRV-003,2026-05-28,61.86,60.42,41.15,6255,67276,EHR,critical,Clinical Systems,99.9,2026-05
+2780,SRV-004,2026-05-28,23.97,29.44,42.8,1177,22011,Appointment Scheduling,standard,Patient Experience,99.5,2026-05
+2781,SRV-005,2026-05-28,55.63,63.04,40.07,6869,107807,Billing Engine,critical,Revenue Cycle,99.9,2026-05
+2782,SRV-006,2026-05-28,41.66,29.54,44.05,1316,17192,Lab Results API,standard,Integration,99.5,2026-05
+2783,SRV-007,2026-05-28,40.86,29.91,38.87,1205,22374,Notification Service,low,Platform,99.0,2026-05
+2784,SRV-008,2026-05-28,54.62,64.52,41.39,6831,78151,Authentication Service,critical,Security,99.9,2026-05
+2785,SRV-001,2026-05-29,38.42,30.54,36.37,1488,28478,Patient Portal,standard,Patient Experience,99.5,2026-05
+2786,SRV-002,2026-05-29,49.99,60.55,44.18,6683,123138,Claims Processing,critical,Revenue Cycle,99.9,2026-05
+2787,SRV-003,2026-05-29,59.09,58.98,45.15,6847,111298,EHR,critical,Clinical Systems,99.9,2026-05
+2788,SRV-004,2026-05-29,25.28,29.2,39.55,1367,21908,Appointment Scheduling,standard,Patient Experience,99.5,2026-05
+2789,SRV-005,2026-05-29,57.58,67.43,41.32,5839,78531,Billing Engine,critical,Revenue Cycle,99.9,2026-05
+2790,SRV-006,2026-05-29,34.13,34.57,41.84,1169,12932,Lab Results API,standard,Integration,99.5,2026-05
+2791,SRV-007,2026-05-29,28.73,43.12,43.08,1553,18181,Notification Service,low,Platform,99.0,2026-05
+2792,SRV-008,2026-05-29,65.2,69.06,42.36,7184,129479,Authentication Service,critical,Security,99.9,2026-05
+2793,SRV-001,2026-05-30,28.4,38.71,45.98,809,6122,Patient Portal,standard,Patient Experience,99.5,2026-05
+2794,SRV-002,2026-05-30,51.79,59.76,37.79,1988,15163,Claims Processing,critical,Revenue Cycle,99.9,2026-05
+2795,SRV-003,2026-05-30,51.72,60.66,38.27,3519,27404,EHR,critical,Clinical Systems,99.9,2026-05
+2796,SRV-004,2026-05-30,31.08,34.57,38.62,602,4717,Appointment Scheduling,standard,Patient Experience,99.5,2026-05
+2797,SRV-005,2026-05-30,50.57,51.5,39.16,3207,24518,Billing Engine,critical,Revenue Cycle,99.9,2026-05
+2798,SRV-006,2026-05-30,40.9,44.65,42.79,824,6696,Lab Results API,standard,Integration,99.5,2026-05
+2799,SRV-007,2026-05-30,38.78,44.78,42.05,534,3836,Notification Service,low,Platform,99.0,2026-05
+2800,SRV-008,2026-05-30,66.76,61.91,38.38,3113,23779,Authentication Service,critical,Security,99.9,2026-05
+2801,SRV-001,2026-05-31,29.44,29.47,42.69,452,4515,Patient Portal,standard,Patient Experience,99.5,2026-05
+2802,SRV-002,2026-05-31,60.09,62.17,41.11,3537,24038,Claims Processing,critical,Revenue Cycle,99.9,2026-05
+2803,SRV-003,2026-05-31,64.27,64.58,36.78,1978,15315,EHR,critical,Clinical Systems,99.9,2026-05
+2804,SRV-004,2026-05-31,36.92,38.73,44.05,568,4526,Appointment Scheduling,standard,Patient Experience,99.5,2026-05
+2805,SRV-005,2026-05-31,49.25,63.78,44.02,3186,17363,Billing Engine,critical,Revenue Cycle,99.9,2026-05
+2806,SRV-006,2026-05-31,28.63,26.93,40.32,710,3877,Lab Results API,standard,Integration,99.5,2026-05
+2807,SRV-007,2026-05-31,36.73,30.91,39.99,680,4085,Notification Service,low,Platform,99.0,2026-05
+2808,SRV-008,2026-05-31,64.45,64.52,44.23,3123,22795,Authentication Service,critical,Security,99.9,2026-05
+2809,SRV-001,2026-06-01,24.13,30.43,45.92,1319,20356,Patient Portal,standard,Patient Experience,99.5,2026-06
+2810,SRV-002,2026-06-01,54.33,72.72,47.64,6995,139898,Claims Processing,critical,Revenue Cycle,99.9,2026-06
+2811,SRV-003,2026-06-01,49.14,55.34,42.17,7575,120403,EHR,critical,Clinical Systems,99.9,2026-06
+2812,SRV-004,2026-06-01,25.51,34.18,43.43,1423,17706,Appointment Scheduling,standard,Patient Experience,99.5,2026-06
+2813,SRV-005,2026-06-01,67.47,63.46,39.0,5636,90408,Billing Engine,critical,Revenue Cycle,99.9,2026-06
+2814,SRV-006,2026-06-01,36.79,34.82,40.84,1435,25899,Lab Results API,standard,Integration,99.5,2026-06
+2815,SRV-007,2026-06-01,20.88,36.44,41.92,1360,14530,Notification Service,low,Platform,99.0,2026-06
+2816,SRV-008,2026-06-01,61.81,57.16,39.54,6306,86711,Authentication Service,critical,Security,99.9,2026-06
+2817,SRV-001,2026-06-02,34.5,33.7,45.57,1253,17597,Patient Portal,standard,Patient Experience,99.5,2026-06
+2818,SRV-002,2026-06-02,63.16,57.0,42.23,6102,100314,Claims Processing,critical,Revenue Cycle,99.9,2026-06
+2819,SRV-003,2026-06-02,47.54,62.52,41.69,6688,77059,EHR,critical,Clinical Systems,99.9,2026-06
+2820,SRV-004,2026-06-02,24.91,33.53,42.65,1165,11663,Appointment Scheduling,standard,Patient Experience,99.5,2026-06
+2821,SRV-005,2026-06-02,61.65,61.68,44.55,8492,127115,Billing Engine,critical,Revenue Cycle,99.9,2026-06
+2822,SRV-006,2026-06-02,41.2,37.15,45.69,1325,26114,Lab Results API,standard,Integration,99.5,2026-06
+2823,SRV-007,2026-06-02,24.97,42.43,40.57,1314,13250,Notification Service,low,Platform,99.0,2026-06
+2824,SRV-008,2026-06-02,57.83,66.63,39.75,5395,91780,Authentication Service,critical,Security,99.9,2026-06
+2825,SRV-001,2026-06-03,22.64,32.92,36.46,1102,17979,Patient Portal,standard,Patient Experience,99.5,2026-06
+2826,SRV-002,2026-06-03,59.03,58.64,43.62,6322,119066,Claims Processing,critical,Revenue Cycle,99.9,2026-06
+2827,SRV-003,2026-06-03,57.22,54.74,37.49,6043,63680,EHR,critical,Clinical Systems,99.9,2026-06
+2828,SRV-004,2026-06-03,25.26,28.92,36.73,1062,19954,Appointment Scheduling,standard,Patient Experience,99.5,2026-06
+2829,SRV-005,2026-06-03,57.32,74.16,45.71,8718,141854,Billing Engine,critical,Revenue Cycle,99.9,2026-06
+2830,SRV-006,2026-06-03,21.92,26.85,42.03,1480,25386,Lab Results API,standard,Integration,99.5,2026-06
+2831,SRV-007,2026-06-03,34.56,32.6,37.56,1469,26029,Notification Service,low,Platform,99.0,2026-06
+2832,SRV-008,2026-06-03,71.08,62.57,43.13,5791,108599,Authentication Service,critical,Security,99.9,2026-06
+2833,SRV-001,2026-06-04,40.82,44.61,42.85,1240,20261,Patient Portal,standard,Patient Experience,99.5,2026-06
+2834,SRV-002,2026-06-04,67.6,56.54,38.57,5957,81369,Claims Processing,critical,Revenue Cycle,99.9,2026-06
+2835,SRV-003,2026-06-04,67.48,73.31,47.13,6523,120371,EHR,critical,Clinical Systems,99.9,2026-06
+2836,SRV-004,2026-06-04,28.04,41.97,37.65,1562,23972,Appointment Scheduling,standard,Patient Experience,99.5,2026-06
+2837,SRV-005,2026-06-04,52.52,54.09,41.13,7229,120592,Billing Engine,critical,Revenue Cycle,99.9,2026-06
+2838,SRV-006,2026-06-04,29.74,27.16,39.26,1242,22470,Lab Results API,standard,Integration,99.5,2026-06
+2839,SRV-007,2026-06-04,42.93,43.36,48.6,1672,21335,Notification Service,low,Platform,99.0,2026-06
+2840,SRV-008,2026-06-04,63.87,64.82,41.94,6062,93705,Authentication Service,critical,Security,99.9,2026-06
+2841,SRV-001,2026-06-05,39.14,40.92,40.93,1344,14522,Patient Portal,standard,Patient Experience,99.5,2026-06
+2842,SRV-002,2026-06-05,47.33,55.64,36.45,6168,119205,Claims Processing,critical,Revenue Cycle,99.9,2026-06
+2843,SRV-003,2026-06-05,58.41,67.99,47.96,8525,95953,EHR,critical,Clinical Systems,99.9,2026-06
+2844,SRV-004,2026-06-05,26.74,31.02,37.83,1434,26940,Appointment Scheduling,standard,Patient Experience,99.5,2026-06
+2845,SRV-005,2026-06-05,62.79,73.15,41.68,6639,108693,Billing Engine,critical,Revenue Cycle,99.9,2026-06
+2846,SRV-006,2026-06-05,35.94,42.33,42.42,1302,23249,Lab Results API,standard,Integration,99.5,2026-06
+2847,SRV-007,2026-06-05,27.88,36.47,40.93,1315,14306,Notification Service,low,Platform,99.0,2026-06
+2848,SRV-008,2026-06-05,59.2,61.32,41.51,6467,69863,Authentication Service,critical,Security,99.9,2026-06
+2849,SRV-001,2026-06-06,25.49,39.74,39.26,499,3336,Patient Portal,standard,Patient Experience,99.5,2026-06
+2850,SRV-002,2026-06-06,55.98,70.25,42.94,2441,12995,Claims Processing,critical,Revenue Cycle,99.9,2026-06
+2851,SRV-003,2026-06-06,61.3,62.68,39.08,2875,18107,EHR,critical,Clinical Systems,99.9,2026-06
+2852,SRV-004,2026-06-06,30.46,32.12,41.48,446,2433,Appointment Scheduling,standard,Patient Experience,99.5,2026-06
+2853,SRV-005,2026-06-06,59.85,62.55,46.32,2330,20110,Billing Engine,critical,Revenue Cycle,99.9,2026-06
+2854,SRV-006,2026-06-06,21.57,38.11,37.34,628,6126,Lab Results API,standard,Integration,99.5,2026-06
+2855,SRV-007,2026-06-06,38.31,32.14,39.25,689,5656,Notification Service,low,Platform,99.0,2026-06
+2856,SRV-008,2026-06-06,50.51,57.13,39.98,4082,24525,Authentication Service,critical,Security,99.9,2026-06
+2857,SRV-001,2026-06-07,33.67,38.45,43.71,812,4385,Patient Portal,standard,Patient Experience,99.5,2026-06
+2858,SRV-002,2026-06-07,53.0,59.72,43.1,4165,37761,Claims Processing,critical,Revenue Cycle,99.9,2026-06
+2859,SRV-003,2026-06-07,61.91,60.85,37.63,3548,31256,EHR,critical,Clinical Systems,99.9,2026-06
+2860,SRV-004,2026-06-07,23.37,40.57,45.39,724,6820,Appointment Scheduling,standard,Patient Experience,99.5,2026-06
+2861,SRV-005,2026-06-07,65.85,57.8,41.33,3789,37712,Billing Engine,critical,Revenue Cycle,99.9,2026-06
+2862,SRV-006,2026-06-07,28.43,39.06,42.39,838,6145,Lab Results API,standard,Integration,99.5,2026-06
+2863,SRV-007,2026-06-07,39.66,42.96,43.37,441,4317,Notification Service,low,Platform,99.0,2026-06
+2864,SRV-008,2026-06-07,54.62,56.96,38.49,2919,17024,Authentication Service,critical,Security,99.9,2026-06
+2865,SRV-001,2026-06-08,39.68,35.83,44.22,1351,24039,Patient Portal,standard,Patient Experience,99.5,2026-06
+2866,SRV-002,2026-06-08,51.47,60.67,40.29,6684,95364,Claims Processing,critical,Revenue Cycle,99.9,2026-06
+2867,SRV-003,2026-06-08,60.14,68.46,42.47,7782,87919,EHR,critical,Clinical Systems,99.9,2026-06
+2868,SRV-004,2026-06-08,32.69,38.59,41.1,1228,18188,Appointment Scheduling,standard,Patient Experience,99.5,2026-06
+2869,SRV-005,2026-06-08,62.75,66.45,46.64,5818,109279,Billing Engine,critical,Revenue Cycle,99.9,2026-06
+2870,SRV-006,2026-06-08,24.61,42.9,40.5,1257,12757,Lab Results API,standard,Integration,99.5,2026-06
+2871,SRV-007,2026-06-08,34.25,42.1,43.66,1679,17318,Notification Service,low,Platform,99.0,2026-06
+2872,SRV-008,2026-06-08,51.37,65.65,37.78,7090,86022,Authentication Service,critical,Security,99.9,2026-06
+2873,SRV-001,2026-06-09,25.42,42.93,38.9,1380,24692,Patient Portal,standard,Patient Experience,99.5,2026-06
+2874,SRV-002,2026-06-09,61.67,60.69,40.43,6543,91498,Claims Processing,critical,Revenue Cycle,99.9,2026-06
+2875,SRV-003,2026-06-09,56.91,62.54,43.38,5592,90576,EHR,critical,Clinical Systems,99.9,2026-06
+2876,SRV-004,2026-06-09,31.93,41.45,42.57,1368,26533,Appointment Scheduling,standard,Patient Experience,99.5,2026-06
+2877,SRV-005,2026-06-09,55.44,61.81,42.8,7057,91613,Billing Engine,critical,Revenue Cycle,99.9,2026-06
+2878,SRV-006,2026-06-09,21.95,34.08,36.31,1120,11719,Lab Results API,standard,Integration,99.5,2026-06
+2879,SRV-007,2026-06-09,40.58,39.49,43.78,1631,20910,Notification Service,low,Platform,99.0,2026-06
+2880,SRV-008,2026-06-09,61.6,54.78,40.49,5736,65215,Authentication Service,critical,Security,99.9,2026-06
+2881,SRV-001,2026-06-10,28.26,30.24,39.27,1261,13960,Patient Portal,standard,Patient Experience,99.5,2026-06
+2882,SRV-002,2026-06-10,64.87,56.51,38.37,7671,80303,Claims Processing,critical,Revenue Cycle,99.9,2026-06
+2883,SRV-003,2026-06-10,63.8,57.55,40.96,6987,119778,EHR,critical,Clinical Systems,99.9,2026-06
+2884,SRV-004,2026-06-10,38.51,38.0,47.88,1318,24616,Appointment Scheduling,standard,Patient Experience,99.5,2026-06
+2885,SRV-005,2026-06-10,57.1,62.08,40.26,5558,56529,Billing Engine,critical,Revenue Cycle,99.9,2026-06
+2886,SRV-006,2026-06-10,35.59,40.39,39.0,1404,16222,Lab Results API,standard,Integration,99.5,2026-06
+2887,SRV-007,2026-06-10,38.39,40.84,44.83,1155,17006,Notification Service,low,Platform,99.0,2026-06
+2888,SRV-008,2026-06-10,56.32,68.23,45.22,5865,103835,Authentication Service,critical,Security,99.9,2026-06
+2889,SRV-001,2026-06-11,42.3,36.38,42.41,1302,17864,Patient Portal,standard,Patient Experience,99.5,2026-06
+2890,SRV-002,2026-06-11,60.14,62.0,41.07,6535,126706,Claims Processing,critical,Revenue Cycle,99.9,2026-06
+2891,SRV-003,2026-06-11,58.47,60.27,36.65,6841,69700,EHR,critical,Clinical Systems,99.9,2026-06
+2892,SRV-004,2026-06-11,27.07,39.15,43.23,1242,15899,Appointment Scheduling,standard,Patient Experience,99.5,2026-06
+2893,SRV-005,2026-06-11,61.39,59.7,41.22,5992,87524,Billing Engine,critical,Revenue Cycle,99.9,2026-06
+2894,SRV-006,2026-06-11,30.09,28.2,38.33,1136,18770,Lab Results API,standard,Integration,99.5,2026-06
+2895,SRV-007,2026-06-11,35.18,32.64,43.68,1127,12371,Notification Service,low,Platform,99.0,2026-06
+2896,SRV-008,2026-06-11,67.23,62.19,42.92,7604,98586,Authentication Service,critical,Security,99.9,2026-06
+2897,SRV-001,2026-06-12,26.18,39.14,40.66,1343,18578,Patient Portal,standard,Patient Experience,99.5,2026-06
+2898,SRV-002,2026-06-12,49.61,56.44,41.63,6868,96346,Claims Processing,critical,Revenue Cycle,99.9,2026-06
+2899,SRV-003,2026-06-12,55.03,60.72,42.1,7644,110738,EHR,critical,Clinical Systems,99.9,2026-06
+2900,SRV-004,2026-06-12,24.58,35.25,44.53,1441,16482,Appointment Scheduling,standard,Patient Experience,99.5,2026-06
+2901,SRV-005,2026-06-12,70.87,71.61,48.61,6478,100311,Billing Engine,critical,Revenue Cycle,99.9,2026-06
+2902,SRV-006,2026-06-12,33.74,41.9,44.34,1242,23512,Lab Results API,standard,Integration,99.5,2026-06
+2903,SRV-007,2026-06-12,31.95,35.72,38.67,1556,26359,Notification Service,low,Platform,99.0,2026-06
+2904,SRV-008,2026-06-12,62.59,73.45,47.9,7418,91520,Authentication Service,critical,Security,99.9,2026-06
+2905,SRV-001,2026-06-13,26.77,31.9,37.26,378,3379,Patient Portal,standard,Patient Experience,99.5,2026-06
+2906,SRV-002,2026-06-13,70.07,67.28,41.16,2528,17925,Claims Processing,critical,Revenue Cycle,99.9,2026-06
+2907,SRV-003,2026-06-13,63.5,60.65,38.95,3688,32758,EHR,critical,Clinical Systems,99.9,2026-06
+2908,SRV-004,2026-06-13,34.94,38.95,40.34,417,3072,Appointment Scheduling,standard,Patient Experience,99.5,2026-06
+2909,SRV-005,2026-06-13,59.58,67.89,41.9,2403,22234,Billing Engine,critical,Revenue Cycle,99.9,2026-06
+2910,SRV-006,2026-06-13,39.87,33.14,44.89,521,4806,Lab Results API,standard,Integration,99.5,2026-06
+2911,SRV-007,2026-06-13,39.3,40.1,39.55,702,4142,Notification Service,low,Platform,99.0,2026-06
+2912,SRV-008,2026-06-13,54.89,68.08,43.66,2339,12572,Authentication Service,critical,Security,99.9,2026-06
+2913,SRV-001,2026-06-14,29.45,42.09,41.53,454,3386,Patient Portal,standard,Patient Experience,99.5,2026-06
+2914,SRV-002,2026-06-14,49.8,59.79,42.56,3105,17295,Claims Processing,critical,Revenue Cycle,99.9,2026-06
+2915,SRV-003,2026-06-14,58.22,62.35,38.76,2689,26083,EHR,critical,Clinical Systems,99.9,2026-06
+2916,SRV-004,2026-06-14,42.92,31.13,45.31,780,4630,Appointment Scheduling,standard,Patient Experience,99.5,2026-06
+2917,SRV-005,2026-06-14,68.16,75.43,48.56,3918,19862,Billing Engine,critical,Revenue Cycle,99.9,2026-06
+2918,SRV-006,2026-06-14,42.39,34.75,45.16,663,3571,Lab Results API,standard,Integration,99.5,2026-06
+2919,SRV-007,2026-06-14,22.33,29.61,41.49,759,3868,Notification Service,low,Platform,99.0,2026-06
+2920,SRV-008,2026-06-14,66.63,59.13,38.11,3656,18999,Authentication Service,critical,Security,99.9,2026-06

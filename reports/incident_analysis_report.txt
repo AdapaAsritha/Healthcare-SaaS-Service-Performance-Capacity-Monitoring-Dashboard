@@ -1,0 +1,47 @@
+=======================================================
+INCIDENT ANALYSIS & PLATFORM AVAILABILITY REPORT
+=======================================================
+
+1. EXECUTIVE SUMMARY
+--------------------
+- Total Incidents Analyzed: 500
+- Overall Platform Availability: 99.061%
+- Total SLA Breaches in Period: 89
+- Top 3 Services by Downtime: Notification Service, EHR, Lab Results API
+
+2. KEY FINDINGS
+---------------
+- Notification Service experienced the most downtime, primarily driven by critical severity (P1/P2) incidents.
+- The platform maintains an overall healthy uptime, but isolated services frequently breach SLA targets.
+- Application-related incidents constitute the majority (53.6%) of all incidents.
+- Peak incident volume occurs during mid-day weekday hours (10 AM - 2 PM).
+- Mean Time to Resolve (MTTR) varies significantly between standard and critical tiers, indicating inconsistent escalation processes.
+
+3. ROOT CAUSE ANALYSIS
+----------------------
+Category Breakdown:
+- Application: 53.6%
+- Database: 18.2%
+- Infrastructure: 14.6%
+- Network: 13.6%
+
+Most common time for incidents: Weekdays around 2 PM.
+
+4. RECOMMENDATIONS (ITIL ALIGNED)
+---------------------------------
+- Incident Management: Standardize P1 escalation runbooks across all service teams to reduce MTTR.
+- Problem Management: Initiate deep-dive RCA for Application category incidents on the top 2 services.
+- Event Management: Implement proactive monitoring thresholds for CPU/Memory to detect anomalies before P1 incidents occur.
+- Capacity Management: Review resource allocations for critical services experiencing high incident volume during business hours.
+- Continual Service Improvement: Conduct monthly SLA reviews with team owners of 'High Risk' services.
+
+5. RISK REGISTER (HIGH RISK SERVICES)
+-------------------------------------
+- Appointment Scheduling (Risk: High, Breach Rate: 91.7%): Recommend immediate architecture review.
+- Authentication Service (Risk: High, Breach Rate: 100.0%): Recommend immediate architecture review.
+- Billing Engine (Risk: High, Breach Rate: 108.3%): Recommend immediate architecture review.
+- Claims Processing (Risk: High, Breach Rate: 108.3%): Recommend immediate architecture review.
+- EHR (Risk: High, Breach Rate: 108.3%): Recommend immediate architecture review.
+- Lab Results API (Risk: High, Breach Rate: 91.7%): Recommend immediate architecture review.
+- Notification Service (Risk: High, Breach Rate: 66.7%): Recommend immediate architecture review.
+- Patient Portal (Risk: High, Breach Rate: 66.7%): Recommend immediate architecture review.

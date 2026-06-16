@@ -1,0 +1,9 @@
+service_name,total_breaches
+EHR,13
+Claims Processing,13
+Billing Engine,13
+Authentication Service,12
+Lab Results API,11
+Appointment Scheduling,11
+Patient Portal,8
+Notification Service,8

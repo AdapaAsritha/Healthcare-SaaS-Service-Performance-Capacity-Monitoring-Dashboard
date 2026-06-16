@@ -1,0 +1,6 @@
+service_name,total_downtime_minutes
+Notification Service,6542
+EHR,5830
+Lab Results API,5270
+Claims Processing,4908
+Authentication Service,4735

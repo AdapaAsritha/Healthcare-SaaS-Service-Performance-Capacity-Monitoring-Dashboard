@@ -1,0 +1,9 @@
+service_name,total_breaches,avg_mttr_hours,total_p1_incidents,breach_rate_pct,risk_level
+Appointment Scheduling,11,1.1938461538461538,0,91.66666666666666,High Risk
+Authentication Service,12,1.1053846153846154,6,100.0,High Risk
+Billing Engine,13,1.2153846153846155,1,108.33333333333333,High Risk
+Claims Processing,13,1.1707692307692308,2,108.33333333333333,High Risk
+EHR,13,1.6184615384615384,9,108.33333333333333,High Risk
+Lab Results API,11,1.5899999999999999,2,91.66666666666666,High Risk
+Notification Service,8,1.5684615384615386,3,66.66666666666666,High Risk
+Patient Portal,8,1.0961538461538463,2,66.66666666666666,High Risk

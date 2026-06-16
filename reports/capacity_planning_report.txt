@@ -1,0 +1,57 @@
+=======================================================
+CAPACITY PLANNING & SCALING RECOMMENDATIONS
+=======================================================
+
+1. CAPACITY PLANNING SUMMARY
+----------------------------
+- Total Services Analyzed: 8
+- Services at CRITICAL RISK: 0
+- Services at HIGH RISK: 0
+
+2. SERVICE-BY-SERVICE FORECAST SUMMARY
+--------------------------------------
+
+Service: Patient Portal (LOW RISK, Score: 0)
+  - CPU (Current -> 90d): 31.5% -> 33.2%
+  - Recommendation: No action needed
+
+Service: Claims Processing (LOW RISK, Score: 10)
+  - CPU (Current -> 90d): 57.2% -> 60.1%
+  - Recommendation: No action needed
+
+Service: EHR (LOW RISK, Score: 10)
+  - CPU (Current -> 90d): 59.2% -> 70.5%
+  - Recommendation: No action needed
+
+Service: Appointment Scheduling (LOW RISK, Score: 0)
+  - CPU (Current -> 90d): 29.6% -> 32.7%
+  - Recommendation: No action needed
+
+Service: Billing Engine (MEDIUM RISK, Score: 35)
+  - CPU (Current -> 90d): 58.4% -> 67.8%
+  - Recommendation: Monitor closely
+
+Service: Lab Results API (LOW RISK, Score: 0)
+  - CPU (Current -> 90d): 32.5% -> 34.0%
+  - Recommendation: No action needed
+
+Service: Notification Service (LOW RISK, Score: 0)
+  - CPU (Current -> 90d): 33.7% -> 38.9%
+  - Recommendation: No action needed
+
+Service: Authentication Service (LOW RISK, Score: 10)
+  - CPU (Current -> 90d): 58.7% -> 67.1%
+  - Recommendation: No action needed
+
+3. CAPACITY ROADMAP
+-------------------
+- 0-30 Days: Execute scaling for CRITICAL risk services.
+- 31-60 Days: Review architectural bottlenecks for HIGH risk services.
+- 61-90 Days: Monitor actuals against Prophet forecast models to tune accuracy.
+
+4. ITIL-ALIGNED RECOMMENDATIONS
+-------------------------------
+- Problem Management: Investigate root causes driving MoM capacity growth on standard tier services.
+- Change Management: Schedule scaling operations during low-traffic windows to avoid SLA impact.
+- Availability Management: Update auto-scaling threshold rules based on new predictive models.
+- Continual Service Improvement: Refresh forecasting models monthly.

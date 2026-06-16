@@ -1,0 +1,9 @@
+service_id,service_name,service_tier,team_owner,sla_uptime_target_pct
+SRV-001,Patient Portal,standard,Patient Experience,99.5
+SRV-002,Claims Processing,critical,Revenue Cycle,99.9
+SRV-003,EHR,critical,Clinical Systems,99.9
+SRV-004,Appointment Scheduling,standard,Patient Experience,99.5
+SRV-005,Billing Engine,critical,Revenue Cycle,99.9
+SRV-006,Lab Results API,standard,Integration,99.5
+SRV-007,Notification Service,low,Platform,99.0
+SRV-008,Authentication Service,critical,Security,99.9
