@@ -21,6 +21,7 @@
 - [Skills Demonstrated](#-skills-demonstrated)
 - [How to Run](#-how-to-run)
 - [SQL Schema](#-sql-schema)
+- [ScreenShots](#-screenshots)
 - [Author](#-author)
 
 ---
