@@ -201,12 +201,12 @@ CREATE TABLE IF NOT EXISTS services (
 ## 📸 ScreenShots
 
 ```Screenshots of the Dashboard Output
+```
 
 <img width="3300" height="2550" alt="healthcare_saas_dashboard_page-0001" src="https://github.com/user-attachments/assets/7943463c-ba6d-41a7-8a20-0a9671dd06ea" />
 <img width="3300" height="2550" alt="healthcare_saas_dashboard_page-0002" src="https://github.com/user-attachments/assets/5fb49314-dd81-4fdc-8152-19a1a9d1cb99" />
 <img width="3300" height="2550" alt="healthcare_saas_dashboard_page-0003" src="https://github.com/user-attachments/assets/e7274a00-6b0e-458e-bedf-d389d989d3f3" />
 
-```
 
 
 
