@@ -198,11 +198,16 @@ CREATE TABLE IF NOT EXISTS services (
 
 ---
 
+## 📸 ScreenShots
+
+<img width="3300" height="2550" alt="healthcare_saas_dashboard_page-0003" src="https://github.com/user-attachments/assets/8adcf032-65a6-4cdc-835c-cba1ddcaa5e6" />
+<img width="3300" height="2550" alt="healthcare_saas_dashboard_page-0002" src="https://github.com/user-attachments/assets/e5e8f55b-7e94-4702-a5fe-91d878c67765" />
+<img width="3300" height="2550" alt="healthcare_saas_dashboard_page-0001" src="https://github.com/user-attachments/assets/7fdcc5a1-6429-48b5-8115-de975a5f87cb" />
+
+
 ## 👤 Author
 
-**[Your Name Here]**
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: [Your GitHub URL]
-- Portfolio: [Your Website URL]
+**Aasritha Adapa**
+- Email: [aasrithaadapa@gmail.comL]
 
 *Built for the Service Performance Analyst role application.*
